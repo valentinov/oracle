@@ -40,7 +40,7 @@ CREATE TABLE ListingsDetails (
   City VARCHAR2(50) NOT NULL,
   County VARCHAR2(50) NOT NULL,
   ZipCode VARCHAR2(20) NOT NULL,
-  CONSTRAINT FK_ListingAmenities_Listing FOREIGN KEY (ListingID) REFERENCES Listings (ListingID),
+  CONSTRAINT FK_Listings_ListingID FOREIGN KEY (ListingID) REFERENCES Listings (ListingID),
 );
 
 CREATE TABLE Users (
@@ -93,16 +93,17 @@ CREATE TABLE Invoices (
   TotalAmount DECIMAL(10,2) NOT NULL,
   CONSTRAINT PK_Invoices_InvoiceID PRIMARY KEY (InvoiceID),
   CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES Bookings(BookingID),
+  REFERENCES Bookings (BookingID)
 );
 
 CREATE TABLE Reviews (
   ReviewID NUMBER,
   UserID NUMBER NOT NULL,
-  ListingID NUMBER NOT NULL,
+  BookingID NUMBER NOT NULL,
   Rating DECIMAL(4,2) NOT NULL,
   Comment VARCHAR2(250),
   ReviewDate DATE NOT NULL,
   CONSTRAINT PK_Reviews_ReviewID PRIMARY KEY (ReviewID),
   CONSTRAINT FK_UserID FOREIGN KEY (UserID) REFERENCES Users(UserID),
-  CONSTRAINT FK_ListingID FOREIGN KEY (ListingID) REFERENCES Listings(ListingID)
+  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES Bookings(BookingID)
 );
