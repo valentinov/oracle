@@ -29,13 +29,15 @@ CREATE TABLE booking_db.Amenities (
 CREATE TABLE booking_db.Listings (
   ListingID NUMBER,
   ListingTypeID NUMBER NOT NULL,
+  UserID NUMBER NOT NULL,
   Title VARCHAR2(100) NOT NULL,
   IsActive NUMBER(1) NOT NULL,
   PricePerNight NUMBER(6) NOT NULL,
   MinNight NUMBER(1) NOT NULL,
-  MaxGuests NUMBER NOT NULL,
+  MaxGuests NUMBER(4) NOT NULL,
   CONSTRAINT PK_Listings_ListingID PRIMARY KEY (ListingID),
   CONSTRAINT FK_Listings_ListingTypeID FOREIGN KEY (ListingTypeID) REFERENCES booking_db.ListingTypes (ListingTypeID),
+  CONSTRAINT FK_Listings_UserID FOREIGN KEY (UserID) REFERENCES booking_db.Users (UserID)
   CONSTRAINT CK_Listings_IsActive CHECK (IsActive IN (0,1)),
   CONSTRAINT CK_Listings_MinNight CHECK (MinNight BETWEEN 1 AND 9)
 );
@@ -88,11 +90,12 @@ CREATE TABLE booking_db.Bookings (
   Catering VARCHAR2(10) NOT NULL,
   CheckInDate DATE NOT NULL,
   CheckOutDate DATE NOT NULL,
-  NumAdults NUMBER NOT NULL,
-  NumChildren NUMBER NOT NULL,
+  NumAdults NUMBER(3) NOT NULL,
+  NumChildren NUMBER(3) NOT NULL,
   PaymentMethod VARCHAR2(20) NOT NULL,
   CONSTRAINT PK_Booking_BookingID PRIMARY KEY (BookingID),
-  CONSTRAINT FK_Booking_ListingID (ListingID) REFERENCES booking_db.Listings(ListingID)
+  CONSTRAINT FK_Booking_ListingID (ListingID) REFERENCES booking_db.Listings(ListingID),
+  CONSTRAINT FK_Booking_UserID (UserID) REFERENCES booking_db.Users(UserID),
   CONSTRAINT CK_Booking_PaymentMethod CHECK (PaymentMethod IN ('cash','SZÉP card','debit card','credit card','bank transfer')),
   CONSTRAINT CK_Booking_Catering CHECK (Catering IN ('none','breakfast','half-board')),
   CONSTRAINT CK_Booking_BookingStatus CHECK (BookingStatus IN ('pending','cancelled','confirmed','completed')),
