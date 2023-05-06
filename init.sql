@@ -46,14 +46,6 @@ CREATE TABLE booking_db.Users (
   CONSTRAINT FK_Users_RoleID FOREIGN KEY (RoleID) REFERENCES booking_db.Roles (RoleID)
 );
 
-CREATE TABLE booking_db.ListingAmenities (
-  ListingID NUMBER NOT NULL,
-  AmenityID NUMBER NOT NULL,
-  CONSTRAINT PK_ListingAmenities PRIMARY KEY (ListingID, AmenityID),
-  CONSTRAINT FK_ListingAmenities_Listing FOREIGN KEY (ListingID) REFERENCES booking_db.Listings (ListingID),
-  CONSTRAINT FK_ListingAmenities_Amenity FOREIGN KEY (AmenityID) REFERENCES booking_db.Amenities (AmenityID)
-);
-
 CREATE TABLE booking_db.Listings (
   ListingID NUMBER,
   ListingTypeID NUMBER NOT NULL,
@@ -79,6 +71,14 @@ CREATE TABLE booking_db.ListingsDetails (
   County VARCHAR2(50) NOT NULL,
   ZipCode VARCHAR2(20) NOT NULL,
   CONSTRAINT FK_Listings_ListingID FOREIGN KEY (ListingID) REFERENCES booking_db.Listings (ListingID)
+);
+
+CREATE TABLE booking_db.ListingAmenities (
+  ListingID NUMBER NOT NULL,
+  AmenityID NUMBER NOT NULL,
+  CONSTRAINT PK_ListingAmenities PRIMARY KEY (ListingID, AmenityID),
+  CONSTRAINT FK_ListingAmenities_Listing FOREIGN KEY (ListingID) REFERENCES booking_db.Listings (ListingID),
+  CONSTRAINT FK_ListingAmenities_Amenity FOREIGN KEY (AmenityID) REFERENCES booking_db.Amenities (AmenityID)
 );
 
 CREATE TABLE booking_db.Bookings (
