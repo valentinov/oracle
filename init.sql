@@ -28,7 +28,7 @@ CREATE TABLE booking_db.Roles (
   RoleID NUMBER,
   RoleName VARCHAR2(50) NOT NULL,
   CONSTRAINT PK_Roles_RoleID PRIMARY KEY (RoleID),
-  CONSTRAINT CK_Roles_RoleName CHECK (Status IN ('admin','contributor','customer'))
+  CONSTRAINT CK_Roles_RoleName CHECK (RoleName IN ('admin','contributor','customer'))
 );
 
 CREATE TABLE booking_db.Users (
