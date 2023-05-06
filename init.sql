@@ -12,7 +12,7 @@ GRANT CREATE TRIGGER TO booking_db;
 GRANT CREATE PROCEDURE TO booking_db;
 GRANT UNLIMITED TABLESPACE TO booking_db;
 
-CREATE TABLE ListingAmenities (
+CREATE TABLE booking_db.ListingAmenities (
   ListingID NUMBER NOT NULL,
   AmenityID NUMBER NOT NULL,
   CONSTRAINT PK_ListingAmenities PRIMARY KEY (ListingID, AmenityID),
@@ -20,13 +20,13 @@ CREATE TABLE ListingAmenities (
   CONSTRAINT FK_ListingAmenities_Amenity FOREIGN KEY (AmenityID) REFERENCES Amenities (AmenityID)
 );
 
-CREATE TABLE Amenities (
+CREATE TABLE booking_db.Amenities (
   AmenityID NUMBER,
   AmenityName VARCHAR2(50) NOT NULL
   CONSTRAINT PK_Amenities_AmenityID PRIMARY KEY (AmenityID)
 );
 
-CREATE TABLE Listings (
+CREATE TABLE booking_db.Listings (
   ListingID NUMBER,
   ListingTypeID NUMBER NOT NULL,
   Title VARCHAR2(100) NOT NULL,
@@ -40,13 +40,13 @@ CREATE TABLE Listings (
   CONSTRAINT CK_Listings_MinNight CHECK (MinNight BETWEEN 1 AND 9)
 );
 
-CREATE TABLE ListingTypes (
+CREATE TABLE booking_db.ListingTypes (
   ListingTypeID NUMBER,
   ListingTypeName VARCHAR2(100) NOT NULL,
   CONSTRAINT PK_ListingTypes_ListingTypeID PRIMARY KEY (ListingTypeID)
 );
 
-CREATE TABLE ListingsDetails (
+CREATE TABLE booking_db.ListingsDetails (
   ListingID NUMBER NOT NULL,
   Email VARCHAR2(50) NOT NULL,
   Phone VARCHAR2(20) NOT NULL,
@@ -57,7 +57,7 @@ CREATE TABLE ListingsDetails (
   CONSTRAINT FK_Listings_ListingID FOREIGN KEY (ListingID) REFERENCES Listings (ListingID),
 );
 
-CREATE TABLE Users (
+CREATE TABLE booking_db.Users (
   UserID NUMBER,
   RoleID NUMBER NOT NULL,
   FirstName VARCHAR2(100) NOT NULL,
@@ -72,14 +72,14 @@ CREATE TABLE Users (
   CONSTRAINT FK_Users_RoleID FOREIGN KEY (RoleID) REFERENCES Roles (RoleID),
 );
 
-CREATE TABLE Roles (
+CREATE TABLE booking_db.Roles (
   RoleID NUMBER,
   RoleName VARCHAR2(50) NOT NULL,
   CONSTRAINT PK_Roles_RoleID PRIMARY KEY (RoleID),
   CONSTRAINT CK_Roles_RoleName CHECK (Status IN ('admin','contributor','customer'))
 );
 
-CREATE TABLE Bookings (
+CREATE TABLE booking_db.Bookings (
   BookingID NUMBER,
   UserID NUMBER NOT NULL,
   ListingID NUMBER NOT NULL,
@@ -99,7 +99,7 @@ CREATE TABLE Bookings (
   CONSTRAINT CK_Bookings_CheckOutCheckInDate CHECK (CheckOutDate > CheckInDate)
 );
 
-CREATE TABLE Invoices (
+CREATE TABLE booking_db.Invoices (
   InvoiceID NUMBER,
   BookingID NUMBER NOT NULL,
   CreatedDate DATE NOT NULL,
@@ -109,7 +109,7 @@ CREATE TABLE Invoices (
   CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES Bookings(BookingID)
 );
 
-CREATE TABLE Reviews (
+CREATE TABLE booking_db.Reviews (
   ReviewID NUMBER,
   UserID NUMBER NOT NULL,
   BookingID NUMBER NOT NULL,
