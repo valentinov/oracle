@@ -12,18 +12,46 @@ GRANT CREATE TRIGGER TO booking_db;
 GRANT CREATE PROCEDURE TO booking_db;
 GRANT UNLIMITED TABLESPACE TO booking_db;
 
+CREATE TABLE booking_db.Amenities (
+  AmenityID NUMBER,
+  AmenityName VARCHAR2(50) NOT NULL,
+  CONSTRAINT PK_Amenities_AmenityID PRIMARY KEY (AmenityID)
+);
+
+CREATE TABLE booking_db.ListingTypes (
+  ListingTypeID NUMBER,
+  ListingTypeName VARCHAR2(100) NOT NULL,
+  CONSTRAINT PK_ListingTypes_ListingTypeID PRIMARY KEY (ListingTypeID)
+);
+
+CREATE TABLE booking_db.Roles (
+  RoleID NUMBER,
+  RoleName VARCHAR2(50) NOT NULL,
+  CONSTRAINT PK_Roles_RoleID PRIMARY KEY (RoleID),
+  CONSTRAINT CK_Roles_RoleName CHECK (Status IN ('admin','contributor','customer'))
+);
+
+CREATE TABLE booking_db.Users (
+  UserID NUMBER,
+  RoleID NUMBER NOT NULL,
+  FirstName VARCHAR2(100) NOT NULL,
+  LastName VARCHAR2(100) NOT NULL,
+  DateOfBirth DATE NOT NULL,
+  Created DATE NOT NULL,
+  Status VARCHAR2(8) NOT NULL,
+  Email VARCHAR2(100) NOT NULL,
+  Phone VARCHAR2(20) NOT NULL,
+  CONSTRAINT PK_Users_UserID PRIMARY KEY (UserID),
+  CONSTRAINT CK_Users_Status CHECK (Status IN ('active','inactive','suspended')),
+  CONSTRAINT FK_Users_RoleID FOREIGN KEY (RoleID) REFERENCES booking_db.Roles (RoleID)
+);
+
 CREATE TABLE booking_db.ListingAmenities (
   ListingID NUMBER NOT NULL,
   AmenityID NUMBER NOT NULL,
   CONSTRAINT PK_ListingAmenities PRIMARY KEY (ListingID, AmenityID),
   CONSTRAINT FK_ListingAmenities_Listing FOREIGN KEY (ListingID) REFERENCES booking_db.Listings (ListingID),
   CONSTRAINT FK_ListingAmenities_Amenity FOREIGN KEY (AmenityID) REFERENCES booking_db.Amenities (AmenityID)
-);
-
-CREATE TABLE booking_db.Amenities (
-  AmenityID NUMBER,
-  AmenityName VARCHAR2(50) NOT NULL,
-  CONSTRAINT PK_Amenities_AmenityID PRIMARY KEY (AmenityID)
 );
 
 CREATE TABLE booking_db.Listings (
@@ -42,12 +70,6 @@ CREATE TABLE booking_db.Listings (
   CONSTRAINT CK_Listings_MinNight CHECK (MinNight BETWEEN 1 AND 9)
 );
 
-CREATE TABLE booking_db.ListingTypes (
-  ListingTypeID NUMBER,
-  ListingTypeName VARCHAR2(100) NOT NULL,
-  CONSTRAINT PK_ListingTypes_ListingTypeID PRIMARY KEY (ListingTypeID)
-);
-
 CREATE TABLE booking_db.ListingsDetails (
   ListingID NUMBER NOT NULL,
   Email VARCHAR2(50) NOT NULL,
@@ -57,28 +79,6 @@ CREATE TABLE booking_db.ListingsDetails (
   County VARCHAR2(50) NOT NULL,
   ZipCode VARCHAR2(20) NOT NULL,
   CONSTRAINT FK_Listings_ListingID FOREIGN KEY (ListingID) REFERENCES booking_db.Listings (ListingID)
-);
-
-CREATE TABLE booking_db.Users (
-  UserID NUMBER,
-  RoleID NUMBER NOT NULL,
-  FirstName VARCHAR2(100) NOT NULL,
-  LastName VARCHAR2(100) NOT NULL,
-  DateOfBirth DATE NOT NULL,
-  Created DATE NOT NULL,
-  Status VARCHAR2(8) NOT NULL,
-  Email VARCHAR2(100) NOT NULL,
-  Phone VARCHAR2(20) NOT NULL,
-  CONSTRAINT PK_Users_UserID PRIMARY KEY (UserID),
-  CONSTRAINT CK_Users_Status CHECK (Status IN ('active','inactive','suspended')),
-  CONSTRAINT FK_Users_RoleID FOREIGN KEY (RoleID) REFERENCES booking_db.Roles (RoleID)
-);
-
-CREATE TABLE booking_db.Roles (
-  RoleID NUMBER,
-  RoleName VARCHAR2(50) NOT NULL,
-  CONSTRAINT PK_Roles_RoleID PRIMARY KEY (RoleID),
-  CONSTRAINT CK_Roles_RoleName CHECK (Status IN ('admin','contributor','customer'))
 );
 
 CREATE TABLE booking_db.Bookings (
