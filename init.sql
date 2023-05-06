@@ -92,6 +92,7 @@ CREATE TABLE booking_db.Bookings (
   NumChildren NUMBER NOT NULL,
   PaymentMethod VARCHAR2(20) NOT NULL,
   CONSTRAINT PK_Booking_BookingID PRIMARY KEY (BookingID),
+  CONSTRAINT FK_Booking_ListingID (ListingID) REFERENCES booking_db.Listings(ListingID)
   CONSTRAINT CK_Booking_PaymentMethod CHECK (PaymentMethod IN ('cash','SZÉP card','debit card','credit card','bank transfer')),
   CONSTRAINT CK_Booking_Catering CHECK (Catering IN ('none','breakfast','half-board')),
   CONSTRAINT CK_Booking_BookingStatus CHECK (BookingStatus IN ('pending','cancelled','confirmed','completed')),
