@@ -121,6 +121,6 @@ CREATE TABLE booking_db.Reviews (
   ReviewComment VARCHAR2(250),
   ReviewDate DATE NOT NULL,
   CONSTRAINT PK_Reviews_ReviewID PRIMARY KEY (ReviewID),
-  CONSTRAINT FK_UserID FOREIGN KEY (UserID) REFERENCES booking_db.Users (UserID),
-  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES booking_db.Bookings (BookingID)
+  CONSTRAINT FK_Reviews_UserID FOREIGN KEY (UserID) REFERENCES booking_db.Users (UserID),
+  CONSTRAINT FK_Reviews_BookingID FOREIGN KEY (BookingID) REFERENCES booking_db.Bookings (BookingID)
 );
