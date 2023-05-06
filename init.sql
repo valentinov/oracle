@@ -22,7 +22,7 @@ CREATE TABLE booking_db.ListingAmenities (
 
 CREATE TABLE booking_db.Amenities (
   AmenityID NUMBER,
-  AmenityName VARCHAR2(50) NOT NULL
+  AmenityName VARCHAR2(50) NOT NULL,
   CONSTRAINT PK_Amenities_AmenityID PRIMARY KEY (AmenityID)
 );
 
