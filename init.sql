@@ -1,3 +1,17 @@
+-- Create the schema
+CREATE USER booking_db
+IDENTIFIED BY my_password
+DEFAULT TABLESPACE users
+TEMPORARY TABLESPACE temp;
+
+-- Grant privileges
+GRANT CREATE SESSION TO booking_db;
+GRANT CREATE TABLE TO booking_db;
+GRANT CREATE SEQUENCE TO booking_db;
+GRANT CREATE TRIGGER TO booking_db;
+GRANT CREATE PROCEDURE TO booking_db;
+GRANT UNLIMITED TABLESPACE TO booking_db;
+
 CREATE TABLE ListingAmenities (
   ListingID NUMBER NOT NULL,
   AmenityID NUMBER NOT NULL,
@@ -21,7 +35,7 @@ CREATE TABLE Listings (
   MinNight NUMBER(1) NOT NULL,
   MaxGuests NUMBER NOT NULL,
   CONSTRAINT PK_Listings_ListingID PRIMARY KEY (ListingID),
-  CONSTRAINT FK_Listings_ListingType FOREIGN KEY (ListingTypeID) REFERENCES Listings (ListingTypeID),
+  CONSTRAINT FK_Listings_ListingTypeID FOREIGN KEY (ListingTypeID) REFERENCES ListingTypes (ListingTypeID),
   CONSTRAINT CK_Listings_IsActive CHECK (IsActive IN (0,1)),
   CONSTRAINT CK_Listings_MinNight CHECK (MinNight BETWEEN 1 AND 9)
 );
@@ -92,16 +106,15 @@ CREATE TABLE Invoices (
   PaymentDate DATE NOT NULL,
   TotalAmount DECIMAL(10,2) NOT NULL,
   CONSTRAINT PK_Invoices_InvoiceID PRIMARY KEY (InvoiceID),
-  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES Bookings(BookingID),
-  REFERENCES Bookings (BookingID)
+  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES Bookings(BookingID)
 );
 
 CREATE TABLE Reviews (
   ReviewID NUMBER,
   UserID NUMBER NOT NULL,
   BookingID NUMBER NOT NULL,
-  Rating DECIMAL(4,2) NOT NULL,
-  Comment VARCHAR2(250),
+  ReviewRating DECIMAL(4,2) NOT NULL,
+  ReviewComment VARCHAR2(250),
   ReviewDate DATE NOT NULL,
   CONSTRAINT PK_Reviews_ReviewID PRIMARY KEY (ReviewID),
   CONSTRAINT FK_UserID FOREIGN KEY (UserID) REFERENCES Users(UserID),
