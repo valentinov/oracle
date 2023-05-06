@@ -14,12 +14,16 @@ CREATE TABLE Amenities (
 
 CREATE TABLE Listings (
   ListingID NUMBER,
-  ListingTypeID NUMBER,
+  ListingTypeID NUMBER NOT NULL,
   Title VARCHAR2(100) NOT NULL,
-  PricePerNight NUMBER(5) NOT NULL,
+  IsActive NUMBER(1) NOT NULL,
+  PricePerNight NUMBER(6) NOT NULL,
+  MinNight NUMBER(1) NOT NULL,
   MaxGuests NUMBER NOT NULL,
   CONSTRAINT PK_Listings_ListingID PRIMARY KEY (ListingID),
   CONSTRAINT FK_Listings_ListingType FOREIGN KEY (ListingTypeID) REFERENCES Listings (ListingTypeID),
+  CONSTRAINT CK_Listings_IsActive CHECK (IsActive IN (0,1)),
+  CONSTRAINT CK_Listings_MinNight CHECK (MinNight BETWEEN 1 AND 9)
 );
 
 CREATE TABLE ListingTypes (
