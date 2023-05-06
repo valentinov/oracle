@@ -41,6 +41,7 @@ CREATE TABLE ListingsDetails (
 
 CREATE TABLE Users (
   UserID NUMBER,
+  RoleID NUMBER NOT NULL,
   FirstName VARCHAR2(100) NOT NULL,
   LastName VARCHAR2(100) NOT NULL,
   DateOfBirth DATE NOT NULL,
@@ -49,7 +50,8 @@ CREATE TABLE Users (
   Email VARCHAR2(100) NOT NULL,
   Phone VARCHAR2(20) NOT NULL,
   CONSTRAINT PK_Users_UserID PRIMARY KEY (UserID),
-  CONSTRAINT CK_Users_Status CHECK (Status IN ('active','inactive','suspended'))
+  CONSTRAINT CK_Users_Status CHECK (Status IN ('active','inactive','suspended')),
+  CONSTRAINT FK_Users_RoleID FOREIGN KEY (RoleID) REFERENCES Roles (RoleID),
 );
 
 CREATE TABLE Roles (
@@ -81,11 +83,12 @@ CREATE TABLE Bookings (
 
 CREATE TABLE Invoices (
   InvoiceID NUMBER,
-  BookingID NUMBER,
+  BookingID NUMBER NOT NULL,
   CreatedDate DATE NOT NULL,
   PaymentDate DATE NOT NULL,
   TotalAmount DECIMAL(10,2) NOT NULL,
-  CONSTRAINT PK_Invoices_InvoiceID PRIMARY KEY (InvoiceID)
+  CONSTRAINT PK_Invoices_InvoiceID PRIMARY KEY (InvoiceID),
+  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES Bookings(BookingID),
 );
 
 CREATE TABLE Reviews (
