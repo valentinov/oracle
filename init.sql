@@ -94,8 +94,8 @@ CREATE TABLE booking_db.Bookings (
   NumChildren NUMBER(3) NOT NULL,
   PaymentMethod VARCHAR2(20) NOT NULL,
   CONSTRAINT PK_Booking_BookingID PRIMARY KEY (BookingID),
-  CONSTRAINT FK_Booking_ListingID (ListingID) REFERENCES booking_db.Listings(ListingID),
-  CONSTRAINT FK_Booking_UserID (UserID) REFERENCES booking_db.Users(UserID),
+  CONSTRAINT FK_Booking_ListingID (ListingID) REFERENCES booking_db.Listings (ListingID),
+  CONSTRAINT FK_Booking_UserID (UserID) REFERENCES booking_db.Users (UserID),
   CONSTRAINT CK_Booking_PaymentMethod CHECK (PaymentMethod IN ('cash','SZÉP card','debit card','credit card','bank transfer')),
   CONSTRAINT CK_Booking_Catering CHECK (Catering IN ('none','breakfast','half-board')),
   CONSTRAINT CK_Booking_BookingStatus CHECK (BookingStatus IN ('pending','cancelled','confirmed','completed')),
@@ -110,7 +110,7 @@ CREATE TABLE booking_db.Invoices (
   PaymentDate DATE NOT NULL,
   TotalAmount DECIMAL(10,2) NOT NULL,
   CONSTRAINT PK_Invoices_InvoiceID PRIMARY KEY (InvoiceID),
-  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES booking_db.Bookings(BookingID)
+  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES booking_db.Bookings (BookingID)
 );
 
 CREATE TABLE booking_db.Reviews (
@@ -121,6 +121,6 @@ CREATE TABLE booking_db.Reviews (
   ReviewComment VARCHAR2(250),
   ReviewDate DATE NOT NULL,
   CONSTRAINT PK_Reviews_ReviewID PRIMARY KEY (ReviewID),
-  CONSTRAINT FK_UserID FOREIGN KEY (UserID) REFERENCES booking_db.Users(UserID),
-  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES booking_db.Bookings(BookingID)
+  CONSTRAINT FK_UserID FOREIGN KEY (UserID) REFERENCES booking_db.Users (UserID),
+  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES booking_db.Bookings (BookingID)
 );
