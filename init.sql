@@ -16,8 +16,8 @@ CREATE TABLE booking_db.ListingAmenities (
   ListingID NUMBER NOT NULL,
   AmenityID NUMBER NOT NULL,
   CONSTRAINT PK_ListingAmenities PRIMARY KEY (ListingID, AmenityID),
-  CONSTRAINT FK_ListingAmenities_Listing FOREIGN KEY (ListingID) REFERENCES Listings (ListingID),
-  CONSTRAINT FK_ListingAmenities_Amenity FOREIGN KEY (AmenityID) REFERENCES Amenities (AmenityID)
+  CONSTRAINT FK_ListingAmenities_Listing FOREIGN KEY (ListingID) REFERENCES booking_db.Listings (ListingID),
+  CONSTRAINT FK_ListingAmenities_Amenity FOREIGN KEY (AmenityID) REFERENCES booking_db.Amenities (AmenityID)
 );
 
 CREATE TABLE booking_db.Amenities (
@@ -35,7 +35,7 @@ CREATE TABLE booking_db.Listings (
   MinNight NUMBER(1) NOT NULL,
   MaxGuests NUMBER NOT NULL,
   CONSTRAINT PK_Listings_ListingID PRIMARY KEY (ListingID),
-  CONSTRAINT FK_Listings_ListingTypeID FOREIGN KEY (ListingTypeID) REFERENCES ListingTypes (ListingTypeID),
+  CONSTRAINT FK_Listings_ListingTypeID FOREIGN KEY (ListingTypeID) REFERENCES booking_db.ListingTypes (ListingTypeID),
   CONSTRAINT CK_Listings_IsActive CHECK (IsActive IN (0,1)),
   CONSTRAINT CK_Listings_MinNight CHECK (MinNight BETWEEN 1 AND 9)
 );
@@ -54,7 +54,7 @@ CREATE TABLE booking_db.ListingsDetails (
   City VARCHAR2(50) NOT NULL,
   County VARCHAR2(50) NOT NULL,
   ZipCode VARCHAR2(20) NOT NULL,
-  CONSTRAINT FK_Listings_ListingID FOREIGN KEY (ListingID) REFERENCES Listings (ListingID),
+  CONSTRAINT FK_Listings_ListingID FOREIGN KEY (ListingID) REFERENCES booking_db.Listings (ListingID),
 );
 
 CREATE TABLE booking_db.Users (
@@ -69,7 +69,7 @@ CREATE TABLE booking_db.Users (
   Phone VARCHAR2(20) NOT NULL,
   CONSTRAINT PK_Users_UserID PRIMARY KEY (UserID),
   CONSTRAINT CK_Users_Status CHECK (Status IN ('active','inactive','suspended')),
-  CONSTRAINT FK_Users_RoleID FOREIGN KEY (RoleID) REFERENCES Roles (RoleID),
+  CONSTRAINT FK_Users_RoleID FOREIGN KEY (RoleID) REFERENCES booking_db.Roles (RoleID),
 );
 
 CREATE TABLE booking_db.Roles (
@@ -106,7 +106,7 @@ CREATE TABLE booking_db.Invoices (
   PaymentDate DATE NOT NULL,
   TotalAmount DECIMAL(10,2) NOT NULL,
   CONSTRAINT PK_Invoices_InvoiceID PRIMARY KEY (InvoiceID),
-  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES Bookings(BookingID)
+  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES booking_db.Bookings(BookingID)
 );
 
 CREATE TABLE booking_db.Reviews (
@@ -117,6 +117,6 @@ CREATE TABLE booking_db.Reviews (
   ReviewComment VARCHAR2(250),
   ReviewDate DATE NOT NULL,
   CONSTRAINT PK_Reviews_ReviewID PRIMARY KEY (ReviewID),
-  CONSTRAINT FK_UserID FOREIGN KEY (UserID) REFERENCES Users(UserID),
-  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES Bookings(BookingID)
+  CONSTRAINT FK_UserID FOREIGN KEY (UserID) REFERENCES booking_db.Users(UserID),
+  CONSTRAINT FK_BookingID FOREIGN KEY (BookingID) REFERENCES booking_db.Bookings(BookingID)
 );
