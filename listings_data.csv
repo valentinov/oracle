@@ -1,0 +1,3822 @@
+ListingID,ListingTypeID,UserID,Title,IsActive,PricePerNight,MinNight,MaxGuests
+1,4,342,Charming GuestHouse,1,21800,7,4
+2,2,343,Beach House Lodge,1,7900,7,12
+3,2,345,Rustic Retreat,0,53300,7,9
+4,4,346,Deluxe Retreat,1,9900,7,6
+5,4,347,Deluxe House,1,6000,7,3
+6,4,348,Mountain Retreat Manor,1,30400,5,13
+7,1,351,Exquisite Lodge,1,37900,1,109
+8,1,353,Modern Lodge,1,9400,2,101
+9,1,354,Moonlight Hotel,1,22400,3,56
+10,4,355,Cozy Haven,1,59200,1,12
+11,4,360,Moonlight Inn,1,29900,7,4
+12,2,361,Beach House Inn,1,45500,5,12
+13,2,362,Beach House Haven,1,61600,7,12
+14,1,363,Beach House Oasis,1,22900,3,143
+15,4,368,Mirage Hideaway,1,21000,6,4
+16,2,369,Luxury Villa Cottage,1,53500,1,9
+17,3,371,Beach House GuestHouse,1,6600,5,15
+18,2,373,Beach House Inn,1,8400,1,8
+19,3,374,Charming Inn,1,7000,5,14
+20,3,375,Rustic GuestHouse,1,7400,3,21
+21,2,376,Charming House,0,13700,6,2
+22,1,378,Luxury Villa Oasis,1,5200,2,51
+23,2,379,Modern Inn,1,11700,3,9
+24,4,380,Charming Cottage,1,42300,1,3
+25,4,381,Cosy Retreat,1,10700,2,13
+26,3,382,Exalted Inn,1,10800,4,27
+27,5,384,City Loft Inn,1,52600,1,12
+28,4,386,Serene House,1,5900,3,4
+29,4,387,Deluxe House,1,6300,6,2
+30,3,390,Homely Inn,1,9000,3,18
+31,4,392,Luxury Villa House,1,26500,6,5
+32,5,394,Rustic House,1,44100,4,2
+33,1,395,Deluxe Hotel,1,7200,6,145
+34,1,396,City Loft Boutique Suites,1,8000,3,92
+35,1,397,Homely Lodge,1,53600,2,122
+36,4,400,Mirage Inn,1,7100,6,3
+37,2,402,Mirage Lodge,1,41600,5,11
+38,4,406,Balance Lodge,1,29800,6,7
+39,2,408,Exquisite Retreat,1,56000,2,8
+40,1,409,Homely Hotel,1,9600,6,114
+41,4,410,Refresh Retreat,1,37800,2,6
+42,3,415,Charming Retreat,1,9300,3,17
+43,2,417,Moonlight Haven,1,43700,6,2
+44,4,427,Rustic Haven,1,55500,3,5
+45,3,428,Balance Cottage,1,23800,4,27
+46,3,433,Grand Retreat,1,20200,6,21
+47,1,438,Cosy Hotel,1,44600,7,123
+48,1,439,Beach House Resort,1,38500,6,56
+49,1,440,Cosy Retreat,1,9300,6,83
+50,3,441,City Loft Manor,1,64100,3,23
+51,2,444,Serene House,1,9100,5,6
+52,1,445,Cosy Lodge,1,16500,5,91
+53,2,446,Mountain Retreat GuestHouse,1,5300,1,3
+54,4,447,Mountain Retreat Inn,1,31800,2,5
+55,1,449,Mountain Retreat Resort,1,33800,7,75
+56,4,450,Beach House House,1,26200,7,3
+57,5,451,Grand Lodge,1,58200,2,11
+58,4,454,City Loft Cottage,1,14300,2,7
+59,3,455,Balance Lodge,1,5200,4,26
+60,1,457,Refresh Boutique Residence,1,53100,2,93
+61,2,459,Cozy House,1,29000,3,11
+62,2,460,Moonlight Manor,1,62600,2,7
+63,5,462,Amuse GuestHouse,1,9700,6,14
+64,4,464,Cosy Cottage,1,16800,7,12
+65,3,465,City Loft Inn,1,22600,2,10
+66,2,468,Homely Manor,1,13500,4,11
+67,3,469,Rustic Manor,1,64200,3,27
+68,1,470,Balance Hotel,1,8700,1,159
+69,5,472,Balance Hideaway,1,31000,4,3
+70,2,474,Exalted GuestHouse,1,5500,1,7
+71,2,477,Beach House Lodge,0,20600,7,9
+72,2,478,Cosy Retreat,1,19100,3,12
+73,1,481,Exalted Lodge,1,9000,5,88
+74,5,482,Rustic Manor,1,25900,6,2
+75,2,486,Serene GuestHouse,1,5200,4,9
+76,4,487,Serene Hideaway,0,9700,6,2
+77,4,491,Beach House House,1,37900,3,5
+78,2,493,Refresh Cottage,1,22300,6,14
+79,4,494,Amuse GuestHouse,1,43000,7,9
+80,2,495,Mountain Retreat GuestHouse,1,54400,6,13
+81,1,496,Deluxe Residence,1,16800,5,60
+82,4,499,Beach House Lodge,1,7200,3,7
+83,2,500,Cozy Lodge,1,23300,1,13
+84,4,502,Moonlight Retreat,1,5300,5,5
+85,4,101,Homely Retreat,1,21200,3,7
+86,4,102,Homely Hideaway,1,46800,2,14
+87,4,105,Amuse Cottage,1,64600,5,5
+88,5,106,Luxury Villa House,1,6600,3,13
+89,1,109,Cosy Resort,1,5400,6,118
+90,2,110,Serene Lodge,1,42100,6,13
+91,4,111,Deluxe GuestHouse,1,31600,1,4
+92,4,112,Mountain Retreat Manor,1,54800,5,4
+93,3,113,Mirage Hideaway,1,35100,6,11
+94,5,114,Exquisite Hideaway,1,5800,2,10
+95,4,115,Mirage Inn,1,8400,3,13
+96,3,116,Refresh Haven,1,49500,6,28
+97,1,118,Mirage Boutique Residence,1,7200,7,57
+98,3,122,Charming House,1,17500,6,28
+99,1,127,Beach House Boutique Hotel,1,35600,4,134
+100,4,129,Mirage GuestHouse,1,5500,1,12
+101,1,130,Amuse Boutique Hotel,1,6800,4,72
+102,1,131,Cozy Boutique Hotel,1,43700,2,132
+103,1,132,Serene Retreat,1,33600,3,100
+104,1,133,Homely Boutique Residence,1,26900,2,95
+105,4,138,Beach House Cottage,1,5300,7,13
+106,4,139,Homely Haven,1,22300,7,10
+107,1,140,Moonlight Lodge,1,21000,4,76
+108,5,141,Rustic Retreat,1,55000,3,12
+109,1,144,Luxury Villa Hotel,1,12800,1,123
+110,4,145,Homely Cottage,1,10000,7,10
+111,1,147,Moonlight Boutique Residence,1,26900,1,99
+112,3,149,Beach House Retreat,1,5800,7,10
+113,1,151,Moonlight Lodge,1,58700,5,84
+114,1,153,Deluxe Boutique Hotel,1,43700,4,112
+115,5,154,Cozy Cottage,1,7400,4,8
+116,1,155,Cozy Hotel,1,8800,5,159
+117,4,159,Charming GuestHouse,1,47900,3,11
+118,2,162,Grand House,1,5200,6,5
+119,4,163,Balance Inn,1,37500,7,4
+120,4,164,Serene Inn,1,30300,1,6
+121,5,165,Charming Hideaway,1,20800,3,4
+122,3,170,Mountain Retreat Retreat,1,6800,7,29
+123,5,172,Moonlight Lodge,1,29100,1,4
+124,3,173,Modern Retreat,1,7000,5,11
+125,4,174,Beach House Manor,1,40400,2,7
+126,4,179,Grand Haven,1,9400,5,7
+127,3,186,Amuse Manor,1,64800,3,23
+128,4,187,Charming Cottage,1,23000,3,12
+129,4,189,Moonlight House,1,48900,2,13
+130,1,191,Amuse Boutique Residence,1,17500,3,90
+131,4,196,Moonlight GuestHouse,1,31300,7,9
+132,1,197,Cozy Resort,1,19300,3,121
+133,1,200,Moonlight Resort,1,9000,5,89
+134,3,201,Mountain Retreat Cottage,1,19600,3,22
+135,2,202,Exalted Lodge,1,8000,1,6
+136,1,203,Exalted Lodge,1,63800,4,138
+137,3,204,Homely House,1,6100,5,22
+138,3,209,Homely Inn,1,16100,4,21
+139,3,210,City Loft Lodge,1,7100,1,27
+140,4,214,Refresh Inn,1,6200,5,11
+141,1,215,Amuse Suites,1,43300,3,124
+142,1,217,Balance Retreat,1,9400,6,58
+143,1,219,Beach House Boutique Suites,1,6200,4,60
+144,2,221,City Loft Hideaway,1,17800,4,7
+145,4,222,Balance House,1,13600,5,3
+146,4,224,Exquisite Haven,1,29800,5,13
+147,4,228,Mountain Retreat Cottage,1,9800,1,3
+148,4,229,Refresh Lodge,1,45400,5,2
+149,1,230,Moonlight Boutique Hotel,1,42800,3,115
+150,5,233,Cosy Lodge,1,14900,1,13
+151,1,234,Beach House Oasis,1,8700,4,130
+152,2,235,Beach House House,1,8000,7,14
+153,2,236,Amuse Hideaway,1,28400,7,13
+154,4,238,Mountain Retreat Lodge,1,8300,4,4
+155,1,239,Amuse Oasis,1,54400,6,145
+156,3,247,Homely Lodge,1,29500,7,22
+157,1,254,Moonlight Lodge,1,14300,7,90
+158,1,255,Homely Retreat,1,21700,3,125
+159,2,256,Exquisite Haven,1,52300,5,6
+160,2,259,Cozy House,1,6900,4,2
+161,1,260,Mountain Retreat Residence,1,9600,7,119
+162,4,261,Homely Cottage,1,8400,1,7
+163,2,262,Grand Inn,1,21500,2,10
+164,4,263,Exquisite Retreat,1,8000,7,8
+165,2,266,Exalted Manor,1,56500,2,13
+166,5,267,Charming GuestHouse,1,9000,3,7
+167,2,270,Moonlight Haven,1,56700,5,9
+168,4,272,Homely Retreat,1,27900,5,12
+169,1,273,Cosy Suites,1,49500,3,101
+170,5,277,Homely Haven,1,5700,4,13
+171,5,278,Modern Lodge,1,8500,6,11
+172,3,280,Charming House,0,60300,4,22
+173,4,282,Homely Lodge,1,26100,4,8
+174,4,283,Exalted Cottage,1,50300,4,6
+175,4,284,Refresh Hideaway,1,5900,2,11
+176,5,285,Luxury Villa Hideaway,1,42400,1,12
+177,1,286,City Loft Hotel,1,12700,5,71
+178,4,287,Cosy Retreat,1,27500,6,3
+179,1,288,Grand Retreat,1,6600,5,103
+180,4,289,Homely GuestHouse,1,10000,6,4
+181,1,292,Refresh Boutique Residence,1,19400,1,123
+182,2,294,Beach House Retreat,1,8900,5,9
+183,1,297,Cozy Resort,1,62800,7,143
+184,5,298,Moonlight GuestHouse,1,35100,6,4
+185,3,300,Beach House Inn,1,9900,6,29
+186,1,302,Charming Residence,1,47100,5,152
+187,1,303,Rustic Suites,1,8300,1,100
+188,3,305,Balance Haven,1,5000,3,20
+189,1,307,Mountain Retreat Suites,1,48400,1,54
+190,1,309,Grand Resort,1,8600,2,89
+191,4,310,Homely Inn,1,39700,4,3
+192,3,311,Rustic Manor,1,28800,7,23
+193,4,312,Deluxe Retreat,1,23500,2,14
+194,2,315,Homely Manor,1,6800,5,11
+195,4,316,Mirage Cottage,1,43300,3,2
+196,5,323,Refresh GuestHouse,1,49000,4,14
+197,4,326,Deluxe Cottage,1,46700,3,3
+198,1,328,Charming Lodge,1,28300,2,68
+199,3,329,Charming Retreat,1,54100,7,10
+200,1,330,Refresh Hotel,1,57500,4,77
+201,2,331,Exquisite Retreat,1,7300,7,13
+202,1,332,City Loft Retreat,1,5300,3,100
+203,3,333,City Loft Manor,1,23700,7,24
+204,5,336,Grand Hideaway,1,7300,4,9
+205,1,337,Amuse Retreat,1,7600,3,100
+206,2,339,Cozy Retreat,1,8100,1,10
+207,2,340,Cosy Cottage,1,8200,6,10
+208,1,341,Amuse Suites,1,37600,6,158
+209,4,912,Moonlight GuestHouse,1,26900,4,4
+210,4,917,Rustic Manor,1,9000,6,13
+211,1,919,Grand Hotel,1,35800,7,57
+212,2,922,Cozy House,1,28600,4,8
+213,4,924,Mountain Retreat Hideaway,1,24200,7,11
+214,4,925,Amuse Hideaway,1,38900,1,6
+215,1,926,Beach House Retreat,1,6100,7,128
+216,1,928,Refresh Lodge,1,19200,2,86
+217,1,929,Rustic Residence,1,9800,5,86
+218,1,930,Mountain Retreat Boutique Suites,1,39000,6,103
+219,4,931,Beach House Lodge,1,8200,5,14
+220,1,932,Exquisite Resort,1,21500,3,80
+221,3,933,Cosy House,1,59800,2,24
+222,1,937,Beach House Lodge,1,30900,3,115
+223,1,938,Rustic Lodge,1,21500,6,62
+224,2,940,Mirage House,1,62800,5,7
+225,3,941,Exquisite Hideaway,1,12600,7,17
+226,2,943,Serene Haven,1,8800,2,8
+227,4,944,Mountain Retreat Inn,1,14100,1,11
+228,1,945,Mirage Boutique Hotel,1,25300,4,66
+229,1,946,Cozy Suites,1,58300,5,55
+230,4,948,Deluxe Haven,1,6500,2,5
+231,4,949,Amuse Cottage,1,9000,2,5
+232,3,950,Charming Manor,1,38900,7,11
+233,1,953,Beach House Boutique Suites,1,43900,1,103
+234,2,954,Moonlight Retreat,1,39300,7,3
+235,1,958,Luxury Villa Lodge,1,27800,1,111
+236,1,959,Exquisite Boutique Hotel,1,49000,7,62
+237,2,960,Homely Lodge,1,36500,7,10
+238,4,962,Mirage Hideaway,1,19200,6,6
+239,2,966,Exalted Retreat,1,32300,5,2
+240,1,969,Beach House Boutique Suites,1,9000,5,81
+241,4,972,Cozy Haven,1,11600,3,12
+242,5,973,Mirage Retreat,1,26000,5,6
+243,2,978,Deluxe Cottage,1,16900,6,14
+244,4,979,Refresh Manor,1,53300,3,11
+245,4,982,Luxury Villa Cottage,1,29100,7,5
+246,2,984,Cosy Lodge,1,62800,6,2
+247,2,985,Cosy Retreat,1,61800,2,10
+248,4,986,Rustic Inn,1,24900,1,5
+249,4,989,Refresh Haven,1,23500,6,9
+250,4,990,Grand Cottage,1,9600,1,4
+251,3,991,Deluxe Manor,1,8600,6,29
+252,1,993,Moonlight Resort,1,54600,7,152
+253,4,994,Luxury Villa House,1,25100,6,5
+254,5,995,Mountain Retreat Retreat,1,61800,3,14
+255,1,997,Serene Lodge,1,31900,6,106
+256,4,998,Rustic Manor,1,35200,1,10
+257,1,999,Deluxe Boutique Residence,1,12900,2,79
+258,5,1001,Refresh Retreat,1,47900,4,11
+259,2,1003,Beach House Hideaway,0,9500,1,10
+260,1,1005,Balance Lodge,1,8900,2,51
+261,1,1007,Homely Retreat,1,16100,3,115
+262,4,1009,Mirage Cottage,1,8200,1,8
+263,2,1013,Homely House,1,11100,6,13
+264,4,1015,Mountain Retreat Lodge,1,6000,6,10
+265,4,1018,Charming Haven,1,32400,6,5
+266,4,1021,Balance Hideaway,1,15100,6,8
+267,4,1023,Balance Cottage,1,41200,4,3
+268,4,1027,Amuse Hideaway,1,38200,5,4
+269,2,1028,Grand Haven,1,13000,4,2
+270,4,1031,Refresh Retreat,1,14400,3,8
+271,5,1032,Mirage Hideaway,1,5100,6,11
+272,2,1033,Beach House GuestHouse,1,41500,2,12
+273,1,1034,Mountain Retreat Residence,1,5900,3,147
+274,1,1035,Amuse Boutique Residence,1,61900,2,82
+275,4,1038,Balance Lodge,1,11800,2,14
+276,4,1040,Serene Cottage,1,18100,7,7
+277,1,1041,Exquisite Boutique Residence,1,25300,6,98
+278,1,1042,Balance Lodge,1,60800,5,105
+279,1,1043,Mountain Retreat Suites,1,16900,6,126
+280,1,1044,Serene Residence,1,47400,7,125
+281,4,1049,Balance Inn,1,26800,4,3
+282,4,1051,Balance Haven,0,21100,7,7
+283,1,1053,Cozy Boutique Suites,1,36600,6,128
+284,2,1054,Modern House,1,5900,4,8
+285,5,1055,Modern Hideaway,1,30900,6,5
+286,2,1056,Balance Inn,1,55800,4,6
+287,2,1058,Beach House Cottage,1,49200,7,9
+288,1,1061,City Loft Lodge,1,16700,4,51
+289,1,1062,Luxury Villa Lodge,1,6700,3,97
+290,5,1064,Balance Manor,1,34700,4,14
+291,4,1066,Charming Lodge,1,29700,1,14
+292,1,1069,Serene Hotel,1,8100,1,88
+293,1,1070,Mirage Hotel,1,8900,1,111
+294,4,1072,Moonlight Cottage,1,14900,3,3
+295,1,1073,Luxury Villa Boutique Suites,1,12000,5,89
+296,1,1075,Balance Boutique Hotel,1,6100,7,140
+297,4,1077,Moonlight Hideaway,1,13300,4,4
+298,1,1079,Amuse Residence,1,53200,3,68
+299,4,1080,Cosy Lodge,1,8800,6,14
+300,2,1083,Balance Manor,1,57100,6,14
+301,1,1084,Deluxe Boutique Residence,1,7900,4,64
+302,5,1086,Deluxe Manor,1,55500,3,4
+303,4,1087,Cozy Lodge,1,5700,4,10
+304,3,1089,Amuse Hideaway,1,8100,1,18
+305,1,1090,City Loft Hotel,1,22100,5,79
+306,1,1095,Cosy Hotel,1,20900,3,64
+307,4,1100,Amuse House,1,5200,6,13
+308,3,1101,Charming Cottage,1,6900,6,25
+309,1,1103,Moonlight Retreat,1,25400,2,151
+310,2,1104,Mirage Cottage,1,8200,7,4
+311,3,1106,Balance Haven,1,37600,2,11
+312,1,1110,City Loft Oasis,1,47200,7,134
+313,1,1111,City Loft Hotel,1,21400,2,117
+314,2,1114,Cozy Manor,1,50700,4,6
+315,1,1116,Cosy Boutique Suites,1,9100,3,129
+316,1,1118,Grand Lodge,1,6400,4,115
+317,1,1119,Grand Retreat,1,6500,7,157
+318,4,1121,Mirage Haven,1,52100,3,14
+319,4,1122,City Loft Cottage,1,42900,7,6
+320,2,1124,Charming GuestHouse,0,48200,3,14
+321,4,1125,Serene House,1,20700,1,12
+322,2,1129,Moonlight Hideaway,1,64700,2,2
+323,1,1130,City Loft Suites,1,60300,2,100
+324,2,1131,Serene GuestHouse,1,28000,7,4
+325,5,1132,Mirage Lodge,1,45500,1,7
+326,4,1136,Refresh Inn,1,19400,4,6
+327,4,1137,Moonlight Hideaway,1,9700,6,11
+328,1,1138,Luxury Villa Boutique Hotel,1,7900,7,53
+329,2,1139,Serene Inn,1,23000,3,2
+330,4,1140,Homely Haven,1,15900,1,12
+331,2,1143,Rustic GuestHouse,1,9200,7,4
+332,3,1145,Exalted Manor,1,29200,3,19
+333,5,1146,Amuse Retreat,1,27400,2,14
+334,4,504,Refresh Retreat,1,9500,4,4
+335,4,505,Balance Cottage,1,17800,2,3
+336,1,506,Mountain Retreat Lodge,1,9500,3,85
+337,5,511,Moonlight Hideaway,1,8800,1,12
+338,1,512,City Loft Lodge,1,20800,4,53
+339,2,513,Homely Cottage,1,48300,5,14
+340,4,514,Deluxe Hideaway,1,29600,4,2
+341,3,517,Refresh House,1,9600,4,10
+342,4,518,Refresh Inn,1,10200,4,9
+343,4,519,Amuse Hideaway,1,49100,1,6
+344,4,520,City Loft Lodge,1,34900,4,14
+345,1,521,Amuse Boutique Hotel,1,14600,3,129
+346,5,523,Luxury Villa House,1,55900,3,6
+347,4,525,Balance Manor,1,27900,5,12
+348,5,526,Beach House Lodge,1,31700,7,13
+349,2,527,Mirage House,1,5300,1,11
+350,4,528,Mirage Manor,1,6400,7,7
+351,3,529,Charming House,1,9200,5,10
+352,1,534,Grand Lodge,1,7300,7,71
+353,1,535,Moonlight Suites,1,43200,3,83
+354,2,537,City Loft Retreat,1,10000,6,5
+355,5,538,Moonlight Manor,1,8200,1,3
+356,4,541,Deluxe Cottage,1,57700,4,4
+357,5,543,Balance House,1,40700,5,6
+358,2,545,Serene Haven,1,18500,5,2
+359,4,547,Rustic House,1,6200,1,2
+360,4,548,Homely Cottage,1,8900,4,14
+361,2,550,Balance House,1,19400,7,12
+362,5,552,Charming Haven,1,24500,1,12
+363,1,553,Homely Lodge,1,49400,5,117
+364,1,554,Mountain Retreat Lodge,1,14000,2,97
+365,1,556,Mountain Retreat Resort,1,20900,1,149
+366,2,558,Exalted Inn,1,24600,1,4
+367,1,560,Modern Lodge,1,9500,6,104
+368,4,561,Modern Cottage,0,7900,5,13
+369,3,563,Mirage Cottage,1,55800,5,13
+370,2,564,Balance Lodge,1,12200,6,4
+371,3,567,Modern House,1,50500,7,26
+372,2,568,Homely Inn,1,11900,4,12
+373,4,571,Balance Cottage,1,11400,3,3
+374,4,572,Amuse Lodge,1,64900,4,5
+375,2,573,Exquisite Manor,1,62400,6,7
+376,4,579,Deluxe Hideaway,1,48600,5,4
+377,2,585,Deluxe Manor,1,63000,7,5
+378,3,591,Rustic Retreat,1,9500,5,22
+379,4,592,Mirage House,1,55000,1,4
+380,2,593,Charming House,1,46500,7,3
+381,3,594,Balance Retreat,1,59300,4,18
+382,4,595,Mirage Retreat,1,6500,4,11
+383,4,596,Mountain Retreat House,1,7300,5,6
+384,5,604,Exalted Hideaway,1,36200,5,13
+385,3,605,Amuse Inn,1,15800,2,12
+386,3,607,Homely Manor,1,34900,2,26
+387,2,608,Deluxe House,1,6100,2,8
+388,5,609,Moonlight GuestHouse,1,55000,1,14
+389,1,612,City Loft Boutique Suites,1,6100,2,139
+390,5,613,Luxury Villa Haven,1,59400,7,12
+391,1,614,Cosy Boutique Hotel,1,30000,3,57
+392,4,616,Charming Lodge,1,15400,5,2
+393,1,618,City Loft Lodge,1,27600,3,104
+394,2,619,Amuse Cottage,1,16000,3,7
+395,2,620,Mirage Haven,1,21200,5,5
+396,1,624,Exquisite Suites,1,6100,5,106
+397,4,625,Amuse Cottage,1,15200,7,10
+398,4,628,Amuse Cottage,1,11700,3,7
+399,2,629,Homely GuestHouse,1,6000,4,9
+400,4,630,Homely Lodge,1,16100,2,13
+401,4,632,Rustic Cottage,1,12100,2,5
+402,1,634,Charming Lodge,1,7600,6,94
+403,4,640,Modern Inn,1,28500,6,4
+404,4,642,Luxury Villa Retreat,1,20800,3,6
+405,4,644,Moonlight Cottage,1,50700,6,3
+406,4,645,Exalted Manor,1,45500,5,13
+407,2,646,Balance Lodge,1,8000,2,12
+408,1,647,Grand Boutique Hotel,1,65000,7,124
+409,1,649,Amuse Resort,1,25900,7,132
+410,5,650,Beach House Manor,1,6600,1,6
+411,4,651,Exalted Retreat,1,32400,5,11
+412,4,653,Exalted Inn,1,36800,7,4
+413,2,659,Refresh Cottage,1,33000,7,7
+414,3,660,City Loft Hideaway,1,5000,7,13
+415,2,662,Exalted Retreat,1,8500,4,6
+416,1,663,Rustic Hotel,1,20900,1,67
+417,5,664,Mirage Retreat,1,59300,7,11
+418,1,670,Cozy Hotel,1,63000,4,150
+419,2,671,Amuse Hideaway,1,35200,1,14
+420,4,673,Luxury Villa Manor,1,51200,1,5
+421,4,674,Charming Lodge,1,7800,4,5
+422,3,676,Rustic Inn,1,50300,1,26
+423,1,678,Modern Oasis,1,12200,1,80
+424,2,679,Homely Hideaway,1,16100,3,6
+425,2,680,Rustic Lodge,1,35200,1,4
+426,2,681,Mountain Retreat Manor,1,26900,1,14
+427,3,692,Moonlight House,1,16000,2,12
+428,3,693,Amuse Retreat,1,5600,7,18
+429,4,695,Grand Manor,1,17000,3,5
+430,2,696,Charming Haven,1,6300,7,8
+431,1,699,Exquisite Oasis,1,6100,1,62
+432,4,700,Cozy GuestHouse,1,51000,2,11
+433,1,704,Mirage Boutique Residence,0,19300,1,64
+434,5,705,Serene Haven,1,31200,4,6
+435,4,706,Rustic Manor,1,8200,4,10
+436,2,712,City Loft GuestHouse,1,21500,5,9
+437,1,713,Refresh Boutique Hotel,1,9900,4,121
+438,2,714,Deluxe Lodge,1,48300,7,7
+439,1,719,Cozy Retreat,1,56600,1,133
+440,4,720,Charming Cottage,1,37800,3,10
+441,2,721,Cozy Lodge,1,22700,5,2
+442,1,722,Serene Boutique Residence,1,5300,5,142
+443,4,726,Cosy GuestHouse,1,41700,2,13
+444,4,727,City Loft Hideaway,1,6900,3,3
+445,2,728,Exquisite Inn,1,20700,5,7
+446,2,730,Mountain Retreat Haven,1,38800,5,7
+447,4,731,Cozy Retreat,1,21400,4,7
+448,4,734,Rustic House,1,13500,6,3
+449,3,735,Homely Manor,1,63200,2,11
+450,1,736,Serene Lodge,1,48900,6,106
+451,1,737,Beach House Boutique Hotel,1,31100,1,99
+452,1,739,Refresh Lodge,1,10900,6,124
+453,1,740,Cozy Retreat,1,7400,1,137
+454,1,743,Cosy Boutique Residence,1,7300,6,103
+455,2,747,Balance Inn,1,43200,5,7
+456,4,748,Moonlight Hideaway,1,5200,5,10
+457,4,753,Deluxe Manor,1,41200,6,2
+458,4,754,Moonlight Manor,1,15300,2,11
+459,1,756,Serene Boutique Suites,1,23200,3,142
+460,3,758,City Loft Retreat,1,32700,6,14
+461,3,760,Cosy Cottage,1,24100,5,13
+462,1,761,Mountain Retreat Lodge,1,61400,3,144
+463,1,766,Cosy Lodge,1,6500,2,57
+464,1,767,Luxury Villa Boutique Hotel,1,7300,7,138
+465,1,768,Refresh Residence,1,7800,5,54
+466,1,769,Refresh Oasis,0,63600,7,64
+467,2,774,Cosy Lodge,1,8700,3,11
+468,2,775,Balance Lodge,1,60800,7,8
+469,4,776,Exquisite Cottage,1,42900,7,12
+470,1,777,Exquisite Retreat,1,6100,2,111
+471,1,779,Mirage Boutique Hotel,1,49000,2,69
+472,4,780,Deluxe Haven,1,8900,3,8
+473,3,783,Charming Manor,1,7000,4,13
+474,1,784,Mountain Retreat Lodge,1,9700,2,104
+475,1,785,Serene Boutique Hotel,1,31900,1,98
+476,1,786,Exalted Hotel,1,63600,1,147
+477,1,789,Modern Suites,1,5100,1,128
+478,1,793,Homely Retreat,1,5500,5,126
+479,4,797,Refresh House,1,25800,7,2
+480,4,798,Moonlight Retreat,1,17200,3,12
+481,1,799,Cosy Boutique Hotel,1,6700,1,110
+482,5,800,Exalted Manor,1,29800,2,9
+483,1,801,Balance Residence,1,43600,5,119
+484,4,802,Rustic Retreat,1,9700,5,8
+485,3,803,Mirage Manor,1,16600,4,19
+486,1,805,Beach House Residence,0,5600,3,82
+487,2,808,Deluxe Cottage,1,61300,3,10
+488,1,809,Grand Oasis,1,64700,6,81
+489,2,812,Charming Inn,1,22500,5,6
+490,1,818,Cosy Boutique Hotel,1,8500,5,88
+491,4,821,Deluxe Lodge,1,6000,6,8
+492,3,822,Cozy Lodge,1,6300,3,27
+493,1,823,Balance Retreat,1,43700,6,75
+494,1,824,Homely Resort,1,21900,1,133
+495,1,825,Luxury Villa Boutique Hotel,1,11900,2,115
+496,3,826,City Loft Haven,1,60800,1,29
+497,2,827,Amuse Lodge,1,19800,1,6
+498,1,830,Balance Boutique Hotel,1,20000,1,133
+499,2,833,Amuse Hideaway,1,55600,5,10
+500,2,836,Grand Cottage,1,19000,3,13
+501,5,837,Refresh Manor,1,9500,4,5
+502,3,840,Exalted House,1,18500,1,14
+503,4,841,Grand GuestHouse,1,7200,5,5
+504,2,843,Mirage Inn,1,29500,6,8
+505,5,844,Luxury Villa Haven,1,8200,2,4
+506,1,846,City Loft Hotel,1,20900,7,76
+507,1,850,Refresh Hotel,1,6700,6,91
+508,1,851,Deluxe Retreat,1,25000,1,151
+509,2,855,Refresh House,1,5200,4,2
+510,1,856,Mountain Retreat Hotel,1,6800,6,126
+511,5,858,Amuse House,1,25400,6,5
+512,4,862,Rustic Lodge,1,30900,6,7
+513,3,863,Cozy Hideaway,1,17900,1,26
+514,2,869,Modern House,1,22500,7,12
+515,1,870,Amuse Suites,1,19400,6,63
+516,4,871,Mirage House,1,12400,3,9
+517,1,873,Mountain Retreat Residence,1,20100,3,66
+518,4,878,Beach House Haven,1,50100,1,14
+519,2,879,City Loft Lodge,1,54500,1,5
+520,3,880,Cozy Inn,1,31600,7,27
+521,2,883,Serene GuestHouse,1,20100,6,14
+522,3,884,Modern GuestHouse,1,19800,6,30
+523,4,885,Luxury Villa House,1,51300,3,11
+524,3,886,Beach House Cottage,1,33200,7,16
+525,1,888,Serene Lodge,1,22700,7,89
+526,4,890,Exalted Haven,1,40600,1,4
+527,3,892,City Loft Retreat,1,6700,5,14
+528,2,897,Mountain Retreat GuestHouse,1,6100,7,6
+529,2,901,Modern Hideaway,1,6600,3,12
+530,2,902,Exalted Retreat,1,27200,6,3
+531,4,903,Modern Haven,1,41900,6,5
+532,3,1311,Exquisite Inn,1,10000,5,14
+533,1,1313,Exquisite Lodge,1,10000,3,148
+534,5,1314,Cosy Haven,1,7700,7,4
+535,2,1315,Deluxe GuestHouse,1,36800,5,6
+536,1,1316,Amuse Boutique Suites,1,5900,2,72
+537,2,1317,Exalted Retreat,1,62600,3,5
+538,3,1322,Exalted House,1,7400,3,11
+539,1,1323,Luxury Villa Retreat,1,36500,2,95
+540,3,1326,Luxury Villa Cottage,1,40200,6,26
+541,2,1328,Modern Haven,1,5800,3,14
+542,4,1329,Luxury Villa Haven,1,7100,1,2
+543,3,1330,Homely Retreat,1,41500,6,10
+544,1,1331,Charming Lodge,1,5600,6,120
+545,1,1332,Balance Resort,1,12000,1,118
+546,5,1333,Balance Cottage,1,7500,4,11
+547,4,1334,Cosy Lodge,1,7800,5,6
+548,1,1337,Cozy Oasis,1,11700,5,103
+549,1,1340,Cozy Suites,1,51800,1,76
+550,4,1341,Homely Inn,1,26200,1,12
+551,1,1342,Beach House Suites,1,60500,6,129
+552,4,1353,Serene Manor,1,19800,3,6
+553,2,1355,Cozy Haven,1,9900,7,13
+554,5,1356,Luxury Villa GuestHouse,1,49100,5,2
+555,1,1357,Grand Boutique Suites,1,23900,2,90
+556,1,1361,Mountain Retreat Boutique Residence,1,6900,2,114
+557,2,1366,Deluxe GuestHouse,1,62000,7,3
+558,1,1368,Cozy Oasis,1,50100,2,139
+559,2,1370,Charming Lodge,1,9100,7,14
+560,2,1372,Mirage Haven,1,20200,6,14
+561,4,1374,Exalted Cottage,1,24500,3,9
+562,4,1377,Mountain Retreat Lodge,1,31000,2,9
+563,3,1379,Beach House Lodge,1,25200,2,22
+564,4,1380,Refresh Hideaway,1,32600,6,7
+565,3,1381,Rustic Inn,1,9700,7,27
+566,1,1382,Exquisite Residence,1,6600,4,71
+567,2,1383,Mirage House,1,52400,3,11
+568,3,1385,Exalted Haven,1,6000,6,24
+569,1,1386,Moonlight Hotel,1,5400,5,122
+570,1,1388,Mountain Retreat Resort,1,15700,4,81
+571,1,1389,Exalted Suites,1,21900,5,120
+572,2,1391,Charming Lodge,1,6600,6,12
+573,3,1394,City Loft Inn,1,51800,2,23
+574,2,1397,Deluxe GuestHouse,1,29900,1,14
+575,1,1399,Beach House Lodge,1,13300,6,80
+576,4,1503,Exalted House,0,6600,1,2
+577,5,1504,Exquisite Haven,1,16200,4,2
+578,4,1505,Grand Lodge,1,16000,7,14
+579,4,1506,Luxury Villa Haven,1,6900,1,3
+580,1,1508,City Loft Retreat,1,15000,1,145
+581,2,1509,Balance Inn,1,48800,4,8
+582,4,1510,Serene GuestHouse,1,9600,1,10
+583,1,1512,Moonlight Boutique Residence,1,6300,6,144
+584,2,1514,Deluxe Retreat,1,13400,2,5
+585,2,1516,Amuse Cottage,1,41500,6,7
+586,3,1517,City Loft House,1,53500,7,26
+587,2,1518,Grand Haven,1,21500,2,2
+588,1,1519,Mountain Retreat Hotel,1,8300,3,51
+589,4,1520,Exalted Lodge,1,21900,3,5
+590,5,1521,Mirage House,1,16800,6,5
+591,5,1523,Cozy Retreat,1,9400,1,2
+592,3,1524,Balance House,1,9000,3,16
+593,3,1525,Homely Inn,1,17500,7,13
+594,1,1526,Mirage Hotel,1,6500,6,140
+595,4,1527,Moonlight Inn,1,24600,5,2
+596,2,1528,Beach House Haven,1,7900,5,3
+597,4,1532,Serene Haven,1,6200,5,2
+598,3,1533,Cozy Retreat,1,9500,2,14
+599,1,1535,Refresh Lodge,1,64300,7,92
+600,1,1536,Exalted Lodge,1,8300,7,87
+601,5,1542,Balance Lodge,1,6500,5,5
+602,1,1543,Balance Boutique Hotel,1,22800,3,84
+603,1,1546,Refresh Hotel,1,6900,7,127
+604,5,1548,Grand Hideaway,1,64000,3,2
+605,2,1549,Cozy House,1,23600,6,9
+606,1,1555,Charming Boutique Residence,1,38900,5,143
+607,4,1557,Mountain Retreat Inn,1,32600,5,3
+608,1,1558,City Loft Boutique Residence,1,5800,2,140
+609,2,1559,Rustic Retreat,1,7500,5,11
+610,4,1561,Beach House GuestHouse,1,19100,2,2
+611,2,1562,City Loft Manor,1,36600,4,5
+612,5,1566,Modern Cottage,1,45300,1,10
+613,3,1569,Amuse Manor,1,17300,5,19
+614,4,1570,Mirage House,1,9100,4,2
+615,4,1571,Amuse Manor,1,42700,5,3
+616,4,1572,Mirage Haven,1,39800,7,10
+617,4,1573,Mirage Manor,1,7500,7,12
+618,4,1574,Deluxe Cottage,1,9700,7,6
+619,4,1577,Amuse Hideaway,1,5600,6,5
+620,4,1578,Charming Cottage,1,38600,7,5
+621,1,1580,Mountain Retreat Boutique Suites,1,6700,6,53
+622,3,1583,Balance House,1,62400,5,14
+623,3,1584,Homely Retreat,0,46100,4,17
+624,2,1587,Deluxe Inn,1,5700,2,6
+625,2,1588,Deluxe Lodge,1,40100,6,7
+626,4,1589,Amuse Haven,1,47300,6,3
+627,4,1590,Cozy Haven,1,61500,2,13
+628,4,1594,Exquisite Haven,1,45800,3,14
+629,1,1597,Cozy Oasis,1,24300,5,113
+630,3,1600,Luxury Villa Cottage,1,6900,4,29
+631,1,1601,Moonlight Lodge,1,7000,4,82
+632,4,1602,Cozy Cottage,1,9100,6,3
+633,3,1605,Exalted Hideaway,1,64200,3,10
+634,2,1609,Luxury Villa Manor,1,61700,4,10
+635,2,1610,City Loft Hideaway,1,9300,1,9
+636,3,1612,City Loft Hideaway,1,17800,2,25
+637,2,1616,Homely House,1,17000,2,13
+638,2,1617,Luxury Villa Retreat,1,40000,6,6
+639,1,1620,Beach House Lodge,1,6400,4,158
+640,3,1621,Homely Manor,1,7400,5,27
+641,4,1622,Luxury Villa House,1,5000,1,7
+642,5,1623,Modern House,1,12900,7,6
+643,5,1624,Rustic Cottage,1,24300,1,11
+644,3,1625,Exquisite Manor,1,12000,1,22
+645,4,1626,City Loft Cottage,1,34700,1,12
+646,1,1629,Modern Hotel,0,39400,1,157
+647,4,1635,Refresh Hideaway,1,55600,3,4
+648,2,1637,Mountain Retreat Hideaway,1,11900,3,12
+649,2,1644,Luxury Villa Haven,1,19300,1,14
+650,4,1646,Refresh GuestHouse,1,33500,5,6
+651,3,1650,Moonlight Hideaway,1,46600,7,19
+652,3,1653,City Loft Manor,1,7000,6,13
+653,2,1656,Grand GuestHouse,1,11700,3,13
+654,1,1660,Grand Boutique Residence,1,30000,5,65
+655,1,1661,Beach House Boutique Suites,1,22900,4,91
+656,4,1665,Charming Manor,1,5000,4,10
+657,1,1670,Charming Retreat,1,6900,2,119
+658,1,1672,Refresh Boutique Hotel,1,23000,2,160
+659,1,1673,Grand Hotel,1,6200,7,151
+660,1,1674,Rustic Boutique Suites,1,17300,6,102
+661,4,1675,Exquisite Inn,1,18400,7,8
+662,4,1676,Cozy Lodge,1,28800,3,14
+663,1,1677,Mountain Retreat Boutique Hotel,1,7500,1,75
+664,3,1678,Cozy Cottage,1,40700,6,15
+665,1,1680,Deluxe Boutique Suites,1,8600,7,137
+666,2,1681,Luxury Villa Inn,1,8400,3,2
+667,1,1683,Homely Boutique Residence,0,7500,5,128
+668,2,1684,Rustic Retreat,1,9400,7,7
+669,4,1685,Moonlight Hideaway,1,5100,7,8
+670,3,1687,Refresh Retreat,1,13800,3,12
+671,2,1688,Luxury Villa Lodge,1,26600,1,3
+672,1,1692,Cosy Lodge,1,5300,2,89
+673,1,1695,Mountain Retreat Boutique Residence,1,5200,7,114
+674,4,1700,Exalted Lodge,1,23100,6,8
+675,4,1702,Cosy Inn,0,41300,1,10
+676,2,1704,Charming House,1,24600,2,11
+677,2,1707,Charming Hideaway,1,27500,2,12
+678,1,1712,Moonlight Boutique Suites,1,26300,6,74
+679,5,1713,Deluxe Cottage,1,13200,4,9
+680,4,1719,Beach House Inn,1,6100,2,10
+681,3,1725,Rustic Inn,1,51700,2,19
+682,4,1727,Serene Cottage,1,8600,1,10
+683,5,1728,Modern Hideaway,1,5100,1,2
+684,3,1729,Moonlight Hideaway,1,6700,6,10
+685,1,1730,Cozy Resort,1,14500,1,95
+686,1,1731,Balance Retreat,1,11300,6,81
+687,2,1735,Rustic Haven,1,5800,4,5
+688,5,1736,Rustic Hideaway,0,23200,4,5
+689,3,1739,Grand Cottage,1,8800,5,18
+690,2,1740,Deluxe Retreat,1,38200,1,10
+691,1,1741,Luxury Villa Resort,1,6700,7,105
+692,4,1746,Amuse Manor,1,33100,4,7
+693,4,1748,City Loft Haven,1,15400,1,3
+694,1,1749,Amuse Suites,1,14200,2,139
+695,4,1750,Grand Retreat,1,10000,4,13
+696,2,1751,Grand GuestHouse,1,12300,3,7
+697,3,1752,Refresh Hideaway,1,6200,5,30
+698,4,1754,Mirage House,1,22800,3,8
+699,4,1758,Beach House Haven,0,7200,5,12
+700,2,1760,Beach House Haven,1,38200,7,4
+701,5,1762,Cosy Lodge,1,6100,5,11
+702,2,1771,Exalted Inn,1,18800,7,9
+703,1,1772,Beach House Lodge,1,16900,3,126
+704,1,1773,Mountain Retreat Lodge,1,7500,7,142
+705,1,1774,Balance Lodge,1,52900,5,101
+706,5,1776,Luxury Villa House,1,55400,6,9
+707,4,1779,Exquisite Inn,1,13500,5,13
+708,1,1781,Charming Lodge,1,12800,3,102
+709,4,1783,Amuse Manor,0,48700,2,8
+710,3,1784,Homely Haven,1,39800,2,22
+711,2,1789,Homely Inn,1,23300,5,9
+712,1,1791,Serene Boutique Suites,1,5700,5,111
+713,5,1792,Homely Haven,1,9000,6,2
+714,1,1794,Serene Boutique Hotel,1,21200,4,99
+715,3,1795,Mirage Retreat,1,18700,3,23
+716,2,1798,Deluxe House,1,61800,3,3
+717,4,1799,Luxury Villa Cottage,1,8300,2,4
+718,1,1800,Moonlight Boutique Residence,1,9300,5,54
+719,2,1801,Cosy Inn,1,16100,4,12
+720,2,1803,Balance Cottage,1,63800,3,13
+721,1,1808,Cozy Lodge,1,20300,2,127
+722,4,1810,Grand GuestHouse,1,11600,2,14
+723,4,1811,Cosy Haven,1,5800,2,3
+724,4,1813,Beach House Haven,1,40300,3,9
+725,2,1814,Cozy Inn,1,8300,7,4
+726,1,1817,Charming Hotel,1,14500,1,102
+727,2,1818,Balance Inn,1,43000,7,6
+728,4,1147,Mirage Hideaway,1,53900,1,12
+729,2,1152,Luxury Villa Cottage,1,53800,5,4
+730,5,1153,Exquisite Inn,1,39700,4,4
+731,5,1157,Deluxe House,1,46400,4,3
+732,3,1159,Amuse House,1,40000,2,11
+733,1,1171,Cozy Hotel,1,8400,4,143
+734,4,1173,Balance Manor,1,9100,2,3
+735,1,1179,Balance Oasis,1,16100,4,160
+736,4,1180,Cozy Cottage,1,17400,1,5
+737,3,1183,Exquisite Inn,1,23900,7,12
+738,5,1184,Charming Manor,1,8700,4,5
+739,1,1185,Luxury Villa Retreat,1,7600,4,145
+740,4,1186,Modern Lodge,1,27400,1,11
+741,1,1187,City Loft Resort,1,49700,6,159
+742,4,1188,Homely Inn,1,9300,3,13
+743,1,1189,Luxury Villa Hotel,1,10100,2,101
+744,1,1190,Refresh Boutique Hotel,1,46600,5,55
+745,5,1192,City Loft Lodge,1,40900,4,6
+746,3,1196,Luxury Villa Lodge,1,18300,5,13
+747,4,1197,Homely Manor,1,17500,4,6
+748,1,1198,Exalted Lodge,1,20300,6,115
+749,2,1199,Exalted Retreat,1,22400,4,13
+750,4,1200,Mirage Retreat,1,63100,5,10
+751,1,1202,Grand Boutique Residence,1,6400,4,90
+752,4,1203,Deluxe Inn,1,37500,1,6
+753,3,1205,Exalted Hideaway,1,27300,2,28
+754,1,1206,Serene Lodge,1,35800,4,146
+755,2,1207,Rustic GuestHouse,1,6200,2,9
+756,1,1210,Mirage Suites,1,7400,1,64
+757,1,1214,Homely Hotel,1,5400,4,50
+758,4,1216,Beach House Lodge,1,10400,2,10
+759,3,1218,Modern Hideaway,1,27200,4,11
+760,1,1219,Refresh Oasis,1,52500,7,65
+761,2,1220,Balance Cottage,1,7200,3,10
+762,5,1221,Serene Haven,1,22500,5,2
+763,2,1222,Exquisite Cottage,1,27200,5,14
+764,1,1223,Modern Retreat,1,30500,1,107
+765,3,1225,Beach House Lodge,1,19200,3,14
+766,1,1228,Mirage Residence,1,44400,4,86
+767,4,1230,Amuse Haven,1,47400,1,11
+768,3,1232,Serene Cottage,1,35400,7,12
+769,4,1233,Modern GuestHouse,1,28000,1,13
+770,2,1234,City Loft Hideaway,1,25500,2,14
+771,1,1236,Moonlight Resort,1,5100,6,67
+772,4,1237,Beach House Haven,1,10900,2,13
+773,2,1238,Beach House Manor,1,11700,4,5
+774,1,1240,Cosy Boutique Residence,1,25200,1,143
+775,1,1241,Mirage Suites,1,55600,5,156
+776,3,1244,Deluxe Lodge,1,6400,1,15
+777,1,1246,Modern Lodge,1,25900,5,62
+778,1,1251,Luxury Villa Suites,1,9800,2,120
+779,2,1256,Deluxe Haven,1,9700,3,6
+780,2,1261,Exquisite Haven,1,57400,2,11
+781,2,1263,Moonlight Cottage,1,28300,5,5
+782,4,1264,City Loft Haven,1,8300,3,4
+783,4,1266,Cozy Hideaway,1,49800,2,2
+784,4,1276,Exalted Haven,1,6300,4,5
+785,2,1278,Exquisite House,1,41500,6,9
+786,4,1280,Cozy Cottage,1,40000,3,4
+787,1,1283,City Loft Hotel,1,58800,3,88
+788,4,1289,Mirage Cottage,1,27600,5,8
+789,1,1290,City Loft Retreat,1,9200,1,73
+790,4,1294,Luxury Villa House,1,25400,7,5
+791,1,1296,Exalted Residence,1,46900,5,105
+792,5,1298,Rustic Hideaway,1,57500,1,3
+793,1,1300,Amuse Residence,1,7700,1,61
+794,2,1301,Rustic Cottage,1,10400,3,12
+795,4,1302,Grand Manor,1,20000,1,9
+796,4,1304,Mountain Retreat House,1,63700,6,12
+797,2,1305,Beach House Lodge,1,63400,1,5
+798,4,1307,Rustic Inn,1,13600,4,3
+799,5,1309,Mirage Manor,1,7900,6,6
+800,3,1310,Cozy House,1,62600,5,25
+801,1,1823,Exquisite Lodge,1,33300,1,76
+802,4,1825,Exalted Hideaway,1,27000,1,9
+803,1,1828,Charming Retreat,1,17100,2,129
+804,3,1829,Exalted Haven,1,5800,1,14
+805,1,1831,Exalted Hotel,1,33900,2,97
+806,2,1832,Moonlight Cottage,1,7200,2,3
+807,1,1834,Beach House Lodge,1,6600,3,60
+808,2,1835,Exalted Cottage,1,54300,4,14
+809,1,1836,Deluxe Lodge,1,10300,1,156
+810,3,1841,Grand House,1,8900,5,10
+811,5,1842,Modern Inn,1,6500,6,4
+812,1,1849,Deluxe Suites,1,5800,4,134
+813,4,1852,Cozy Retreat,1,26200,6,10
+814,1,1853,Cosy Lodge,1,6600,2,60
+815,3,1854,Cozy Inn,1,10600,1,20
+816,2,1856,Deluxe Retreat,1,8900,4,10
+817,3,1858,Charming Manor,1,5500,4,11
+818,4,1860,City Loft Inn,1,9700,6,13
+819,2,1861,Grand Lodge,1,55300,1,5
+820,5,1863,Charming House,1,6500,7,12
+821,4,1865,Serene GuestHouse,1,9300,4,3
+822,5,1867,Modern Haven,1,7600,2,8
+823,4,1869,Luxury Villa Manor,1,18200,7,11
+824,1,1872,Mountain Retreat Hotel,1,9400,5,117
+825,1,1873,Amuse Residence,1,59400,1,123
+826,4,1877,Deluxe Manor,1,8000,7,8
+827,1,1878,Luxury Villa Hotel,1,26800,3,97
+828,3,1882,Deluxe Inn,1,8500,5,24
+829,4,1885,Luxury Villa GuestHouse,1,48500,7,7
+830,2,1886,City Loft Hideaway,1,62200,6,7
+831,3,1889,Mountain Retreat Manor,1,26500,4,24
+832,1,1890,Charming Residence,1,9300,5,159
+833,5,1892,Grand Hideaway,1,9300,3,12
+834,3,1893,Luxury Villa Lodge,1,13700,5,20
+835,4,1894,Beach House Inn,1,7100,2,2
+836,1,1896,Amuse Boutique Suites,1,12500,2,75
+837,2,1897,City Loft Manor,1,5700,4,7
+838,2,1900,Cozy Inn,1,8800,6,2
+839,3,1901,Mirage House,1,56000,7,22
+840,2,1905,Modern Cottage,1,22300,1,10
+841,1,1906,Rustic Residence,0,49700,5,98
+842,1,1909,Modern Lodge,1,28400,7,143
+843,2,1911,Exalted Cottage,1,10900,4,5
+844,3,1915,Mirage Inn,1,19700,6,20
+845,2,1919,Amuse Inn,1,9100,6,6
+846,5,1924,Modern Cottage,1,31100,7,8
+847,4,1925,Modern Manor,0,24600,4,9
+848,5,1926,Refresh Retreat,1,5800,4,8
+849,1,1927,Serene Boutique Hotel,1,25600,7,143
+850,3,1928,Exquisite Manor,1,17100,5,25
+851,2,1933,Amuse Hideaway,1,55700,1,14
+852,2,1934,Refresh Manor,1,5300,7,10
+853,2,1935,Cozy Manor,1,8400,1,5
+854,4,1936,Exalted Inn,1,51000,3,4
+855,1,1938,Moonlight Hotel,1,7000,2,122
+856,1,1940,Exalted Lodge,1,8000,2,136
+857,4,1941,Mirage Manor,1,5700,2,13
+858,2,1943,Charming Lodge,1,10500,3,12
+859,5,1946,Cozy GuestHouse,1,23400,2,2
+860,3,1951,Beach House Inn,1,63200,5,11
+861,4,1955,Charming Manor,1,40200,1,9
+862,1,1960,Charming Boutique Suites,1,17700,5,96
+863,2,1963,Luxury Villa Hideaway,1,29200,3,3
+864,4,1964,Beach House House,1,7900,4,14
+865,4,1966,Balance Inn,1,24600,2,2
+866,4,1968,Exalted Retreat,1,5200,7,8
+867,4,1972,Mirage Haven,1,31400,2,9
+868,4,1976,Amuse Haven,1,13400,1,7
+869,1,1978,Grand Resort,1,19200,7,124
+870,2,1982,Deluxe Manor,1,13600,4,5
+871,1,1989,City Loft Residence,1,7500,7,101
+872,2,1991,Charming Lodge,1,8700,3,3
+873,1,1993,Charming Boutique Residence,1,17200,4,100
+874,1,1994,Exquisite Residence,1,51100,3,91
+875,4,1998,Mountain Retreat House,1,58600,2,4
+876,1,1999,Cosy Boutique Suites,1,13600,1,147
+877,5,2000,Cozy Inn,1,61400,6,13
+878,4,7003,Deluxe Manor,1,7800,5,8
+879,1,7004,Exquisite Boutique Suites,1,12700,4,105
+880,5,7005,Beach House House,1,17000,5,2
+881,4,7006,Amuse GuestHouse,1,41100,2,7
+882,2,7008,Refresh House,1,16300,1,9
+883,1,7012,Cosy Lodge,1,32900,3,83
+884,4,7014,Cosy Retreat,1,53300,3,13
+885,2,7017,Charming Hideaway,1,10000,4,12
+886,2,7018,Amuse Lodge,1,14100,5,8
+887,4,7021,Luxury Villa Inn,1,7700,7,8
+888,5,7022,Amuse GuestHouse,1,23500,4,2
+889,4,7023,Homely House,1,18800,7,8
+890,3,7028,City Loft Hideaway,1,13000,3,11
+891,2,7029,Moonlight Inn,1,8200,2,6
+892,1,7033,Exquisite Retreat,1,52200,1,113
+893,2,7034,Grand Haven,1,31400,3,6
+894,4,7036,Luxury Villa Hideaway,1,19600,3,8
+895,5,7037,Beach House Cottage,1,22200,5,7
+896,1,7039,Cozy Boutique Residence,1,39200,5,131
+897,4,7040,Grand Haven,1,31000,6,12
+898,1,7041,Grand Lodge,1,5100,6,132
+899,2,7042,Balance Cottage,1,8600,1,7
+900,1,7043,Cozy Hotel,1,8300,6,83
+901,4,7044,Mountain Retreat Hideaway,1,48300,1,8
+902,1,7047,Homely Residence,1,42600,1,123
+903,5,7049,Refresh Manor,1,40800,4,5
+904,1,7051,Cosy Lodge,1,41300,7,145
+905,1,7054,Exquisite Retreat,1,10100,5,59
+906,4,7056,Refresh House,1,6800,2,7
+907,4,7057,Rustic House,1,22000,1,13
+908,5,7058,Exalted GuestHouse,1,42700,4,3
+909,3,7062,Beach House Cottage,1,8800,4,28
+910,3,7063,Charming Manor,1,46200,7,24
+911,1,7064,Balance Boutique Suites,1,11700,5,133
+912,1,7066,Homely Residence,1,51000,2,158
+913,1,7067,Exquisite Retreat,1,15700,3,143
+914,1,7068,Homely Boutique Hotel,0,46400,1,65
+915,4,7069,Modern Hideaway,1,10700,1,9
+916,1,7075,Serene Lodge,1,45500,5,58
+917,1,7076,Luxury Villa Lodge,0,19700,6,129
+918,1,7079,Exquisite Lodge,1,53600,3,108
+919,2,7081,Luxury Villa Inn,1,57100,4,7
+920,4,7084,Grand Haven,1,6500,4,8
+921,2,7087,Grand Retreat,1,32300,2,13
+922,1,7089,Cozy Lodge,1,11100,1,122
+923,1,7090,Exalted Lodge,1,8000,2,156
+924,2,7091,Rustic Retreat,1,30500,7,5
+925,3,7092,Cozy Inn,1,63700,5,17
+926,1,7093,Exquisite Boutique Residence,1,7300,3,51
+927,4,7095,Cosy House,1,25800,4,7
+928,1,7098,Charming Lodge,1,44200,1,91
+929,1,7099,Refresh Residence,1,35500,4,54
+930,2,7100,Rustic Retreat,1,23200,2,13
+931,3,7102,Cosy GuestHouse,1,17600,2,15
+932,1,7103,Deluxe Boutique Suites,1,26600,2,70
+933,2,7104,Mountain Retreat Inn,0,27200,7,14
+934,2,7105,Exquisite Inn,1,57100,4,9
+935,1,7107,Mountain Retreat Retreat,1,7100,4,72
+936,1,7113,Rustic Oasis,1,33700,6,135
+937,1,7115,Deluxe Boutique Hotel,1,39000,1,98
+938,4,7117,Modern Hideaway,1,55400,3,13
+939,4,7121,Cosy Inn,1,28700,2,3
+940,4,7124,Modern Hideaway,1,7400,4,2
+941,4,7126,City Loft Manor,1,29800,4,12
+942,5,7127,Charming Manor,1,28800,3,11
+943,1,7128,Mirage Retreat,1,5300,4,145
+944,4,7130,Beach House Cottage,1,7300,5,2
+945,1,7135,City Loft Residence,1,59400,4,76
+946,4,7137,Cosy Lodge,1,9400,2,14
+947,3,7138,Mirage Hideaway,1,21400,5,13
+948,1,7141,Exquisite Hotel,1,49700,6,82
+949,2,7142,Charming Cottage,1,61500,3,3
+950,3,7143,Moonlight Lodge,1,6700,4,16
+951,2,7145,Exalted Manor,1,7300,4,7
+952,4,7146,Mirage Inn,1,26600,5,9
+953,1,7148,Exalted Lodge,1,61600,7,98
+954,3,7149,Mirage GuestHouse,1,9100,1,28
+955,3,7154,Refresh Retreat,1,6500,1,17
+956,1,7157,Beach House Boutique Residence,1,7200,1,150
+957,3,7160,Refresh House,1,64400,4,21
+958,2,7164,Balance Hideaway,1,10800,4,14
+959,3,7166,Serene Inn,1,11100,7,16
+960,1,7167,Deluxe Residence,1,39200,2,88
+961,1,7175,Mirage Boutique Hotel,0,8400,5,148
+962,3,7176,Balance Retreat,1,15200,5,13
+963,1,7180,Homely Boutique Suites,1,7500,1,131
+964,2,7182,Exalted GuestHouse,1,11900,4,12
+965,1,7183,Modern Suites,1,7400,3,81
+966,1,7184,Mirage Oasis,1,51100,6,65
+967,2,7186,Balance Lodge,1,10600,7,9
+968,5,7187,Moonlight Manor,1,58500,7,10
+969,2,7189,Balance Retreat,1,47000,1,11
+970,2,7191,Homely GuestHouse,1,19000,5,11
+971,4,7192,Charming Manor,1,24400,5,6
+972,3,7193,Rustic House,1,49700,3,28
+973,4,7197,Exquisite Hideaway,1,40000,3,3
+974,5,7200,Beach House Lodge,1,7900,5,13
+975,4,7202,Exquisite Hideaway,1,19600,6,2
+976,4,7205,Moonlight Lodge,1,15300,4,7
+977,2,7206,Luxury Villa Inn,1,8400,7,8
+978,2,7207,Rustic Manor,1,51700,2,5
+979,2,7210,Grand Inn,1,26600,2,14
+980,2,7211,Rustic Manor,1,56700,3,9
+981,5,7218,Modern GuestHouse,1,5200,5,13
+982,1,7221,Rustic Resort,1,7000,6,109
+983,4,7222,Homely Inn,1,20600,6,14
+984,2,7226,Exquisite Lodge,1,5400,5,9
+985,1,7227,Amuse Boutique Residence,1,31000,3,139
+986,4,7229,Balance Hideaway,1,5800,1,2
+987,3,7232,Modern Hideaway,1,56700,5,29
+988,1,7233,Grand Resort,1,24200,1,95
+989,5,7234,Serene House,1,20200,7,14
+990,4,7235,Deluxe House,1,27300,1,4
+991,4,7236,Cozy Retreat,1,9200,3,5
+992,1,7238,Charming Oasis,1,19800,2,118
+993,4,7239,Charming Lodge,1,6400,1,2
+994,1,7241,Serene Residence,1,10400,4,63
+995,4,7242,Modern Haven,1,26300,6,12
+996,1,7245,Rustic Lodge,1,59300,2,59
+997,1,7247,Cozy Boutique Hotel,1,32300,4,138
+998,4,7250,Serene Lodge,1,57200,5,6
+999,4,7251,Beach House Haven,1,24700,2,9
+1000,5,7252,Exalted Retreat,1,5800,2,2
+1001,1,7253,Homely Suites,1,5900,7,114
+1002,2,7254,Mountain Retreat Inn,1,23700,3,9
+1003,1,7256,Cozy Boutique Residence,1,6600,4,125
+1004,1,7257,Beach House Retreat,1,5300,5,51
+1005,4,7260,Cozy House,1,7600,4,4
+1006,5,7261,Charming Inn,1,5300,4,10
+1007,4,7263,Refresh Hideaway,1,10800,6,7
+1008,3,7264,Balance House,1,5200,4,10
+1009,1,7266,Mirage Oasis,1,22200,7,72
+1010,2,7268,Exquisite Haven,1,29000,1,7
+1011,1,7269,Balance Boutique Residence,1,24300,3,98
+1012,5,7270,Balance Cottage,1,13000,6,6
+1013,4,7271,Deluxe GuestHouse,1,36400,2,3
+1014,5,7274,Exquisite Retreat,1,23200,7,2
+1015,2,7275,Mountain Retreat Retreat,1,13900,4,14
+1016,4,7276,Mirage House,1,5500,7,12
+1017,3,7280,Homely Haven,1,53300,2,20
+1018,1,7283,Beach House Lodge,1,20000,3,94
+1019,4,7284,Cosy Retreat,1,10000,1,10
+1020,2,7285,Cozy House,1,15000,5,14
+1021,4,7286,Rustic Manor,0,9400,5,14
+1022,3,7287,Deluxe Haven,1,60100,1,24
+1023,5,7288,Homely Inn,1,17500,4,5
+1024,4,7290,Modern Inn,1,51800,7,2
+1025,5,7293,Homely Cottage,1,16900,5,10
+1026,4,7294,Moonlight Lodge,1,5200,5,14
+1027,1,7296,Beach House Suites,1,42200,3,130
+1028,3,7299,Rustic Inn,1,31800,6,18
+1029,1,7300,Homely Oasis,1,9500,3,72
+1030,3,7301,Balance GuestHouse,1,29900,4,30
+1031,3,7302,Exalted Retreat,1,49600,7,17
+1032,3,7303,Moonlight Inn,1,46400,7,15
+1033,1,7306,City Loft Retreat,1,48500,7,117
+1034,1,7470,Modern Residence,1,29900,2,146
+1035,5,7473,Refresh Retreat,1,34200,1,12
+1036,1,7476,Exquisite Lodge,1,28100,5,137
+1037,5,7477,Modern Haven,1,10300,5,2
+1038,4,7480,Serene Inn,1,47600,2,3
+1039,2,7484,Serene House,1,30600,5,14
+1040,1,7488,Charming Boutique Residence,1,61100,5,127
+1041,4,7489,Modern Retreat,1,52200,5,13
+1042,2,7490,Mountain Retreat Retreat,1,44800,5,2
+1043,2,7491,Refresh Manor,1,51200,3,4
+1044,3,7493,Luxury Villa Hideaway,1,7600,1,26
+1045,1,7496,Exalted Lodge,1,20900,3,68
+1046,1,7497,Grand Lodge,1,9900,2,137
+1047,2,7498,Grand Manor,1,43700,6,10
+1048,5,7499,Cosy House,1,47300,2,8
+1049,4,8001,Homely Retreat,1,9000,5,4
+1050,5,8003,Cozy Retreat,1,49300,4,9
+1051,1,8008,Grand Boutique Hotel,1,57400,3,91
+1052,1,8009,Grand Boutique Suites,1,6600,3,70
+1053,1,8020,Moonlight Hotel,1,52700,1,146
+1054,4,8025,Deluxe Haven,1,41500,1,5
+1055,1,8027,Grand Boutique Residence,1,6200,7,89
+1056,1,8029,Deluxe Boutique Suites,1,16200,7,141
+1057,4,8030,Mirage House,1,49800,3,3
+1058,1,8032,Exalted Lodge,1,20500,2,78
+1059,2,8033,Amuse Lodge,1,30500,1,10
+1060,1,8034,Mountain Retreat Oasis,1,31400,2,86
+1061,2,8035,Charming Cottage,1,6900,3,5
+1062,1,8036,Homely Boutique Residence,1,53800,5,54
+1063,1,8037,Amuse Boutique Hotel,1,12800,6,154
+1064,2,8038,Beach House Inn,1,9400,2,9
+1065,2,8041,Mountain Retreat Hideaway,1,8100,2,7
+1066,4,8042,Charming GuestHouse,1,47200,1,13
+1067,3,8044,Mountain Retreat Lodge,1,8900,6,20
+1068,3,8045,Exquisite Hideaway,1,46900,7,17
+1069,5,8047,Cozy Haven,1,8100,7,7
+1070,2,8048,City Loft House,1,5300,4,11
+1071,4,8050,Rustic Inn,1,27200,2,10
+1072,2,8052,Luxury Villa Haven,1,5000,7,3
+1073,1,8056,Modern Retreat,1,9900,2,120
+1074,3,8057,Mountain Retreat Inn,1,7900,3,11
+1075,4,8058,Moonlight Haven,1,59400,5,4
+1076,1,8061,Mirage Hotel,1,20500,2,156
+1077,1,8062,Exalted Lodge,1,14700,5,110
+1078,5,8063,Charming Inn,1,42700,3,12
+1079,3,8066,Balance Manor,1,32000,4,11
+1080,4,8070,Moonlight GuestHouse,1,8800,1,12
+1081,4,8072,Homely Hideaway,1,5000,3,8
+1082,1,8073,Amuse Boutique Suites,1,6000,3,56
+1083,1,8074,Deluxe Boutique Hotel,1,22300,4,60
+1084,1,8076,Rustic Oasis,1,21700,7,56
+1085,5,8079,Cozy Inn,1,57200,4,8
+1086,2,8083,Rustic Retreat,1,56800,6,8
+1087,1,8085,Cozy Lodge,1,61200,2,93
+1088,1,8094,Moonlight Boutique Suites,1,43500,5,115
+1089,2,8095,Moonlight Inn,1,46300,2,10
+1090,4,8098,Homely Haven,1,9700,3,4
+1091,1,8099,Cozy Suites,1,6500,3,155
+1092,1,8100,Exquisite Boutique Residence,1,6400,4,120
+1093,3,8103,Exalted Inn,1,9100,3,15
+1094,3,8104,Balance GuestHouse,0,59400,1,26
+1095,2,8105,Serene Manor,1,27200,2,4
+1096,5,8108,Grand GuestHouse,1,52300,5,3
+1097,3,8109,Mountain Retreat Cottage,1,42800,2,11
+1098,1,8110,Refresh Boutique Hotel,1,16900,4,91
+1099,5,8114,Luxury Villa House,1,7400,2,11
+1100,3,8115,Charming House,1,30700,6,14
+1101,4,8116,Exquisite Lodge,1,32800,5,11
+1102,3,8121,Mountain Retreat Retreat,1,21900,4,19
+1103,2,8122,Amuse Inn,1,60200,4,5
+1104,4,8123,Mirage Cottage,1,8000,4,5
+1105,3,8124,Deluxe Cottage,1,17700,2,27
+1106,1,8125,Modern Residence,1,5600,1,117
+1107,1,8128,Charming Oasis,1,35800,6,100
+1108,5,8131,Grand Inn,1,37200,3,9
+1109,3,8132,Refresh Retreat,1,34500,6,17
+1110,4,8135,Homely Lodge,1,6900,5,14
+1111,2,8138,Modern Lodge,1,9200,6,10
+1112,2,8141,Charming Hideaway,1,31000,2,10
+1113,2,8143,Charming Retreat,1,34900,3,9
+1114,4,8146,Cozy Haven,1,5300,6,11
+1115,2,8147,Moonlight House,1,10600,4,10
+1116,4,8148,Beach House Hideaway,1,14800,7,3
+1117,4,8149,Serene Cottage,1,49700,5,2
+1118,2,8158,Deluxe Inn,1,5800,3,6
+1119,4,8160,Beach House House,1,21900,7,5
+1120,4,8161,Refresh Retreat,1,7800,2,14
+1121,4,8163,Exquisite Hideaway,1,7300,4,11
+1122,4,8165,Deluxe Lodge,1,31700,4,14
+1123,1,8166,Modern Boutique Hotel,1,7100,4,127
+1124,2,8170,Grand House,1,25000,3,11
+1125,1,8174,Homely Resort,1,23500,5,116
+1126,4,8179,Grand GuestHouse,1,17300,1,13
+1127,2,8181,Exalted Retreat,1,62200,6,5
+1128,2,8182,Balance Manor,1,55400,2,13
+1129,5,8184,Exquisite Hideaway,1,16500,4,10
+1130,5,8188,Charming Retreat,1,15900,5,8
+1131,2,8189,Mountain Retreat House,1,25400,2,7
+1132,5,8190,Exquisite Lodge,1,59100,7,12
+1133,5,8191,Moonlight Retreat,1,64200,1,6
+1134,1,8192,Exalted Boutique Hotel,1,14500,6,142
+1135,1,8195,Deluxe Resort,1,7500,3,116
+1136,1,8200,Cosy Lodge,1,19700,2,76
+1137,5,8204,Cozy GuestHouse,1,64300,5,4
+1138,1,8208,Beach House Boutique Hotel,1,43500,4,80
+1139,3,8211,Exalted Haven,1,7200,6,18
+1140,4,8213,Refresh House,1,57800,4,3
+1141,5,8216,Mountain Retreat Hideaway,1,6000,2,12
+1142,4,8219,Rustic Manor,1,6600,1,6
+1143,1,8220,Luxury Villa Resort,1,9900,6,144
+1144,3,8221,Charming Manor,1,48000,4,12
+1145,2,8222,Exquisite Manor,1,22600,5,13
+1146,1,8224,Modern Lodge,1,9000,5,70
+1147,1,8229,Luxury Villa Retreat,1,57200,6,156
+1148,1,8230,Beach House Boutique Suites,1,7300,6,63
+1149,2,8234,Homely Retreat,1,11900,5,3
+1150,2,8239,Cozy Haven,1,59700,4,5
+1151,5,8242,Exquisite Retreat,1,17700,4,9
+1152,1,8243,Modern Lodge,1,29800,1,146
+1153,1,8245,Homely Lodge,1,55700,6,159
+1154,1,8247,Beach House Lodge,1,17800,4,58
+1155,2,8250,Charming Lodge,1,58300,7,12
+1156,2,8253,Mirage Inn,1,6900,7,5
+1157,1,8254,Modern Residence,1,39600,2,112
+1158,1,8255,Luxury Villa Lodge,1,5900,4,142
+1159,1,8256,Mountain Retreat Resort,1,9400,2,109
+1160,1,8258,Charming Lodge,1,29800,6,130
+1161,4,8259,Mirage Inn,1,42600,4,10
+1162,2,8261,Homely Haven,1,58800,2,2
+1163,1,8262,Modern Residence,1,52000,6,114
+1164,4,8263,Rustic GuestHouse,1,22800,5,5
+1165,1,8264,Deluxe Hotel,1,11700,3,118
+1166,4,8265,Amuse Inn,1,56800,1,8
+1167,5,8267,Moonlight Manor,1,12700,7,2
+1168,4,8268,Beach House Retreat,1,5500,7,7
+1169,1,8270,Luxury Villa Suites,1,9600,6,128
+1170,2,8271,Charming Haven,1,7000,7,9
+1171,1,8274,Balance Boutique Residence,1,16400,6,54
+1172,3,8276,Amuse Hideaway,1,10700,6,11
+1173,5,8278,Amuse House,1,5700,6,6
+1174,2,8279,Deluxe Cottage,1,12800,5,8
+1175,4,8281,Amuse House,1,9200,5,13
+1176,4,8282,Mountain Retreat Lodge,1,39400,6,13
+1177,4,8288,Rustic Cottage,1,5200,2,11
+1178,1,8289,Refresh Lodge,1,31800,1,100
+1179,5,8290,Amuse House,1,5100,7,7
+1180,1,8295,Cosy Resort,1,6700,4,122
+1181,2,8297,Grand Hideaway,1,26900,5,11
+1182,1,8298,Amuse Resort,1,22500,1,72
+1183,1,8300,Luxury Villa Retreat,1,44300,5,89
+1184,5,8301,Grand GuestHouse,1,14900,1,5
+1185,1,8304,Amuse Hotel,0,12300,4,82
+1186,1,8305,Modern Boutique Hotel,1,46500,6,89
+1187,1,8306,Modern Lodge,1,30800,4,136
+1188,2,8313,Mountain Retreat Haven,1,13900,5,4
+1189,4,8317,Modern Inn,1,5100,6,6
+1190,1,8318,Exalted Residence,1,9900,1,155
+1191,1,8319,Cosy Boutique Suites,1,22400,2,156
+1192,1,8323,Refresh Suites,1,51400,5,134
+1193,2,8330,Charming GuestHouse,1,7700,5,2
+1194,3,8331,Deluxe Haven,1,5900,2,10
+1195,1,8332,Cosy Suites,1,8700,3,81
+1196,5,8335,Charming House,1,6200,1,12
+1197,4,8337,Refresh GuestHouse,1,41100,1,9
+1198,1,8338,Modern Boutique Hotel,1,17100,7,73
+1199,2,8339,Grand GuestHouse,1,6200,2,14
+1200,1,8341,Beach House Hotel,1,41700,2,52
+1201,2,8343,Deluxe House,1,24400,2,6
+1202,2,8344,Charming Lodge,1,23400,3,12
+1203,2,8348,Moonlight GuestHouse,1,5400,4,10
+1204,1,8352,Exalted Resort,1,6600,3,92
+1205,1,8354,Beach House Oasis,1,7300,6,50
+1206,1,8356,Mountain Retreat Resort,1,17100,4,74
+1207,2,8357,Grand Cottage,1,48100,1,8
+1208,3,8360,Exquisite Inn,1,17700,1,12
+1209,2,8361,Exquisite Cottage,1,64600,3,10
+1210,4,8362,Grand Cottage,1,39900,7,8
+1211,1,8363,Cozy Retreat,1,34200,4,68
+1212,4,8366,Deluxe Manor,0,8700,5,9
+1213,4,8368,Modern Haven,1,56900,6,6
+1214,4,8369,Beach House Cottage,1,7100,6,8
+1215,3,8370,Beach House Inn,1,6500,5,30
+1216,4,8371,Luxury Villa Retreat,1,18600,4,3
+1217,5,8373,Serene Cottage,1,32800,3,3
+1218,1,8374,Amuse Boutique Hotel,1,17800,5,111
+1219,1,8376,Cosy Hotel,1,38400,5,142
+1220,1,7307,Luxury Villa Lodge,1,48900,3,127
+1221,4,7310,Amuse Cottage,1,8300,5,4
+1222,1,7314,Charming Lodge,1,44600,1,88
+1223,4,7315,Moonlight Hideaway,1,15900,2,10
+1224,4,7316,Cozy Hideaway,1,21500,5,14
+1225,3,7317,Luxury Villa Hideaway,1,6400,7,12
+1226,5,7318,Balance Haven,1,59800,4,8
+1227,4,7319,Modern Retreat,1,59700,2,7
+1228,4,7320,Exalted GuestHouse,1,40600,5,6
+1229,1,7324,Luxury Villa Oasis,1,5300,4,122
+1230,1,7327,Serene Lodge,1,34300,6,52
+1231,1,7328,City Loft Boutique Suites,1,8700,5,131
+1232,1,7330,Deluxe Boutique Residence,1,45000,3,124
+1233,1,7331,Amuse Boutique Residence,1,8000,3,157
+1234,2,7334,Refresh Manor,1,40900,7,14
+1235,1,7335,Deluxe Boutique Suites,1,16200,1,73
+1236,2,7336,Luxury Villa Manor,0,24700,1,5
+1237,2,7338,Exalted Retreat,1,8500,7,11
+1238,4,7339,Exquisite House,1,44000,4,13
+1239,2,7340,Moonlight Manor,1,9400,4,3
+1240,4,7342,City Loft Cottage,1,7100,1,14
+1241,4,7343,Mountain Retreat GuestHouse,1,18500,1,13
+1242,5,7344,Mountain Retreat GuestHouse,1,13900,5,9
+1243,4,7345,Homely Retreat,1,17900,2,10
+1244,2,7347,Exalted Inn,1,33800,3,5
+1245,2,7349,Beach House Lodge,1,21100,6,9
+1246,5,7351,Moonlight Lodge,1,6100,3,8
+1247,1,7353,Cozy Boutique Suites,1,34000,1,156
+1248,4,7355,Beach House Manor,1,7600,2,9
+1249,1,7356,Luxury Villa Residence,1,14400,2,67
+1250,2,7358,Amuse Haven,1,49900,2,10
+1251,1,7360,Deluxe Boutique Suites,1,9800,5,110
+1252,1,7362,Rustic Oasis,1,39600,6,68
+1253,4,7366,Serene Manor,1,5100,4,9
+1254,4,7377,Rustic Cottage,1,22200,7,5
+1255,3,7379,Mountain Retreat Manor,1,53200,7,28
+1256,1,7381,Refresh Residence,1,5700,3,86
+1257,4,7383,Serene Hideaway,1,5100,1,9
+1258,4,7385,Charming Haven,1,49800,4,9
+1259,2,7387,Exquisite GuestHouse,1,28000,6,13
+1260,1,7388,Exalted Boutique Hotel,1,52800,6,120
+1261,4,7389,City Loft GuestHouse,1,6900,5,3
+1262,1,7390,Exalted Boutique Suites,1,7300,4,63
+1263,5,7392,Refresh Retreat,1,8800,3,14
+1264,1,7393,Serene Boutique Residence,1,12100,7,68
+1265,1,7395,Cozy Oasis,1,27400,3,76
+1266,2,7396,Serene Cottage,1,52100,2,4
+1267,5,7397,Homely Haven,1,37800,4,7
+1268,3,7398,Amuse Lodge,1,9900,6,25
+1269,1,7400,Mountain Retreat Hotel,1,6600,4,73
+1270,4,7402,Modern GuestHouse,1,13900,2,9
+1271,2,7403,Beach House House,1,38700,4,11
+1272,4,7404,Mountain Retreat Haven,1,8500,2,3
+1273,5,7408,Charming Retreat,1,27000,5,2
+1274,3,7409,Beach House Haven,1,27700,7,13
+1275,4,7411,Homely Manor,1,5800,4,8
+1276,5,7412,Modern Manor,1,6100,4,3
+1277,4,7413,City Loft Cottage,1,7400,7,13
+1278,2,7417,Modern Lodge,1,6400,1,8
+1279,2,7418,Grand House,1,6400,5,7
+1280,3,7420,Balance Inn,0,36300,3,14
+1281,5,7422,Beach House House,1,7200,5,13
+1282,2,7427,Refresh Lodge,1,21700,7,7
+1283,1,7428,City Loft Oasis,1,60700,5,139
+1284,1,7429,Serene Boutique Suites,1,9500,4,64
+1285,2,7430,Exquisite Cottage,1,12500,3,12
+1286,1,7431,Modern Hotel,1,53100,1,64
+1287,4,7432,Beach House Retreat,1,17400,2,11
+1288,1,7433,Modern Retreat,1,7700,1,60
+1289,3,7434,Cosy Inn,1,30600,7,14
+1290,1,7435,Mirage Lodge,1,54000,2,96
+1291,1,7436,Mountain Retreat Boutique Residence,1,8000,7,156
+1292,2,7437,Balance GuestHouse,1,7700,7,5
+1293,1,7441,Cozy Lodge,1,29400,1,93
+1294,1,7444,Rustic Resort,1,47000,4,106
+1295,4,7445,Grand Hideaway,1,23600,4,8
+1296,1,7447,Cozy Lodge,1,44600,1,119
+1297,5,7448,Modern Manor,1,6700,6,10
+1298,1,7449,City Loft Oasis,1,5800,4,95
+1299,5,7450,Serene Manor,1,9800,3,11
+1300,2,7451,Cozy Manor,1,24900,4,11
+1301,3,7455,Balance Cottage,1,40400,5,15
+1302,2,7456,Cozy House,1,9000,7,11
+1303,4,7457,Beach House Haven,1,63000,7,6
+1304,3,7459,Rustic Manor,1,11100,7,14
+1305,3,7461,Exalted Hideaway,1,64400,1,14
+1306,3,7462,Exquisite Manor,1,8100,1,12
+1307,1,7463,Balance Retreat,1,11700,7,110
+1308,2,7466,Deluxe Haven,1,8300,6,9
+1309,5,7467,Exalted House,1,18300,1,7
+1310,1,7468,Modern Lodge,1,36700,3,109
+1311,2,8380,Moonlight Retreat,1,15500,1,8
+1312,1,8381,Serene Oasis,1,24100,4,144
+1313,1,8382,Refresh Residence,1,8200,5,92
+1314,1,8383,Homely Boutique Residence,1,21800,5,58
+1315,2,8388,City Loft Lodge,1,5700,4,3
+1316,1,8390,Luxury Villa Residence,1,25700,6,103
+1317,4,8391,Luxury Villa Manor,1,45400,2,12
+1318,4,8396,Moonlight GuestHouse,1,7200,6,12
+1319,2,8397,Amuse Manor,1,19700,7,14
+1320,2,8400,Deluxe House,1,9100,4,12
+1321,1,8403,Refresh Boutique Suites,1,30800,5,110
+1322,4,8404,Rustic Manor,1,6500,7,11
+1323,4,8405,Balance Lodge,1,48200,2,11
+1324,4,8407,Balance Manor,1,13500,4,14
+1325,3,8408,Rustic Haven,0,49800,4,23
+1326,1,8409,Grand Residence,1,37700,1,81
+1327,2,8411,Balance Lodge,1,6500,2,9
+1328,1,8412,Serene Retreat,1,5700,2,130
+1329,4,8413,Homely Lodge,1,61500,6,11
+1330,4,8414,Modern Haven,1,5500,7,7
+1331,1,8416,Exalted Resort,1,20100,4,60
+1332,4,8417,Mirage Cottage,1,35700,1,2
+1333,3,8422,Serene GuestHouse,1,18700,5,15
+1334,3,8426,Moonlight Haven,1,49600,6,19
+1335,4,8428,Rustic GuestHouse,1,8700,2,2
+1336,2,8430,Grand Inn,1,57500,1,4
+1337,2,8431,Deluxe Hideaway,1,42600,6,12
+1338,5,8432,Serene Cottage,1,5500,6,3
+1339,4,8433,Exquisite Lodge,1,8000,4,2
+1340,1,8434,City Loft Retreat,1,8100,5,139
+1341,3,8437,Deluxe Inn,0,30900,1,24
+1342,3,8441,Charming Inn,1,16300,3,20
+1343,3,8442,City Loft House,1,55000,2,15
+1344,1,8443,Moonlight Lodge,1,17800,5,104
+1345,2,8444,Serene Cottage,1,26800,1,4
+1346,4,8453,Mountain Retreat Manor,1,5200,4,9
+1347,5,8454,Modern Lodge,1,10100,6,3
+1348,5,8457,Grand Cottage,1,11100,1,10
+1349,2,8460,Balance Lodge,1,6400,2,9
+1350,2,8461,Luxury Villa GuestHouse,1,6200,7,7
+1351,2,8463,Luxury Villa GuestHouse,1,8200,7,7
+1352,5,8466,Charming House,1,5000,2,5
+1353,1,8467,Moonlight Boutique Suites,1,19500,7,116
+1354,1,8468,Rustic Lodge,1,18900,6,146
+1355,3,8469,Modern House,0,54400,1,10
+1356,4,8470,City Loft Cottage,1,43200,2,5
+1357,1,8471,Mountain Retreat Boutique Residence,1,11900,6,52
+1358,3,8472,Deluxe Lodge,1,31700,3,18
+1359,2,8476,Mirage Hideaway,1,39000,4,5
+1360,3,8483,Luxury Villa Hideaway,1,5200,2,23
+1361,3,8485,Balance Haven,1,26800,7,24
+1362,2,8487,Mirage Manor,1,7200,1,6
+1363,1,8489,Moonlight Suites,1,6700,1,89
+1364,5,8490,Exquisite Manor,1,10900,4,12
+1365,3,8496,Exquisite Hideaway,1,12200,7,13
+1366,3,8497,Serene Haven,1,62700,3,18
+1367,4,8498,Charming GuestHouse,1,31900,4,8
+1368,1,8502,Cosy Lodge,1,30500,1,96
+1369,2,8506,Serene Haven,1,10000,6,11
+1370,1,8508,Amuse Oasis,1,48600,1,83
+1371,4,8509,Cozy Lodge,0,15200,7,3
+1372,4,8510,Exalted Inn,1,60200,5,7
+1373,5,8511,Deluxe Retreat,1,9300,3,10
+1374,4,8512,Cosy House,1,32700,2,3
+1375,1,8514,Deluxe Lodge,1,32000,7,159
+1376,4,8515,Charming Retreat,1,13300,4,3
+1377,1,8520,Amuse Boutique Hotel,1,58400,5,126
+1378,1,8521,Grand Boutique Residence,1,9800,1,91
+1379,1,8524,Serene Boutique Residence,1,58000,7,160
+1380,3,8529,Amuse Retreat,1,39000,2,19
+1381,2,8531,Exquisite Retreat,1,14000,2,13
+1382,4,8533,Homely Hideaway,1,52800,4,3
+1383,4,8535,Homely Hideaway,1,6700,3,5
+1384,1,8540,Balance Hotel,1,16200,4,148
+1385,2,8541,Luxury Villa Retreat,1,8400,7,7
+1386,4,8542,Luxury Villa Lodge,1,42600,7,5
+1387,2,8543,Mirage Cottage,1,9800,3,8
+1388,2,8545,Modern Cottage,1,6800,4,14
+1389,3,8546,Moonlight Cottage,1,6400,6,20
+1390,1,8547,Rustic Lodge,1,6300,5,60
+1391,1,8548,Amuse Lodge,1,50700,4,93
+1392,1,8549,Cosy Suites,1,49300,3,125
+1393,4,8550,Cosy Haven,1,36800,2,11
+1394,1,8552,Serene Boutique Residence,1,38700,3,149
+1395,1,8553,Rustic Retreat,1,56500,6,76
+1396,4,8554,Luxury Villa House,1,14100,3,3
+1397,2,8558,Luxury Villa House,1,20200,2,7
+1398,5,8560,City Loft Lodge,1,30700,3,12
+1399,2,8563,Refresh Manor,1,7700,6,9
+1400,4,8564,Rustic Retreat,1,9800,5,14
+1401,4,8567,Homely GuestHouse,1,33100,6,6
+1402,2,8570,Deluxe Manor,1,37500,1,9
+1403,1,8574,Rustic Oasis,1,48300,1,128
+1404,3,8575,Mirage GuestHouse,1,22400,6,17
+1405,2,8577,Cosy Lodge,1,56800,4,10
+1406,2,8578,Cosy Inn,1,32900,7,4
+1407,4,8580,Serene Hideaway,1,6800,1,9
+1408,2,8583,Exalted Haven,1,38500,7,2
+1409,1,8584,Refresh Boutique Residence,1,27000,3,60
+1410,1,8588,Mountain Retreat Boutique Suites,1,5600,5,117
+1411,2,8590,Modern Cottage,1,7600,1,9
+1412,1,8593,Luxury Villa Boutique Suites,0,37400,5,141
+1413,2,8594,Beach House Lodge,1,36000,2,8
+1414,1,8595,Balance Boutique Residence,0,45500,1,62
+1415,1,8596,Amuse Lodge,1,13600,1,134
+1416,5,8599,Mountain Retreat Hideaway,1,7200,4,10
+1417,5,8600,Refresh House,1,29500,3,7
+1418,2,8603,Exalted GuestHouse,1,11500,4,6
+1419,4,8604,Beach House Cottage,1,20800,6,13
+1420,5,8605,Beach House GuestHouse,1,27100,1,7
+1421,5,8607,Exquisite Lodge,1,9600,5,7
+1422,1,8610,Mountain Retreat Boutique Hotel,1,41100,5,136
+1423,1,8611,City Loft Hotel,1,19400,4,65
+1424,1,8613,Refresh Boutique Hotel,1,14700,7,159
+1425,3,8616,Balance Manor,1,10900,5,28
+1426,1,8617,Rustic Oasis,1,50200,1,141
+1427,4,8621,Homely House,1,51500,4,14
+1428,2,8622,Modern Manor,1,44400,4,14
+1429,5,8624,Mirage House,1,16100,4,11
+1430,1,8625,Exalted Retreat,1,19500,2,101
+1431,5,8626,Moonlight Lodge,1,7200,6,5
+1432,4,8627,Serene GuestHouse,1,5400,3,11
+1433,3,8628,Mountain Retreat Hideaway,1,51000,3,22
+1434,3,8629,Charming Haven,1,8400,5,11
+1435,1,8630,Mountain Retreat Hotel,1,6500,5,75
+1436,1,8634,Balance Retreat,1,16900,1,118
+1437,1,8637,Refresh Retreat,1,55200,1,109
+1438,4,8638,Charming Haven,1,29500,5,8
+1439,1,8641,Exquisite Resort,1,48900,4,159
+1440,5,8642,Luxury Villa Cottage,1,46900,1,3
+1441,2,8646,Modern Hideaway,1,9400,2,5
+1442,2,8647,Rustic GuestHouse,1,33900,5,2
+1443,2,8650,Beach House Manor,1,12300,4,3
+1444,1,8652,Balance Resort,1,11000,6,126
+1445,1,8655,Deluxe Residence,1,44600,1,50
+1446,5,8657,Exalted GuestHouse,1,10400,1,2
+1447,1,8658,Rustic Lodge,1,10800,1,141
+1448,2,8659,Moonlight House,1,9800,7,12
+1449,5,8660,Charming Haven,1,5200,6,11
+1450,4,8665,Moonlight Lodge,1,5500,4,9
+1451,2,8669,Refresh Haven,1,5800,7,6
+1452,4,8670,Amuse GuestHouse,1,21000,6,5
+1453,2,8672,Cosy Lodge,1,7100,7,9
+1454,5,8674,Homely Inn,1,13800,3,5
+1455,1,8675,Charming Boutique Hotel,1,27900,5,50
+1456,3,8676,Homely Inn,1,43500,2,23
+1457,4,8679,Balance Lodge,1,24500,1,4
+1458,1,8680,Charming Boutique Hotel,1,53100,2,59
+1459,4,8682,Luxury Villa Inn,1,14400,6,9
+1460,4,8683,Balance Retreat,1,41700,1,13
+1461,2,8685,Homely GuestHouse,1,46100,6,12
+1462,1,8688,City Loft Retreat,1,48800,5,134
+1463,1,8690,Serene Oasis,1,63800,2,99
+1464,1,8691,Moonlight Lodge,1,62300,3,108
+1465,2,8692,City Loft Cottage,1,58500,7,5
+1466,4,8695,City Loft GuestHouse,1,21100,7,14
+1467,4,8697,Moonlight Haven,1,41800,5,6
+1468,5,8699,Mountain Retreat Cottage,1,38100,2,2
+1469,2,8706,Modern Manor,1,6200,3,14
+1470,1,8710,Homely Oasis,1,7900,6,106
+1471,4,8711,Modern Cottage,1,15800,4,4
+1472,5,8715,Homely Manor,1,44600,6,4
+1473,1,8716,City Loft Resort,1,24100,5,55
+1474,1,8718,Exalted Boutique Suites,1,44200,7,67
+1475,4,8722,Homely House,1,5800,6,14
+1476,2,8723,Charming Retreat,1,5600,3,6
+1477,2,8726,Cozy GuestHouse,1,22400,2,2
+1478,4,8729,Cozy Lodge,1,7100,1,11
+1479,2,8730,Mirage GuestHouse,1,19200,1,6
+1480,1,8733,Homely Oasis,1,25100,1,86
+1481,1,8737,Serene Lodge,1,19800,1,58
+1482,1,8739,Amuse Hotel,1,16700,2,78
+1483,2,8750,Homely Hideaway,1,56900,7,7
+1484,3,8751,Mirage Retreat,1,7800,4,20
+1485,1,8753,Amuse Lodge,1,25000,1,101
+1486,5,8754,Balance Lodge,1,5400,5,7
+1487,3,8755,Modern Retreat,1,21200,4,25
+1488,1,8756,Grand Lodge,1,40800,7,151
+1489,3,8758,Cosy Retreat,1,56600,1,27
+1490,1,8761,Grand Boutique Hotel,1,7900,3,54
+1491,2,8764,Mountain Retreat Retreat,1,62200,7,5
+1492,3,8767,Rustic House,1,54100,1,24
+1493,1,8768,Beach House Suites,1,8900,5,135
+1494,4,8774,Serene Cottage,1,27500,6,12
+1495,1,8775,Luxury Villa Lodge,1,8100,5,71
+1496,4,8776,Amuse Manor,1,6000,2,14
+1497,1,8778,Balance Retreat,1,35900,2,102
+1498,2,8779,City Loft Manor,1,9800,7,7
+1499,1,8781,Mirage Lodge,1,10300,1,127
+1500,3,8782,Mountain Retreat Inn,1,34500,5,12
+1501,4,8785,Moonlight Hideaway,1,18800,3,9
+1502,5,8786,Exalted Haven,1,7600,5,11
+1503,1,8787,Exalted Retreat,1,29500,4,58
+1504,2,8790,Exquisite Retreat,1,6400,5,4
+1505,1,8792,Grand Lodge,1,17600,5,144
+1506,1,8794,Luxury Villa Oasis,1,7200,3,152
+1507,4,8796,Mirage Retreat,1,5600,2,8
+1508,2,8798,City Loft Lodge,1,8200,7,12
+1509,1,8799,Amuse Resort,1,41600,5,149
+1510,5,8807,Luxury Villa Inn,1,8700,1,8
+1511,2,8808,Modern GuestHouse,1,51200,1,5
+1512,3,8809,Mirage GuestHouse,1,14900,6,30
+1513,2,8811,Exquisite Hideaway,1,27000,1,10
+1514,1,8818,City Loft Resort,1,19500,3,151
+1515,3,8828,Amuse Manor,1,26600,3,28
+1516,2,8829,Balance House,1,18600,3,2
+1517,4,8830,Mountain Retreat Retreat,1,6700,6,14
+1518,4,8831,Mirage Lodge,1,33000,7,12
+1519,5,8832,Beach House GuestHouse,1,10400,1,4
+1520,1,8837,Balance Boutique Suites,1,59200,6,83
+1521,4,8839,Beach House Inn,1,11400,4,12
+1522,4,8844,Refresh Lodge,1,5900,6,5
+1523,2,8846,Moonlight Inn,1,5700,4,2
+1524,1,8849,Homely Suites,1,8000,7,138
+1525,3,8851,Exalted Retreat,1,6600,4,10
+1526,1,8855,Rustic Lodge,1,63100,7,128
+1527,1,8856,Balance Suites,1,62000,5,152
+1528,1,8858,Modern Lodge,1,8200,5,138
+1529,5,8860,Mountain Retreat Haven,1,5800,1,12
+1530,1,8862,Cosy Suites,1,15700,4,150
+1531,5,8863,Rustic GuestHouse,1,36200,6,7
+1532,2,8864,Moonlight Retreat,1,26300,6,3
+1533,2,8865,Exquisite Hideaway,1,9600,1,14
+1534,1,8866,Homely Suites,1,9500,5,63
+1535,1,8868,Cozy Retreat,1,7900,2,123
+1536,1,8870,Exquisite Boutique Residence,1,6400,4,130
+1537,4,8873,Luxury Villa Cottage,1,7300,6,13
+1538,1,8874,Balance Boutique Suites,1,9700,4,74
+1539,2,8879,Exalted Hideaway,1,5400,1,11
+1540,1,8881,Refresh Suites,1,9700,2,72
+1541,3,8882,Balance House,1,62700,7,26
+1542,3,8887,Luxury Villa Cottage,0,19700,7,17
+1543,5,8889,Homely House,1,27200,5,12
+1544,1,8891,Mirage Lodge,1,10000,6,63
+1545,2,8893,Cozy Cottage,1,5100,4,6
+1546,2,8894,Homely Lodge,1,34600,7,8
+1547,1,8895,Rustic Boutique Residence,1,9600,1,148
+1548,3,8896,Deluxe Haven,1,51800,3,30
+1549,1,8901,Charming Retreat,1,6200,6,157
+1550,4,8903,Exquisite Manor,1,12800,3,7
+1551,2,8909,Charming Inn,1,9800,3,7
+1552,1,8915,Refresh Oasis,1,5700,5,60
+1553,1,8916,Exquisite Boutique Hotel,1,5700,7,133
+1554,4,8920,Refresh Inn,1,24000,2,2
+1555,3,8921,Mirage Cottage,1,6900,1,21
+1556,4,8922,Modern Hideaway,1,6900,6,4
+1557,4,8926,Deluxe Lodge,1,18900,2,9
+1558,3,8927,Beach House Haven,1,46800,5,19
+1559,4,8928,Modern Cottage,1,27800,7,14
+1560,2,8929,Exalted Retreat,1,49000,4,5
+1561,1,8934,Mountain Retreat Boutique Hotel,1,6400,1,64
+1562,1,8935,Mirage Retreat,1,62500,7,115
+1563,1,8936,City Loft Boutique Hotel,1,18100,1,139
+1564,4,8939,Beach House Inn,1,9300,6,9
+1565,3,8940,Luxury Villa House,1,15000,5,28
+1566,1,8949,Mirage Retreat,1,7300,4,152
+1567,2,8950,Rustic Lodge,1,64200,5,2
+1568,4,8951,City Loft House,1,52900,6,4
+1569,3,8954,Beach House Retreat,1,7200,6,18
+1570,1,8957,Grand Lodge,1,17700,4,62
+1571,4,8962,Modern Inn,1,37500,7,8
+1572,1,8963,Modern Hotel,1,8100,4,71
+1573,4,8965,Amuse House,1,9400,3,8
+1574,3,8966,Balance Inn,1,35700,3,26
+1575,5,8968,Exquisite GuestHouse,1,9100,6,8
+1576,5,8969,Amuse House,0,8600,7,2
+1577,1,8970,Rustic Boutique Residence,1,36200,5,102
+1578,4,8972,Deluxe Retreat,1,23400,3,9
+1579,2,8973,Grand House,1,9400,5,4
+1580,1,8974,Refresh Resort,1,44900,3,76
+1581,4,8975,Amuse Haven,1,34800,1,4
+1582,3,8976,Charming Haven,1,9800,4,30
+1583,2,8978,Rustic Cottage,1,16500,7,5
+1584,1,8980,Deluxe Boutique Suites,1,62100,7,124
+1585,1,8982,Cosy Suites,1,24600,6,133
+1586,3,8983,Mountain Retreat Cottage,1,43700,1,27
+1587,3,8985,Cozy Hideaway,1,6600,2,26
+1588,4,8989,Grand Inn,1,24600,5,13
+1589,4,8992,Serene Haven,1,8800,7,9
+1590,1,8993,Homely Resort,1,21300,2,131
+1591,1,8994,Beach House Residence,1,8300,1,82
+1592,2,8996,Grand Inn,1,39300,2,2
+1593,3,8999,Homely Retreat,1,55400,3,19
+1594,1,9168,Exquisite Resort,1,15700,2,84
+1595,1,9170,Homely Resort,1,21400,6,80
+1596,1,9172,Deluxe Boutique Suites,1,51800,3,115
+1597,3,9173,Mirage House,1,5200,4,10
+1598,2,9174,Charming Inn,1,19600,6,5
+1599,2,9175,Grand Retreat,1,57700,1,7
+1600,2,9176,City Loft Lodge,1,5800,5,8
+1601,1,9178,Beach House Lodge,1,9000,1,61
+1602,4,9180,Luxury Villa Hideaway,1,5800,7,9
+1603,1,9181,Refresh Residence,1,5800,5,101
+1604,4,9186,Beach House Haven,1,28800,3,4
+1605,3,9191,Balance Inn,1,17300,2,18
+1606,5,9193,Exquisite Cottage,1,8300,1,3
+1607,1,9194,Moonlight Boutique Residence,1,56900,1,50
+1608,5,9197,Cozy Manor,1,13700,3,4
+1609,1,9198,Mirage Suites,1,38600,6,157
+1610,1,9199,Rustic Lodge,1,7300,4,157
+1611,2,9200,Deluxe Lodge,1,42700,7,9
+1612,4,9201,Rustic Manor,1,8000,3,10
+1613,3,9202,Moonlight Retreat,1,57200,3,24
+1614,1,9203,Mirage Retreat,1,46900,7,157
+1615,3,9204,Serene Haven,1,10500,2,28
+1616,1,9205,Amuse Boutique Residence,1,27300,1,77
+1617,2,9207,Luxury Villa House,1,39500,6,5
+1618,5,9208,Charming GuestHouse,1,24600,7,12
+1619,3,9209,Mirage Inn,1,62300,1,10
+1620,1,9210,Deluxe Resort,1,10800,4,64
+1621,3,9211,Exquisite Cottage,1,9300,6,10
+1622,4,9213,Serene Retreat,1,5800,6,10
+1623,2,9215,Balance Haven,1,50900,5,13
+1624,1,9217,City Loft Suites,1,7000,3,96
+1625,4,9218,Amuse Lodge,1,43900,3,5
+1626,3,9223,Mountain Retreat Manor,1,9500,1,20
+1627,3,9226,Homely Hideaway,1,9200,6,30
+1628,1,9228,Serene Retreat,1,23100,4,70
+1629,3,9232,Modern Retreat,1,61800,5,11
+1630,1,9235,Balance Boutique Suites,1,9400,7,92
+1631,2,9236,Serene Retreat,1,21500,4,6
+1632,1,9237,Balance Hotel,1,5200,2,149
+1633,3,9241,Exquisite Inn,1,30300,5,13
+1634,5,9243,Luxury Villa Retreat,1,15000,1,6
+1635,1,9246,Exquisite Oasis,1,13700,1,85
+1636,1,9247,Balance Retreat,1,9000,6,118
+1637,2,9248,Amuse Hideaway,1,54800,4,11
+1638,5,9249,City Loft Manor,1,8000,6,4
+1639,1,9254,Serene Retreat,1,52600,2,51
+1640,3,9257,Serene Lodge,1,25800,7,27
+1641,2,9259,Beach House Retreat,1,11100,3,13
+1642,1,9265,City Loft Boutique Hotel,0,53000,6,77
+1643,4,9266,Amuse Manor,1,44000,5,13
+1644,2,9267,Cosy Inn,1,48400,4,4
+1645,2,9269,Balance Retreat,1,34800,5,5
+1646,4,9271,Refresh Hideaway,1,14600,5,3
+1647,1,9273,Moonlight Suites,1,57500,4,153
+1648,4,9276,Moonlight Manor,1,56400,2,2
+1649,4,9277,Homely Haven,1,21600,1,9
+1650,5,9279,Exquisite Inn,1,6700,1,9
+1651,2,9280,Balance Retreat,1,21200,5,4
+1652,3,9283,Exalted GuestHouse,1,5800,7,29
+1653,4,9284,Cosy Manor,1,51000,7,7
+1654,4,9290,Homely Retreat,1,8100,4,3
+1655,5,9291,Balance Cottage,0,18000,2,2
+1656,2,9296,Luxury Villa Retreat,1,26800,6,11
+1657,4,9299,Amuse Hideaway,1,43500,6,6
+1658,4,9304,Cozy GuestHouse,1,25800,4,14
+1659,4,9306,Rustic Retreat,1,9900,2,13
+1660,1,9307,City Loft Residence,1,63500,1,105
+1661,1,9309,Beach House Lodge,1,8200,1,132
+1662,1,9310,Homely Boutique Suites,1,20800,7,154
+1663,2,9313,Mirage Retreat,1,39700,4,14
+1664,1,9315,Modern Residence,1,30200,7,118
+1665,1,9316,Exalted Suites,1,5600,3,97
+1666,2,9317,Homely Hideaway,1,6000,6,10
+1667,4,9318,Beach House Lodge,1,7000,1,5
+1668,5,9320,Serene Cottage,1,6200,2,12
+1669,4,9323,Moonlight Hideaway,1,5000,3,11
+1670,2,9326,Modern Cottage,1,24100,1,12
+1671,2,9327,Moonlight Retreat,1,64900,1,10
+1672,5,9329,Homely GuestHouse,1,13900,3,14
+1673,3,9334,Deluxe Hideaway,1,16700,5,21
+1674,1,9335,Exquisite Retreat,1,28100,2,90
+1675,1,9337,Cosy Boutique Hotel,1,18300,1,151
+1676,2,9341,Exquisite Haven,1,9600,1,9
+1677,2,9343,City Loft Lodge,1,9300,7,8
+1678,5,9344,Moonlight GuestHouse,1,22400,3,13
+1679,5,9345,Mountain Retreat Haven,1,5900,1,12
+1680,1,9347,Deluxe Boutique Suites,1,30500,2,92
+1681,5,9349,Homely Retreat,1,19100,1,3
+1682,4,9350,Refresh Retreat,1,15400,5,12
+1683,1,9351,Moonlight Resort,1,5500,1,88
+1684,1,9352,Luxury Villa Boutique Suites,0,12300,2,67
+1685,1,9353,Moonlight Suites,1,29600,4,156
+1686,4,9354,Deluxe Inn,1,27200,6,6
+1687,2,9356,Refresh Lodge,1,59800,6,7
+1688,4,9357,Serene Inn,1,5300,2,5
+1689,2,9358,Grand GuestHouse,1,5300,6,13
+1690,2,9360,Cozy GuestHouse,1,55700,6,9
+1691,1,9362,Mirage Oasis,1,31700,5,103
+1692,2,9363,Beach House Lodge,1,41300,4,11
+1693,3,9364,Charming Retreat,1,36700,1,22
+1694,2,9367,Mirage Inn,1,8600,1,3
+1695,1,9368,City Loft Suites,1,29200,6,134
+1696,4,9371,Serene Manor,1,15600,5,7
+1697,4,9372,Amuse Retreat,1,9600,2,5
+1698,1,9374,Deluxe Hotel,1,47500,2,140
+1699,2,9375,Luxury Villa GuestHouse,1,28800,1,3
+1700,4,9378,Mountain Retreat Retreat,1,63900,1,13
+1701,1,9383,Exalted Boutique Hotel,1,16000,1,56
+1702,2,9385,Grand GuestHouse,1,5400,6,13
+1703,2,9386,Mountain Retreat Retreat,1,9700,2,2
+1704,1,9389,Rustic Boutique Hotel,1,8500,4,109
+1705,4,9391,Serene Cottage,1,28900,7,5
+1706,4,9393,Mirage Hideaway,1,7400,5,2
+1707,1,9394,Beach House Lodge,1,40000,1,92
+1708,2,9395,Mountain Retreat Retreat,1,61500,3,6
+1709,1,9398,Cozy Boutique Suites,1,37700,7,118
+1710,1,9400,Rustic Boutique Suites,1,33300,1,89
+1711,2,9401,Grand Manor,1,8200,6,14
+1712,4,9404,Modern Hideaway,1,29200,1,5
+1713,3,9405,Mirage Inn,1,35800,3,10
+1714,5,9408,Refresh Lodge,1,55200,4,13
+1715,1,9409,Homely Retreat,1,58200,5,80
+1716,2,9411,Mirage Retreat,1,46300,5,14
+1717,1,9412,Luxury Villa Oasis,1,6100,5,147
+1718,3,9413,Cozy Inn,1,64300,6,10
+1719,4,9414,Moonlight Lodge,1,53700,5,10
+1720,4,9415,Moonlight Cottage,1,6900,1,6
+1721,1,9417,Refresh Retreat,1,50400,1,117
+1722,3,9418,Mountain Retreat Haven,1,47700,5,17
+1723,2,9419,Mountain Retreat Lodge,1,59100,3,10
+1724,2,9424,Beach House House,1,54700,3,9
+1725,3,9425,Rustic Retreat,1,22200,7,24
+1726,4,9427,Amuse Inn,1,8700,7,9
+1727,4,9428,Amuse Hideaway,1,39000,2,10
+1728,4,9429,Mirage Lodge,1,54700,6,14
+1729,3,9437,Moonlight Haven,1,52400,1,29
+1730,3,9441,Luxury Villa Retreat,1,6800,1,25
+1731,2,9444,Exalted Hideaway,0,6600,7,6
+1732,4,9450,Grand Inn,1,17700,6,8
+1733,2,9457,Mountain Retreat Inn,1,31100,7,10
+1734,2,9458,Charming Inn,1,18300,3,13
+1735,1,9459,Cozy Lodge,1,25900,4,76
+1736,1,9460,Exquisite Boutique Suites,1,9500,7,60
+1737,4,9461,Luxury Villa Manor,1,48600,5,9
+1738,2,9462,Exquisite Retreat,1,11100,2,4
+1739,2,9465,Cosy Manor,1,8000,7,4
+1740,2,9468,Modern Cottage,1,36700,2,12
+1741,4,9469,Amuse Lodge,1,36200,3,11
+1742,2,9473,Serene Retreat,1,19500,5,6
+1743,4,9479,Cozy Haven,1,60600,5,4
+1744,3,9480,Balance Lodge,1,64300,3,24
+1745,3,9482,Cosy Manor,1,10800,4,29
+1746,2,9483,Serene Haven,1,7400,7,4
+1747,1,9484,Amuse Hotel,1,7200,2,117
+1748,1,9485,Modern Residence,1,17000,6,131
+1749,5,9486,Refresh Haven,1,17100,3,12
+1750,5,9487,City Loft Haven,1,42800,3,13
+1751,5,9490,City Loft Cottage,1,14800,5,2
+1752,1,9493,Beach House Oasis,1,9000,7,126
+1753,3,9497,Cozy Lodge,1,23400,4,25
+1754,4,9498,Cosy Cottage,1,15700,4,13
+1755,1,9499,Exquisite Oasis,1,29700,5,96
+1756,1,9511,Luxury Villa Resort,1,37000,5,53
+1757,2,9513,Exquisite House,1,26300,3,13
+1758,3,9515,Cozy House,1,17100,5,12
+1759,4,9518,City Loft GuestHouse,1,10200,2,6
+1760,1,9519,Cosy Lodge,1,25900,1,90
+1761,2,9521,Rustic Manor,1,29200,4,7
+1762,1,9522,Refresh Oasis,1,59600,7,148
+1763,4,9523,Cozy Lodge,1,35300,1,8
+1764,4,9524,Cozy Hideaway,1,15500,7,13
+1765,1,9525,City Loft Lodge,1,41600,4,135
+1766,2,9526,Serene Manor,1,6000,2,14
+1767,4,9527,Modern Cottage,1,9200,5,2
+1768,4,9528,Moonlight Cottage,1,7100,4,5
+1769,1,9530,Homely Lodge,1,9700,7,134
+1770,4,9531,Deluxe Lodge,1,7600,5,5
+1771,4,9533,Cosy Lodge,1,7300,7,9
+1772,2,9534,Luxury Villa Retreat,1,9400,2,10
+1773,3,9535,Charming Haven,1,11200,5,25
+1774,4,9536,Grand Manor,1,12200,5,12
+1775,4,9539,Rustic GuestHouse,1,54800,7,14
+1776,2,9541,Grand Manor,1,8000,5,14
+1777,4,9542,Homely Haven,1,37600,3,10
+1778,3,9543,Mirage Retreat,1,24500,6,12
+1779,1,9545,City Loft Retreat,1,42500,5,85
+1780,1,9547,Charming Boutique Residence,1,7800,3,130
+1781,1,9551,Grand Hotel,1,15700,7,85
+1782,4,9552,Amuse Manor,1,10900,6,7
+1783,1,9553,Refresh Suites,1,5000,7,143
+1784,3,9555,Amuse Cottage,1,15600,4,22
+1785,4,9556,Refresh Inn,1,29100,5,4
+1786,5,9559,Homely Cottage,1,54700,4,9
+1787,4,9562,Modern Haven,1,64500,7,9
+1788,4,9563,Beach House Hideaway,1,48500,2,12
+1789,4,9564,Serene Cottage,1,37600,5,7
+1790,3,9566,Exalted Hideaway,1,17500,5,20
+1791,2,9567,Luxury Villa Hideaway,1,43900,2,13
+1792,3,9568,Luxury Villa GuestHouse,1,9000,3,17
+1793,2,9569,Moonlight Haven,1,9600,7,9
+1794,2,9570,Amuse Inn,1,13500,2,11
+1795,4,9571,Mountain Retreat Manor,1,19300,1,10
+1796,3,9573,Exalted Hideaway,1,30700,3,19
+1797,3,9574,Refresh Lodge,1,39700,1,17
+1798,1,9577,Serene Resort,1,16100,1,126
+1799,5,9578,Mountain Retreat Cottage,1,7400,6,7
+1800,4,9003,Deluxe Inn,1,20900,4,14
+1801,1,9004,Deluxe Boutique Suites,1,50000,1,86
+1802,5,9005,Moonlight GuestHouse,1,45800,7,13
+1803,1,9007,Exquisite Lodge,1,22200,3,67
+1804,1,9008,Balance Lodge,1,23500,5,54
+1805,2,9009,Amuse Cottage,1,56100,1,14
+1806,3,9010,Refresh GuestHouse,1,23600,1,19
+1807,1,9013,Beach House Retreat,1,13900,4,117
+1808,1,9014,Charming Boutique Suites,1,15900,5,150
+1809,3,9015,Exquisite GuestHouse,1,18800,1,30
+1810,1,9016,Moonlight Lodge,1,9000,4,133
+1811,4,9018,Exalted Hideaway,1,8300,1,8
+1812,4,9019,Beach House Retreat,1,57600,1,10
+1813,1,9020,Homely Retreat,1,62600,6,139
+1814,4,9023,Grand GuestHouse,1,15300,7,10
+1815,5,9024,Charming Lodge,1,33400,4,14
+1816,1,9025,Mirage Residence,1,44400,2,160
+1817,3,9027,Balance GuestHouse,1,44500,1,16
+1818,2,9028,Amuse Haven,1,34900,4,11
+1819,5,9029,Amuse Cottage,1,44500,4,14
+1820,4,9033,Mountain Retreat Cottage,1,38300,7,9
+1821,2,9034,Moonlight Lodge,1,49300,7,7
+1822,2,9036,Luxury Villa GuestHouse,0,11100,2,9
+1823,2,9037,Deluxe Inn,1,20900,6,7
+1824,5,9039,Cozy GuestHouse,1,45600,4,3
+1825,4,9041,Exquisite GuestHouse,1,48000,7,4
+1826,3,9045,Deluxe Cottage,1,46800,4,21
+1827,1,9047,Refresh Boutique Suites,1,58500,6,153
+1828,4,9048,Balance GuestHouse,1,23300,4,13
+1829,4,9049,Cozy Haven,1,41200,5,4
+1830,1,9050,Beach House Suites,1,44700,2,103
+1831,3,9051,Amuse Retreat,1,23400,1,27
+1832,5,9054,Cosy Manor,1,19800,1,7
+1833,5,9056,Cozy Hideaway,1,7800,3,5
+1834,1,9058,Modern Oasis,1,28700,6,126
+1835,5,9062,City Loft House,1,63700,2,6
+1836,2,9065,Deluxe Lodge,1,45900,4,5
+1837,4,9070,Homely GuestHouse,1,5600,2,13
+1838,3,9071,Modern Cottage,1,37300,5,10
+1839,4,9072,Modern Manor,1,7400,2,14
+1840,1,9073,Deluxe Suites,1,9100,3,92
+1841,1,9074,City Loft Hotel,1,8300,7,157
+1842,1,9075,Amuse Retreat,1,45700,3,159
+1843,2,9076,Refresh Cottage,1,14600,4,13
+1844,2,9077,Moonlight Hideaway,1,35100,2,7
+1845,4,9078,Moonlight Hideaway,1,9100,5,7
+1846,5,9084,Modern Haven,1,28800,1,4
+1847,1,9087,Cosy Retreat,1,58500,5,115
+1848,1,9090,Mirage Resort,1,8600,4,105
+1849,5,9095,Cosy Lodge,1,43400,2,13
+1850,4,9096,Cozy Retreat,1,6300,7,13
+1851,2,9097,Deluxe Lodge,1,21500,7,8
+1852,3,9098,City Loft Manor,1,16400,5,20
+1853,4,9100,Moonlight House,1,5100,2,10
+1854,1,9101,Deluxe Retreat,1,59500,1,123
+1855,1,9102,Deluxe Residence,1,8000,3,116
+1856,1,9107,Moonlight Boutique Residence,1,49500,3,139
+1857,4,9111,City Loft Inn,1,22300,3,7
+1858,4,9117,Serene House,1,63000,5,3
+1859,2,9119,Balance House,1,54000,5,2
+1860,4,9122,Serene Cottage,1,8500,3,14
+1861,1,9123,Refresh Suites,1,15900,5,121
+1862,1,9127,Charming Suites,1,24600,1,58
+1863,2,9130,Deluxe Manor,1,12400,7,4
+1864,3,9132,Mirage Haven,1,49500,4,27
+1865,1,9133,Serene Hotel,1,9200,1,61
+1866,1,9135,Cosy Suites,1,24200,2,101
+1867,1,9137,Refresh Lodge,1,23700,5,58
+1868,2,9139,Cozy Inn,1,24400,3,6
+1869,1,9141,Refresh Retreat,1,13300,1,157
+1870,4,9142,Moonlight Inn,1,36200,7,2
+1871,4,9147,Balance Cottage,1,21400,6,6
+1872,1,9149,Mirage Lodge,1,16200,5,153
+1873,4,9150,Modern House,1,59600,4,5
+1874,2,9152,Balance House,1,29900,6,8
+1875,4,9155,Amuse Cottage,1,14600,6,5
+1876,5,9158,Luxury Villa Haven,1,9200,3,14
+1877,1,9160,Balance Residence,1,36900,1,159
+1878,3,9162,Amuse Inn,1,6100,5,24
+1879,2,9163,Serene Inn,1,8900,4,4
+1880,2,9164,Refresh House,1,51600,2,10
+1881,3,9580,Serene GuestHouse,1,6700,7,11
+1882,4,9581,Refresh Haven,1,19900,7,12
+1883,4,9584,Amuse GuestHouse,1,17200,7,2
+1884,3,9587,Modern Cottage,1,29600,5,29
+1885,2,9588,Homely Lodge,1,5600,4,6
+1886,3,9591,Beach House House,1,6100,6,18
+1887,1,9592,Balance Oasis,1,10200,7,156
+1888,3,9594,Mirage GuestHouse,1,17100,3,29
+1889,3,9596,Rustic House,1,6700,6,19
+1890,5,9600,Cozy Manor,1,52600,5,14
+1891,2,9603,Charming Retreat,1,6500,6,3
+1892,4,9605,Mountain Retreat Haven,1,5300,2,2
+1893,4,9606,Rustic Hideaway,1,45900,6,6
+1894,1,9608,Amuse Suites,1,8000,5,90
+1895,4,9611,Homely GuestHouse,1,8300,4,9
+1896,4,9612,Mirage Cottage,1,5300,6,4
+1897,5,9614,City Loft Lodge,1,9600,5,6
+1898,2,9615,Amuse Inn,1,54600,6,10
+1899,3,9616,Beach House Lodge,1,22200,5,27
+1900,2,9618,Moonlight Haven,1,7300,6,4
+1901,1,9619,Mountain Retreat Boutique Hotel,1,7700,5,144
+1902,5,9622,Rustic House,1,7600,6,8
+1903,4,9626,Exquisite Cottage,1,5500,4,5
+1904,4,9629,Modern Inn,1,45600,1,11
+1905,3,9631,Mountain Retreat Cottage,1,62400,3,26
+1906,3,9632,Cosy Hideaway,1,7000,3,24
+1907,4,9638,Rustic GuestHouse,1,8900,6,6
+1908,1,9639,Homely Residence,1,64700,2,85
+1909,3,9642,Mountain Retreat Hideaway,1,36800,7,30
+1910,4,9643,Mountain Retreat Cottage,1,17200,4,7
+1911,1,9644,Charming Suites,1,6900,3,119
+1912,2,9646,Homely Cottage,1,13400,6,10
+1913,4,9647,Deluxe Lodge,1,27700,1,14
+1914,4,9648,Refresh GuestHouse,1,18100,6,7
+1915,3,9651,Cosy Lodge,1,29600,3,19
+1916,4,9652,Mirage GuestHouse,1,14800,2,9
+1917,1,9655,Exquisite Oasis,1,15700,6,128
+1918,4,9657,Exquisite Hideaway,1,57700,1,11
+1919,2,9661,Homely Lodge,1,61700,2,2
+1920,4,9665,Charming Inn,1,9900,2,12
+1921,1,9668,Mountain Retreat Boutique Hotel,1,49600,1,135
+1922,2,9669,Balance Cottage,1,9000,7,2
+1923,4,9670,Mirage Lodge,1,9100,3,4
+1924,5,9671,Mirage Inn,1,27300,4,7
+1925,4,9672,Cosy Manor,1,7300,6,7
+1926,2,9674,Amuse Haven,1,57300,3,2
+1927,5,9675,Beach House Inn,1,61000,1,7
+1928,2,9677,Amuse Hideaway,1,8700,6,3
+1929,3,9678,Cozy House,1,17800,5,28
+1930,1,9680,Exalted Suites,1,35500,1,79
+1931,4,9683,Cosy Manor,1,16700,1,4
+1932,4,9684,Moonlight Inn,1,5400,2,7
+1933,2,9689,Serene GuestHouse,1,50000,5,3
+1934,4,9693,Balance Manor,1,23500,5,12
+1935,5,9694,Charming GuestHouse,1,17800,1,2
+1936,4,9696,Luxury Villa Lodge,1,47700,5,8
+1937,1,9697,Grand Suites,1,7400,6,108
+1938,1,9698,Exquisite Boutique Hotel,1,14900,1,52
+1939,3,9699,Balance GuestHouse,1,7300,6,18
+1940,3,9701,Balance GuestHouse,1,6400,6,19
+1941,5,9702,Deluxe GuestHouse,1,6400,7,3
+1942,2,9703,Deluxe Retreat,1,29300,2,13
+1943,4,9704,Cozy Retreat,1,9200,2,13
+1944,1,9708,Beach House Hotel,1,5200,1,151
+1945,3,9710,Refresh Lodge,1,7100,4,19
+1946,1,9711,Cosy Residence,1,21200,2,73
+1947,2,9712,City Loft Cottage,1,18500,6,11
+1948,4,9713,City Loft Hideaway,1,16800,3,9
+1949,3,9716,Rustic Manor,1,15100,6,24
+1950,3,9717,Balance Haven,1,14500,6,26
+1951,3,9718,Homely GuestHouse,1,9400,2,16
+1952,1,9721,Moonlight Resort,1,42400,6,123
+1953,1,9722,Charming Resort,1,61500,7,56
+1954,1,9732,Exquisite Residence,1,25600,2,131
+1955,1,9733,Amuse Suites,1,9300,3,81
+1956,1,9735,Mountain Retreat Resort,1,18400,6,152
+1957,1,9746,Rustic Lodge,1,8000,6,74
+1958,5,9748,Refresh House,1,7700,4,10
+1959,3,9749,Balance Cottage,1,9500,2,15
+1960,5,9750,City Loft Retreat,1,31800,3,14
+1961,2,9751,Balance Haven,1,13600,7,10
+1962,2,9755,Mountain Retreat House,1,5600,7,6
+1963,4,9757,Luxury Villa Manor,1,8900,7,7
+1964,1,9758,City Loft Boutique Residence,1,18500,7,131
+1965,2,9763,Homely House,1,43700,7,12
+1966,1,9765,Grand Oasis,1,20300,5,129
+1967,1,9775,Rustic Boutique Residence,1,18800,2,71
+1968,3,9776,Grand Cottage,1,23600,6,26
+1969,4,9777,Moonlight Hideaway,1,20000,6,12
+1970,4,9778,Exalted Lodge,1,6200,4,5
+1971,4,9781,Cosy Cottage,1,7000,7,4
+1972,2,9782,Rustic Lodge,1,24200,6,11
+1973,1,9783,Rustic Suites,1,53100,6,94
+1974,2,9785,Mirage GuestHouse,1,9500,4,4
+1975,2,9786,Amuse Inn,1,19300,4,10
+1976,5,9788,Rustic Manor,1,47800,1,2
+1977,4,9789,Exalted Lodge,1,59900,1,6
+1978,5,9790,Charming Haven,1,7400,2,13
+1979,1,9791,Modern Boutique Residence,1,9700,5,70
+1980,3,9793,Exalted GuestHouse,1,22300,6,24
+1981,5,9796,Exalted GuestHouse,0,18400,5,2
+1982,1,9798,Serene Lodge,1,26300,6,61
+1983,3,9799,Luxury Villa Retreat,1,7700,5,22
+1984,2,9803,Cosy Hideaway,1,8900,3,12
+1985,1,9804,Rustic Retreat,1,15200,4,91
+1986,1,9808,Deluxe Suites,1,59000,7,120
+1987,3,9809,Deluxe Lodge,1,6500,5,14
+1988,4,9812,Homely Cottage,1,14900,1,6
+1989,1,9815,Exalted Suites,1,11300,1,137
+1990,4,9816,Balance Manor,1,41000,5,12
+1991,4,9818,Serene House,1,23700,1,11
+1992,4,9820,Mountain Retreat GuestHouse,1,59000,4,12
+1993,2,9821,Serene GuestHouse,1,6000,1,14
+1994,3,9822,Luxury Villa Manor,1,16000,7,14
+1995,3,9823,Rustic Cottage,1,10700,5,26
+1996,4,9825,Exquisite Lodge,1,5700,7,8
+1997,3,9827,Homely Manor,1,24300,6,19
+1998,4,9828,Luxury Villa Inn,1,20900,1,13
+1999,5,9832,Cosy House,1,5500,7,14
+2000,4,9834,Homely House,1,36900,3,3
+2001,5,9835,Exalted Cottage,1,47400,2,11
+2002,1,9837,Exquisite Hotel,1,6800,2,84
+2003,1,9839,Rustic Resort,1,8500,4,83
+2004,4,9840,Mirage Cottage,1,26700,1,9
+2005,5,9841,Deluxe Retreat,1,64200,1,13
+2006,1,9847,Amuse Lodge,1,44000,6,98
+2007,3,9850,Cozy Hideaway,1,44500,6,29
+2008,4,9852,Cozy Retreat,1,31800,5,10
+2009,1,9858,Rustic Boutique Hotel,1,16300,3,138
+2010,1,9864,Refresh Boutique Suites,1,7700,1,147
+2011,1,9865,Homely Hotel,1,64400,1,61
+2012,1,9866,Luxury Villa Boutique Suites,1,9100,2,147
+2013,1,9867,Amuse Boutique Hotel,1,19600,1,54
+2014,4,9868,Balance Retreat,1,16100,3,8
+2015,2,9869,Homely Cottage,1,57600,1,6
+2016,5,9871,Exalted GuestHouse,1,19200,5,3
+2017,4,9872,Cozy Hideaway,1,22000,4,7
+2018,2,9874,Rustic Manor,0,16200,6,7
+2019,4,9876,Charming Manor,1,14300,1,2
+2020,2,9878,Moonlight Inn,1,25700,2,2
+2021,5,9880,Mountain Retreat Hideaway,1,50400,7,10
+2022,1,9882,Luxury Villa Suites,1,12200,4,159
+2023,1,9885,Charming Boutique Residence,1,10000,2,102
+2024,4,9890,Charming Inn,1,18000,1,8
+2025,1,9893,Luxury Villa Lodge,1,11000,7,137
+2026,1,9894,Exalted Oasis,1,7700,7,116
+2027,1,9895,Mirage Suites,1,6100,4,81
+2028,1,9899,Modern Retreat,1,7800,6,153
+2029,4,9902,Serene Hideaway,1,9700,3,7
+2030,4,9905,Balance House,1,25600,5,10
+2031,1,9907,Luxury Villa Boutique Residence,1,5000,6,155
+2032,4,9908,Serene Cottage,1,5300,1,2
+2033,4,9912,Cozy Retreat,1,5200,7,8
+2034,3,9916,Modern GuestHouse,1,28400,6,22
+2035,4,9917,City Loft Haven,1,13700,5,10
+2036,5,9922,Rustic GuestHouse,1,53200,5,14
+2037,2,9923,Luxury Villa Hideaway,1,5900,1,9
+2038,1,9924,Exalted Boutique Hotel,1,25900,3,158
+2039,1,9925,Charming Boutique Suites,1,16200,2,103
+2040,4,9929,City Loft Cottage,1,5800,5,7
+2041,5,9931,Serene House,1,6400,4,14
+2042,1,9932,Modern Resort,1,5100,4,99
+2043,1,9934,Beach House Suites,1,6000,7,157
+2044,4,9935,Modern Haven,1,50200,1,4
+2045,1,9937,Grand Hotel,1,51300,5,121
+2046,2,9939,Deluxe Manor,1,30600,5,13
+2047,1,9942,Amuse Boutique Residence,1,5100,6,89
+2048,4,9943,Mountain Retreat Inn,1,9400,3,3
+2049,5,9945,Refresh Lodge,1,16900,3,8
+2050,3,9948,City Loft GuestHouse,1,13400,7,29
+2051,3,9949,Luxury Villa Retreat,1,9800,1,22
+2052,4,9950,Moonlight Retreat,1,12100,3,14
+2053,4,9951,Amuse Hideaway,1,20000,7,5
+2054,4,9953,Rustic Haven,1,9800,3,12
+2055,1,9955,Beach House Resort,1,9400,6,101
+2056,3,9959,Beach House Hideaway,1,20800,1,26
+2057,1,9960,Amuse Residence,1,40700,1,130
+2058,3,9961,Cozy Hideaway,1,6600,5,20
+2059,2,9962,Modern Hideaway,1,15800,4,9
+2060,1,9963,Amuse Oasis,1,46000,3,100
+2061,2,9968,Cosy Cottage,1,9300,2,10
+2062,4,9969,Refresh Hideaway,1,16200,3,3
+2063,4,9970,Beach House Manor,1,37700,4,13
+2064,4,9973,Cosy GuestHouse,1,41500,7,7
+2065,3,9974,Modern Inn,1,24200,2,27
+2066,4,9976,Deluxe Haven,1,5400,6,7
+2067,4,9977,Moonlight Cottage,1,25600,4,9
+2068,2,9978,Amuse Retreat,1,11700,1,5
+2069,1,9979,Serene Lodge,1,27300,2,146
+2070,2,9980,City Loft Lodge,1,56500,4,13
+2071,3,9983,Charming Cottage,1,52800,1,26
+2072,4,9984,Modern Manor,1,19500,2,8
+2073,3,9991,Grand Lodge,1,7200,2,28
+2074,2,9992,Moonlight Lodge,1,40200,5,14
+2075,2,9993,Moonlight Haven,1,8600,3,13
+2076,1,9995,Mirage Residence,1,19500,1,138
+2077,4,9997,Serene House,1,59900,3,8
+2078,2,9998,Exalted House,1,50100,7,14
+2079,1,9999,Charming Residence,1,18700,2,97
+2080,1,10000,Charming Resort,1,13300,1,73
+2081,4,10004,Amuse Lodge,1,64200,3,8
+2082,2,10006,Balance Cottage,0,57900,5,8
+2083,5,10052,Mountain Retreat GuestHouse,1,6900,2,6
+2084,2,10053,Cozy GuestHouse,1,14100,5,12
+2085,1,10054,Mountain Retreat Hotel,1,6200,4,108
+2086,4,10055,Grand Retreat,1,39900,2,4
+2087,5,10057,Rustic House,1,59200,6,13
+2088,4,10058,Serene Inn,1,5500,6,9
+2089,1,10059,Serene Boutique Residence,1,5700,7,134
+2090,5,10061,Luxury Villa GuestHouse,1,6400,4,8
+2091,4,10066,Mountain Retreat Hideaway,1,7800,3,6
+2092,2,10070,City Loft Hideaway,0,11200,5,8
+2093,3,10071,Luxury Villa Retreat,1,21000,6,10
+2094,4,10073,Balance Hideaway,1,24300,4,2
+2095,4,10074,Refresh Hideaway,1,46500,7,4
+2096,2,10076,Rustic Manor,1,27500,3,7
+2097,1,10079,Exquisite Retreat,1,9200,2,158
+2098,4,10083,Luxury Villa GuestHouse,1,29600,1,14
+2099,3,10084,City Loft Hideaway,1,42700,7,19
+2100,3,10086,Amuse Haven,1,6400,2,25
+2101,3,10087,Refresh Retreat,1,41200,3,21
+2102,4,10088,Deluxe GuestHouse,1,19300,6,4
+2103,5,10089,Moonlight Hideaway,1,22100,2,4
+2104,2,10093,Serene House,1,5200,4,3
+2105,4,10095,Moonlight Manor,1,21600,6,13
+2106,5,10100,Mirage Haven,1,8600,1,3
+2107,3,10102,Homely Haven,1,7400,1,27
+2108,5,10105,Exquisite Inn,1,9300,5,8
+2109,3,10106,Rustic Manor,1,13900,4,28
+2110,4,10107,Cozy Lodge,1,25600,3,5
+2111,1,10108,Mountain Retreat Lodge,1,6300,5,122
+2112,4,10110,City Loft Retreat,1,7100,6,12
+2113,3,10111,Beach House GuestHouse,1,65000,1,17
+2114,4,10113,Mountain Retreat Lodge,1,7200,3,4
+2115,1,10114,Charming Boutique Residence,1,6000,4,70
+2116,4,10116,Cosy Inn,1,12500,5,12
+2117,3,10117,Exalted Cottage,1,19900,3,20
+2118,1,10119,Refresh Suites,1,8900,5,67
+2119,4,10120,Modern Haven,1,5800,3,10
+2120,5,10122,Cozy Cottage,1,7400,3,3
+2121,1,10125,Mirage Resort,1,41400,5,108
+2122,1,10126,Serene Suites,1,6800,5,64
+2123,4,10127,Exalted Retreat,1,28200,3,14
+2124,1,10134,Mountain Retreat Resort,1,20700,1,55
+2125,1,10135,Deluxe Hotel,1,5200,7,117
+2126,1,10140,Luxury Villa Boutique Residence,1,5800,7,144
+2127,4,10142,Rustic House,1,22500,5,8
+2128,3,10143,Beach House House,1,9300,7,17
+2129,2,10144,Serene Inn,0,37300,5,9
+2130,2,10146,Cozy Haven,1,5700,2,8
+2131,1,10150,Deluxe Boutique Hotel,1,9100,4,137
+2132,1,10151,Mirage Hotel,1,51400,7,82
+2133,1,10152,Balance Lodge,1,28100,7,86
+2134,4,10155,Deluxe Lodge,1,7300,4,4
+2135,1,10156,Amuse Boutique Residence,1,9400,3,124
+2136,1,10157,Modern Lodge,1,52900,5,109
+2137,2,10158,Grand House,1,39800,4,11
+2138,4,10159,Mirage Inn,1,24700,7,6
+2139,1,10163,Modern Boutique Suites,1,33400,2,147
+2140,3,10165,Beach House Lodge,1,13900,6,17
+2141,1,10167,Mirage Retreat,1,61900,2,57
+2142,4,10169,Charming Retreat,1,17100,4,7
+2143,4,10170,Modern GuestHouse,1,39300,4,3
+2144,3,10175,Amuse Lodge,1,46700,3,18
+2145,1,10178,Beach House Boutique Hotel,1,34500,2,104
+2146,4,10180,Cozy Inn,1,35000,1,10
+2147,4,10182,Grand GuestHouse,1,5900,2,7
+2148,1,10183,Exalted Boutique Hotel,1,22500,7,130
+2149,1,10187,Refresh Residence,1,54700,2,143
+2150,2,10188,Mountain Retreat GuestHouse,1,18400,7,10
+2151,5,10189,Amuse Cottage,1,7800,2,13
+2152,1,10190,Luxury Villa Boutique Residence,1,24100,1,97
+2153,2,10197,Mountain Retreat House,1,9700,7,8
+2154,1,10198,Moonlight Suites,1,20700,4,116
+2155,5,10199,Refresh Haven,1,45500,2,8
+2156,5,10201,Homely Hideaway,1,9700,1,2
+2157,3,10202,Moonlight House,1,41800,5,20
+2158,1,10204,Cosy Retreat,1,53600,4,61
+2159,3,10206,Grand GuestHouse,1,6000,5,25
+2160,4,10208,Amuse Cottage,1,43300,6,11
+2161,2,10211,Homely Inn,1,6200,1,4
+2162,1,10213,Luxury Villa Boutique Residence,1,13300,7,84
+2163,1,10214,Moonlight Boutique Hotel,1,7200,3,142
+2164,1,10218,Modern Oasis,1,13500,2,74
+2165,1,10220,Luxury Villa Lodge,1,13600,4,70
+2166,2,10224,Balance GuestHouse,1,56800,3,8
+2167,5,10228,Modern GuestHouse,1,28700,2,3
+2168,2,10230,Grand Inn,1,8500,4,11
+2169,5,10233,Luxury Villa Inn,1,33400,6,11
+2170,1,10235,Homely Boutique Residence,1,44300,2,90
+2171,4,10236,Moonlight House,1,8400,5,12
+2172,1,10238,Modern Oasis,1,15600,4,67
+2173,4,10239,Rustic GuestHouse,1,9000,7,12
+2174,2,10244,Exquisite Retreat,1,19800,4,10
+2175,2,10246,Exquisite Retreat,1,47400,7,14
+2176,2,10247,Exalted Cottage,1,42700,5,2
+2177,3,10248,Homely Cottage,1,18800,6,24
+2178,3,10249,Exalted House,1,47500,5,15
+2179,1,10250,Mountain Retreat Retreat,1,25000,6,112
+2180,2,10251,Cosy House,1,54400,4,7
+2181,2,10253,City Loft Lodge,1,33700,5,6
+2182,2,10254,Luxury Villa Manor,1,9400,4,6
+2183,4,10255,Rustic Inn,1,35500,2,2
+2184,1,10256,Exquisite Boutique Suites,1,43300,6,134
+2185,4,10258,Charming Hideaway,1,8400,2,11
+2186,1,10261,Luxury Villa Boutique Suites,1,13800,2,98
+2187,4,10262,Homely Cottage,1,44800,5,8
+2188,1,10265,Homely Boutique Suites,1,18100,3,64
+2189,4,10269,Cosy Cottage,1,7900,5,12
+2190,1,10270,Charming Retreat,1,41100,5,159
+2191,3,16958,Serene Inn,1,33100,7,18
+2192,2,16960,Beach House Cottage,1,22600,6,2
+2193,4,16962,Exquisite Haven,1,26900,5,6
+2194,2,16963,Homely Lodge,1,10400,3,14
+2195,3,16965,Mirage GuestHouse,1,64100,6,24
+2196,3,16966,Deluxe GuestHouse,1,24300,6,14
+2197,1,16970,Amuse Boutique Suites,1,9800,2,140
+2198,1,16971,Exalted Residence,1,5800,7,108
+2199,1,16973,Beach House Boutique Hotel,1,46000,6,105
+2200,4,16974,Homely Hideaway,1,11700,6,3
+2201,1,16975,Mirage Retreat,1,7000,4,131
+2202,3,16977,Mountain Retreat Cottage,1,12600,3,29
+2203,3,16978,Modern Inn,1,8500,2,17
+2204,3,16979,Refresh Retreat,1,45100,4,12
+2205,2,16981,Exalted Manor,1,25200,7,4
+2206,4,16983,Homely Retreat,1,27500,3,12
+2207,4,16984,Balance Cottage,1,51600,7,5
+2208,4,16989,Cosy Inn,1,6800,5,10
+2209,4,16991,Luxury Villa Cottage,1,33900,1,8
+2210,4,16992,Luxury Villa Cottage,1,60300,1,4
+2211,4,16993,Cosy Manor,1,9600,4,12
+2212,4,16994,Exalted GuestHouse,1,8800,4,10
+2213,3,16995,Moonlight Inn,1,15500,7,13
+2214,1,17000,Mirage Lodge,1,24200,7,100
+2215,4,17001,Cozy Retreat,1,16700,5,9
+2216,1,17006,Cozy Lodge,1,25400,5,128
+2217,2,17007,Amuse Haven,1,36600,2,13
+2218,2,17008,Mirage GuestHouse,1,17800,3,12
+2219,4,17009,Refresh Hideaway,1,7800,7,6
+2220,5,17010,Balance Retreat,1,18400,6,13
+2221,4,17012,Charming Inn,1,33500,1,3
+2222,4,17013,Deluxe House,1,29200,6,7
+2223,4,17014,Moonlight Inn,1,20000,2,13
+2224,3,17016,Grand Retreat,1,7800,6,18
+2225,1,17017,Deluxe Residence,1,8400,7,147
+2226,2,17019,Grand GuestHouse,1,9400,4,8
+2227,2,17022,Beach House Lodge,1,13600,2,6
+2228,1,17023,Serene Resort,1,43700,4,156
+2229,1,17024,Mirage Boutique Residence,1,7100,3,94
+2230,3,17027,Luxury Villa GuestHouse,1,6400,3,28
+2231,4,17028,Balance Retreat,1,6200,4,8
+2232,2,17029,Homely Cottage,1,30800,6,7
+2233,2,17030,Rustic Manor,1,12500,3,7
+2234,4,17034,Exquisite Haven,1,6400,2,7
+2235,3,17036,Mountain Retreat Lodge,1,43200,7,19
+2236,1,17042,Charming Suites,1,55300,7,103
+2237,1,17043,Grand Resort,1,50500,3,157
+2238,2,17044,Modern Haven,1,48200,2,5
+2239,3,17052,Moonlight Hideaway,1,29600,4,18
+2240,3,17053,Exalted Lodge,1,27200,6,10
+2241,1,17055,Exquisite Boutique Residence,1,7900,6,85
+2242,4,17056,Charming Lodge,1,7500,3,4
+2243,1,17061,Grand Retreat,1,6500,4,72
+2244,4,17064,Amuse Manor,1,25900,5,5
+2245,4,17070,Serene Lodge,1,7400,3,9
+2246,4,17072,Cozy Haven,1,42200,4,13
+2247,4,17075,Charming Haven,1,22900,6,13
+2248,3,17076,Grand Cottage,1,5400,1,23
+2249,5,17077,Mirage GuestHouse,1,59900,1,4
+2250,1,17078,Modern Lodge,1,11300,7,64
+2251,4,17079,Exquisite Manor,1,61800,1,13
+2252,1,17080,Exalted Hotel,1,42000,4,139
+2253,5,17082,Grand Hideaway,1,8300,7,2
+2254,5,17083,Deluxe Cottage,1,15500,1,4
+2255,4,17092,Cosy Retreat,1,6100,1,3
+2256,3,17096,Balance Retreat,1,7200,3,20
+2257,1,17097,Cozy Boutique Suites,1,8100,5,140
+2258,1,17098,Balance Hotel,1,61100,6,68
+2259,1,17100,Rustic Residence,1,7800,6,50
+2260,2,17104,Homely GuestHouse,1,5600,7,14
+2261,1,17106,Mountain Retreat Suites,1,20500,5,63
+2262,1,17108,Moonlight Suites,1,8700,6,96
+2263,3,17109,Beach House Manor,1,20400,1,28
+2264,2,17111,Exalted Manor,1,42800,1,11
+2265,2,17112,Beach House Retreat,1,45000,5,2
+2266,2,17114,Mirage Inn,1,8200,4,9
+2267,1,17116,Cosy Boutique Hotel,1,9700,6,55
+2268,4,17124,Serene Cottage,1,31100,3,14
+2269,5,17126,Rustic Inn,1,31100,6,14
+2270,4,17129,Grand Manor,1,58300,3,7
+2271,4,17130,Serene Cottage,1,6100,1,14
+2272,1,17132,Luxury Villa Boutique Residence,1,20700,5,147
+2273,2,17134,Deluxe Cottage,1,16000,4,5
+2274,3,17137,Deluxe House,1,17900,6,11
+2275,1,17141,Moonlight Boutique Suites,1,5200,5,74
+2276,4,17142,Rustic Hideaway,1,8100,2,2
+2277,1,17143,Exquisite Suites,1,15600,1,132
+2278,3,17144,Luxury Villa Manor,0,6500,5,22
+2279,4,17147,Cosy Hideaway,1,7000,3,12
+2280,3,17149,Homely GuestHouse,1,5600,4,11
+2281,1,17151,Amuse Retreat,1,16300,4,160
+2282,1,17152,Amuse Resort,1,23400,5,59
+2283,4,17153,Amuse House,1,63000,7,11
+2284,2,17157,Modern Inn,1,6300,3,8
+2285,1,17158,Homely Resort,1,5600,1,153
+2286,2,17162,Mountain Retreat Hideaway,1,8400,2,5
+2287,1,17163,Homely Boutique Residence,1,11600,2,134
+2288,1,17164,Cozy Resort,1,47000,6,51
+2289,4,17167,City Loft Inn,1,43400,3,12
+2290,5,17168,City Loft Manor,1,35700,1,3
+2291,4,17171,Serene House,1,17100,5,4
+2292,4,17175,Moonlight Hideaway,1,7600,4,4
+2293,4,17177,Rustic Manor,1,41600,4,7
+2294,2,17179,Serene Haven,1,37700,3,11
+2295,4,17180,Refresh Lodge,1,9600,3,10
+2296,5,17181,Mirage Inn,1,8600,7,8
+2297,4,17182,Homely Manor,1,59500,1,2
+2298,3,17189,Exquisite Haven,1,22000,7,29
+2299,1,17190,Balance Boutique Residence,1,31800,4,71
+2300,1,17191,Luxury Villa Lodge,1,49700,3,136
+2301,1,17193,Homely Suites,1,5600,1,62
+2302,4,17194,Amuse Inn,1,50600,3,10
+2303,4,17195,Luxury Villa Manor,1,28400,7,8
+2304,4,17196,Serene Retreat,1,6000,6,4
+2305,1,17197,Exalted Oasis,1,16400,7,143
+2306,1,17200,Beach House Lodge,1,26600,1,147
+2307,3,17203,Beach House Retreat,1,7100,5,24
+2308,5,17208,Luxury Villa House,1,58600,5,9
+2309,4,17210,City Loft Manor,1,52200,3,4
+2310,4,17211,Refresh House,0,5400,3,10
+2311,1,17212,Homely Lodge,1,17900,2,65
+2312,5,17213,Cozy Hideaway,1,53800,3,9
+2313,2,17217,Serene Retreat,1,26600,6,8
+2314,3,17218,Refresh Hideaway,1,54200,7,28
+2315,1,17220,Homely Lodge,1,45900,3,89
+2316,4,17221,Luxury Villa House,1,5900,1,4
+2317,4,17222,Serene House,1,17400,4,2
+2318,1,17224,Serene Resort,1,18200,2,117
+2319,2,17226,Serene GuestHouse,1,5300,5,6
+2320,2,17227,Cosy Cottage,1,27700,4,13
+2321,2,17230,Grand Inn,1,27400,4,13
+2322,2,17231,Rustic House,1,54000,3,6
+2323,4,17233,Amuse Hideaway,1,60700,4,14
+2324,4,17237,Cosy Cottage,0,13800,3,7
+2325,1,17239,Luxury Villa Boutique Suites,1,25700,6,152
+2326,1,17240,Luxury Villa Retreat,1,51900,5,79
+2327,5,17242,Mountain Retreat Lodge,1,62800,4,5
+2328,4,17243,Modern Inn,1,19100,1,12
+2329,4,17245,Homely Manor,1,62000,2,13
+2330,1,17248,Luxury Villa Retreat,0,19900,2,96
+2331,5,17251,Rustic GuestHouse,1,52500,1,11
+2332,1,17252,Charming Hotel,1,54100,5,151
+2333,4,17253,Exquisite GuestHouse,1,31800,2,3
+2334,2,17254,Serene Inn,1,20500,2,10
+2335,1,17259,Homely Retreat,0,55100,7,59
+2336,1,17261,City Loft Lodge,1,56900,3,142
+2337,2,17265,Mountain Retreat Haven,1,27300,2,3
+2338,5,17267,City Loft GuestHouse,1,64200,5,6
+2339,1,17268,Exquisite Retreat,1,22700,7,114
+2340,1,17269,Cosy Retreat,1,7500,3,51
+2341,1,17270,Deluxe Boutique Suites,1,12800,5,144
+2342,1,17271,Modern Residence,1,29100,2,128
+2343,2,17274,Cozy Cottage,1,5900,6,13
+2344,3,17276,Exquisite Inn,1,39800,5,20
+2345,4,16001,Beach House Lodge,1,9700,6,4
+2346,4,16002,Beach House Cottage,1,55500,6,9
+2347,4,16004,Modern Haven,1,13300,7,14
+2348,3,16005,Exalted House,1,12700,2,30
+2349,1,16007,Mirage Suites,1,47600,2,59
+2350,1,16009,Charming Boutique Suites,1,18100,5,155
+2351,1,16014,City Loft Oasis,1,5400,2,154
+2352,5,16016,Mountain Retreat Haven,1,47100,1,6
+2353,1,16018,Balance Boutique Residence,1,22000,7,152
+2354,1,16019,Refresh Suites,1,6800,7,143
+2355,5,16022,Modern Hideaway,1,5000,7,3
+2356,2,16023,Grand Inn,1,6500,1,14
+2357,1,16024,Mountain Retreat Retreat,1,23600,3,72
+2358,4,16025,Homely Hideaway,1,9100,6,10
+2359,4,16027,Charming Manor,1,13600,7,6
+2360,2,16029,Moonlight GuestHouse,1,28100,7,5
+2361,1,16035,Exquisite Resort,1,8200,4,64
+2362,4,16036,Mirage Manor,1,21900,2,14
+2363,5,16039,Moonlight Lodge,1,64900,7,5
+2364,1,16040,Cozy Oasis,1,27600,1,154
+2365,5,16041,Serene GuestHouse,1,45700,5,9
+2366,1,16042,Homely Boutique Hotel,1,7600,1,121
+2367,4,16044,Moonlight Manor,1,13600,2,4
+2368,4,16047,Deluxe Inn,1,48900,4,5
+2369,3,16048,Balance Retreat,1,7600,2,18
+2370,4,16054,Mirage Lodge,1,28500,6,13
+2371,3,16056,Grand Lodge,1,47800,3,24
+2372,4,16057,Mountain Retreat Haven,1,6600,3,14
+2373,2,16061,Rustic Inn,1,5800,5,9
+2374,4,16062,Luxury Villa House,1,8500,4,2
+2375,4,16063,City Loft Hideaway,1,44700,7,10
+2376,4,17283,Deluxe Haven,1,22100,6,10
+2377,1,17285,Grand Resort,1,21900,3,111
+2378,3,17289,Mirage Retreat,1,26000,4,28
+2379,3,17290,City Loft House,1,62500,4,17
+2380,3,17291,Beach House Cottage,1,18500,2,21
+2381,3,17295,Cosy Retreat,1,5900,3,27
+2382,4,17296,Exalted Inn,1,21500,4,14
+2383,4,17302,Mountain Retreat Lodge,1,6700,4,14
+2384,4,17305,Beach House Inn,1,10000,1,3
+2385,1,17308,Cosy Boutique Residence,1,57900,3,130
+2386,1,17309,Homely Lodge,1,46300,1,50
+2387,3,17310,Mountain Retreat Haven,1,28900,2,13
+2388,1,17311,Mirage Hotel,1,8400,5,107
+2389,2,17315,Rustic Retreat,1,62200,7,6
+2390,2,17316,Grand Retreat,1,25800,6,7
+2391,4,17318,Rustic GuestHouse,1,53400,5,8
+2392,4,17321,Amuse GuestHouse,1,6300,1,2
+2393,1,17323,Cozy Resort,1,9400,6,126
+2394,1,17327,Exquisite Oasis,1,23800,7,126
+2395,4,17328,Beach House Hideaway,1,6600,4,4
+2396,1,17330,City Loft Lodge,1,62300,2,57
+2397,2,17332,Exquisite House,1,9200,4,9
+2398,1,17334,Exquisite Boutique Suites,1,33700,2,106
+2399,2,17338,Refresh Manor,1,7800,1,11
+2400,4,17339,Amuse Manor,1,41900,3,11
+2401,4,17340,Cosy House,1,6100,5,11
+2402,2,17342,City Loft Inn,1,47600,3,10
+2403,1,17343,Balance Lodge,1,8500,3,145
+2404,1,17345,Mountain Retreat Retreat,1,5300,2,120
+2405,2,17346,Exquisite Cottage,1,29200,2,7
+2406,2,17351,Exquisite Manor,0,33000,7,4
+2407,3,17357,Amuse GuestHouse,1,28900,6,11
+2408,5,17358,Serene GuestHouse,1,27200,2,14
+2409,1,17360,Exquisite Boutique Suites,1,8000,6,64
+2410,2,16066,Balance Cottage,1,16900,3,10
+2411,1,16068,Serene Hotel,1,5600,7,121
+2412,4,16069,Homely GuestHouse,1,63900,5,12
+2413,5,16074,Mountain Retreat Retreat,1,55600,4,4
+2414,2,16079,Grand Cottage,1,5000,3,11
+2415,3,16080,Amuse Hideaway,1,8000,2,17
+2416,4,16081,Beach House House,1,59400,4,6
+2417,2,16085,Exquisite Haven,1,8400,2,8
+2418,1,16087,Refresh Residence,1,11500,5,144
+2419,4,16088,Beach House House,1,13700,6,13
+2420,3,16089,Grand GuestHouse,1,10300,5,20
+2421,5,16090,Amuse House,1,26600,3,3
+2422,2,16091,Cosy Lodge,1,57400,3,14
+2423,1,16102,Deluxe Boutique Hotel,1,42900,6,88
+2424,4,16105,Rustic Retreat,1,7500,6,12
+2425,3,16107,Mirage Retreat,1,31200,3,17
+2426,2,16110,Homely GuestHouse,1,8400,6,8
+2427,5,16112,Luxury Villa Manor,0,37200,7,2
+2428,4,16117,Balance Manor,1,8200,2,9
+2429,1,16118,Balance Boutique Hotel,1,13700,1,114
+2430,3,16119,Amuse Inn,1,45800,4,22
+2431,1,16121,Amuse Retreat,1,25700,7,115
+2432,1,16122,Cozy Lodge,1,26000,3,127
+2433,1,16123,Mountain Retreat Boutique Hotel,1,5200,4,158
+2434,5,16124,City Loft Manor,1,18400,6,14
+2435,5,16125,Rustic House,1,7300,5,8
+2436,3,16126,Modern House,1,21100,2,26
+2437,1,16128,Grand Boutique Hotel,1,23900,2,83
+2438,1,16129,City Loft Resort,1,37900,5,109
+2439,3,16130,Exquisite Haven,1,5700,2,22
+2440,4,16131,Grand Manor,1,9000,4,4
+2441,4,16133,Mountain Retreat Haven,1,6800,4,13
+2442,1,16134,Amuse Lodge,1,48800,6,146
+2443,2,16135,Deluxe Lodge,1,64100,7,13
+2444,3,16141,Beach House GuestHouse,1,18400,6,25
+2445,2,16143,Luxury Villa Hideaway,1,7200,4,13
+2446,2,16145,Mountain Retreat Manor,1,8800,6,3
+2447,1,17361,Refresh Retreat,1,55300,6,62
+2448,1,17362,Deluxe Boutique Residence,1,17200,6,54
+2449,4,17363,Grand Manor,1,22000,1,5
+2450,1,17364,Charming Boutique Hotel,1,37500,3,108
+2451,2,17367,Grand GuestHouse,1,8900,5,9
+2452,2,17368,Amuse Haven,0,27700,7,8
+2453,4,17370,Cosy GuestHouse,1,24800,4,2
+2454,5,17372,Charming Retreat,1,5800,3,5
+2455,2,17373,Rustic Cottage,1,31500,3,13
+2456,5,17374,Charming Hideaway,1,5300,6,2
+2457,4,17376,Modern Cottage,1,7300,7,14
+2458,5,17378,Rustic Cottage,1,12200,2,14
+2459,5,17379,City Loft Inn,1,9000,1,14
+2460,3,17381,Luxury Villa Inn,1,50800,6,11
+2461,4,17382,Amuse Manor,1,9900,3,14
+2462,3,17383,Deluxe Retreat,1,9600,4,12
+2463,4,17384,Cosy Lodge,1,5100,7,10
+2464,4,17386,Modern Manor,1,17000,2,5
+2465,2,17387,Charming Lodge,1,8400,6,6
+2466,2,17388,Grand GuestHouse,1,63700,4,3
+2467,1,17389,Deluxe Boutique Hotel,1,57200,5,157
+2468,1,17393,Refresh Residence,1,37400,2,158
+2469,2,17395,Deluxe Haven,1,15800,4,6
+2470,5,17396,Exalted Manor,1,56400,1,6
+2471,3,17397,Rustic Inn,1,23100,4,19
+2472,1,17399,Modern Boutique Residence,1,64100,5,119
+2473,3,17401,City Loft Hideaway,1,21000,5,19
+2474,2,17402,Serene Inn,1,11000,2,4
+2475,4,17403,Luxury Villa Manor,1,37900,7,12
+2476,5,17405,City Loft Manor,1,47300,2,6
+2477,2,17406,Charming Hideaway,1,5400,7,6
+2478,2,17408,Mirage Inn,1,28100,5,2
+2479,3,17413,Beach House Hideaway,1,9900,6,28
+2480,1,17415,Serene Lodge,1,6600,5,129
+2481,2,17416,Charming Hideaway,1,33000,4,12
+2482,1,17417,Exalted Boutique Residence,1,7800,4,63
+2483,2,17418,Charming Hideaway,1,28200,2,3
+2484,4,17419,Luxury Villa House,1,24200,2,4
+2485,1,17422,Exalted Lodge,1,10000,6,113
+2486,1,17423,Balance Retreat,1,30600,7,154
+2487,2,17424,Serene Manor,1,9600,6,8
+2488,4,17425,Modern Inn,1,52200,5,8
+2489,4,17427,Luxury Villa Retreat,1,60700,2,6
+2490,4,17429,Cozy Inn,1,42300,7,7
+2491,1,17430,Balance Oasis,0,9100,7,151
+2492,2,17433,Exquisite Haven,1,17200,1,3
+2493,4,17437,Beach House House,1,16800,3,11
+2494,1,17438,Luxury Villa Oasis,1,11300,7,88
+2495,1,17440,Luxury Villa Boutique Hotel,1,53700,4,52
+2496,2,16148,Cozy Retreat,1,35200,2,11
+2497,4,16150,Serene Cottage,1,10100,3,9
+2498,1,16151,Mirage Retreat,1,26100,7,146
+2499,4,16154,Charming Hideaway,1,10500,1,14
+2500,3,16155,Charming Manor,1,11400,2,28
+2501,5,16158,Refresh Haven,1,14000,5,5
+2502,1,16160,Rustic Suites,1,32200,6,122
+2503,1,16161,Rustic Suites,1,5700,3,104
+2504,4,16163,Modern Inn,1,8400,4,14
+2505,2,16164,Cosy Retreat,1,10700,2,13
+2506,3,16165,City Loft Hideaway,1,14100,5,12
+2507,4,16166,Cosy Haven,1,17300,6,11
+2508,2,16170,Moonlight Manor,1,7100,1,6
+2509,1,16172,Refresh Boutique Suites,1,5000,5,75
+2510,5,16173,Deluxe Retreat,1,63800,4,9
+2511,2,16175,Moonlight House,1,55400,6,9
+2512,1,16177,Amuse Lodge,1,57300,3,104
+2513,4,16178,Homely Hideaway,1,58200,4,13
+2514,3,16182,Amuse Hideaway,1,48100,3,10
+2515,2,16184,Exquisite Retreat,1,51000,3,3
+2516,4,16185,Mirage Retreat,1,18000,2,12
+2517,4,16187,Modern Haven,1,7100,3,7
+2518,3,16188,Deluxe Retreat,1,34900,4,16
+2519,3,16189,Luxury Villa Lodge,1,15700,1,18
+2520,1,16190,Mirage Hotel,0,62100,1,121
+2521,4,16191,Modern Lodge,1,6200,2,3
+2522,2,16192,Modern Cottage,1,6300,1,6
+2523,2,16194,Mirage House,1,45800,2,8
+2524,1,16195,Grand Residence,1,44200,4,126
+2525,4,16196,Homely Cottage,1,7500,4,8
+2526,4,16198,Homely Inn,1,35300,1,4
+2527,1,16200,Rustic Boutique Residence,1,24000,5,105
+2528,1,16201,Homely Oasis,1,14100,5,80
+2529,1,16203,Amuse Resort,1,48700,2,159
+2530,1,16205,Charming Resort,1,6300,3,105
+2531,3,16206,Luxury Villa GuestHouse,1,56900,3,11
+2532,1,16207,Rustic Boutique Hotel,1,7600,3,127
+2533,4,16208,Balance Inn,1,6900,4,14
+2534,2,16210,Amuse GuestHouse,1,8500,7,2
+2535,3,16211,Balance Haven,1,5800,2,27
+2536,2,16212,City Loft Hideaway,1,31200,6,10
+2537,1,16215,City Loft Oasis,1,5400,3,113
+2538,4,16216,Cozy Cottage,1,49300,7,7
+2539,1,16217,Mirage Hotel,1,39700,4,139
+2540,1,16218,Exquisite Resort,1,33600,5,52
+2541,1,16221,Grand Oasis,1,8800,3,107
+2542,2,16225,City Loft Inn,1,59000,4,2
+2543,4,16226,Exquisite Manor,1,6400,4,13
+2544,5,17445,City Loft House,1,5200,1,5
+2545,5,17448,Amuse Manor,0,7900,2,11
+2546,4,17449,Charming GuestHouse,1,5300,4,4
+2547,1,17455,Cozy Boutique Residence,1,9200,6,109
+2548,2,17456,Mountain Retreat GuestHouse,1,21400,3,3
+2549,1,17458,Cozy Residence,1,7800,5,97
+2550,1,17460,Mountain Retreat Residence,1,9400,6,156
+2551,1,17461,Exquisite Boutique Residence,1,22800,5,125
+2552,1,17467,Modern Boutique Suites,1,16900,2,134
+2553,1,17468,Luxury Villa Suites,1,12600,7,116
+2554,2,17469,Cosy House,1,30100,3,3
+2555,2,17470,Charming Retreat,1,48700,6,14
+2556,2,17471,Balance Lodge,1,36000,6,12
+2557,4,17473,Serene Haven,1,8200,4,10
+2558,4,17474,Exalted Lodge,1,23100,3,4
+2559,3,17478,Serene Manor,1,11000,3,26
+2560,3,17479,Mountain Retreat Lodge,1,10600,5,24
+2561,2,17481,Refresh House,1,15200,1,3
+2562,1,17482,Exalted Boutique Residence,1,20100,7,138
+2563,4,17483,Homely Lodge,1,15100,4,14
+2564,4,17494,Balance Inn,1,34600,3,13
+2565,2,17495,Refresh Haven,1,13800,2,11
+2566,3,16229,Exalted Cottage,1,8200,2,13
+2567,4,16232,City Loft Retreat,1,6400,1,8
+2568,1,16233,Charming Boutique Suites,1,29000,2,131
+2569,1,16234,Serene Boutique Hotel,1,54300,2,69
+2570,4,16239,Rustic House,1,7000,5,2
+2571,4,16240,Charming Lodge,1,13900,3,12
+2572,1,16245,Grand Lodge,1,27700,2,99
+2573,2,16246,Mirage Retreat,1,21900,7,4
+2574,3,16248,Grand Hideaway,1,6400,2,13
+2575,2,16250,Modern Retreat,1,5800,5,9
+2576,4,16251,Luxury Villa Retreat,1,9400,2,14
+2577,1,16257,Amuse Resort,1,9100,3,78
+2578,1,16261,Beach House Boutique Suites,1,7600,1,80
+2579,2,16263,Moonlight Inn,1,9900,2,11
+2580,2,16265,City Loft GuestHouse,1,22000,3,10
+2581,4,16266,Cosy Inn,1,9800,2,11
+2582,4,16267,Cosy Manor,1,61600,6,2
+2583,3,16269,Serene GuestHouse,1,8600,6,10
+2584,1,16271,Moonlight Suites,1,9000,4,154
+2585,3,16272,Serene Manor,1,44000,3,12
+2586,2,16274,Serene Retreat,1,43800,4,13
+2587,2,16276,Grand Inn,1,13500,5,9
+2588,4,16277,Moonlight Cottage,1,6900,5,5
+2589,4,16281,Exquisite GuestHouse,1,58100,6,14
+2590,3,16282,Amuse Haven,1,58200,1,14
+2591,5,16287,Mirage Cottage,1,7000,1,2
+2592,4,16288,Charming House,1,6600,3,9
+2593,3,16289,Moonlight Inn,1,10200,5,12
+2594,5,16290,Mountain Retreat Inn,1,47800,1,2
+2595,3,16291,Refresh House,1,21300,5,22
+2596,2,16294,Balance House,1,8500,3,10
+2597,4,16296,Moonlight Haven,1,53700,4,13
+2598,2,16297,Cozy Inn,1,12400,6,13
+2599,1,16299,Beach House Hotel,1,62500,2,118
+2600,4,16301,Balance Haven,1,5300,5,2
+2601,3,16303,Grand House,1,15500,6,22
+2602,4,16304,Charming Lodge,1,49000,1,7
+2603,2,16309,Mirage GuestHouse,1,7700,1,6
+2604,2,16311,Mirage Inn,1,17800,2,6
+2605,5,16313,Exalted Manor,1,20800,5,7
+2606,5,16314,Beach House Haven,1,28900,1,3
+2607,4,16316,Modern Haven,1,47600,3,11
+2608,1,16317,Mountain Retreat Boutique Suites,1,59300,2,135
+2609,2,16318,Rustic GuestHouse,1,5100,6,13
+2610,5,16319,Homely Manor,1,19900,7,2
+2611,3,16322,Cozy GuestHouse,1,39900,2,19
+2612,4,16324,Serene House,1,31300,1,13
+2613,2,16326,Modern Haven,1,8500,6,9
+2614,3,16329,Serene Haven,1,12200,5,10
+2615,4,16331,Moonlight House,1,14400,5,8
+2616,4,16332,Mountain Retreat Retreat,1,7200,2,7
+2617,4,16336,Balance Cottage,1,58800,4,11
+2618,2,16337,Charming Hideaway,1,9600,3,2
+2619,4,16338,Refresh Lodge,1,22200,7,2
+2620,2,16340,Cozy Hideaway,1,9000,3,12
+2621,2,16341,Cosy Lodge,1,28900,6,13
+2622,2,16342,Charming Lodge,1,8700,4,9
+2623,2,16343,Modern Cottage,1,22000,3,6
+2624,4,16344,Grand Manor,1,6700,1,11
+2625,5,16345,Mirage Cottage,1,7800,4,5
+2626,3,16346,Exalted GuestHouse,1,7000,2,26
+2627,2,16347,Balance GuestHouse,1,18200,1,9
+2628,1,16348,Homely Hotel,1,8500,4,62
+2629,2,16349,Luxury Villa Cottage,1,17100,2,3
+2630,1,16351,Beach House Oasis,1,62700,6,120
+2631,2,16352,Luxury Villa Manor,1,42500,4,10
+2632,1,16353,Modern Boutique Residence,1,18000,3,71
+2633,4,16357,Cozy Manor,1,8200,6,5
+2634,1,16358,Mountain Retreat Lodge,1,34900,2,109
+2635,5,16359,City Loft Hideaway,1,9800,5,13
+2636,4,16361,Amuse Inn,1,6500,4,2
+2637,4,16364,Balance Retreat,1,45200,1,13
+2638,2,16365,Modern Cottage,1,60400,2,6
+2639,2,16366,Amuse House,1,20500,5,11
+2640,1,16367,Grand Lodge,1,23600,7,80
+2641,4,16371,Rustic Hideaway,1,8700,2,5
+2642,4,16375,Charming Manor,1,17000,7,5
+2643,1,16376,Charming Resort,1,27900,2,61
+2644,4,16379,Exalted Haven,1,8700,7,11
+2645,4,16380,Grand Manor,1,19500,1,5
+2646,2,16381,Rustic Hideaway,1,5800,4,13
+2647,2,16386,Refresh Inn,1,29200,2,8
+2648,1,16387,Refresh Boutique Hotel,1,5200,5,97
+2649,1,16388,Refresh Boutique Hotel,1,9600,5,130
+2650,1,16389,Balance Oasis,1,5700,5,157
+2651,1,16390,City Loft Boutique Residence,1,9000,3,126
+2652,4,16391,Luxury Villa Lodge,1,8000,3,8
+2653,5,16393,Beach House Hideaway,1,15400,3,9
+2654,3,16395,Balance Lodge,1,48700,1,22
+2655,2,16398,Grand House,1,21500,6,5
+2656,4,16399,Luxury Villa Retreat,1,18100,2,2
+2657,4,16400,Mirage Inn,1,26000,6,9
+2658,1,16402,Rustic Hotel,1,7500,6,124
+2659,3,16407,Luxury Villa Inn,1,22600,4,19
+2660,3,16409,Rustic Hideaway,1,7400,2,25
+2661,1,16410,Rustic Oasis,1,60000,6,88
+2662,5,16412,Mirage House,1,57700,4,10
+2663,3,16413,Mountain Retreat GuestHouse,1,44700,4,24
+2664,4,16414,Mirage Retreat,1,6500,6,4
+2665,3,16417,Homely Cottage,1,9200,5,11
+2666,1,16418,City Loft Lodge,1,40100,5,90
+2667,1,16419,City Loft Residence,1,61800,1,79
+2668,3,16421,City Loft GuestHouse,1,11700,7,19
+2669,1,16425,Balance Boutique Suites,1,33800,4,96
+2670,2,16426,Exquisite Manor,1,7000,7,2
+2671,1,16429,Mountain Retreat Hotel,1,5100,6,99
+2672,5,16430,Modern GuestHouse,1,22500,5,4
+2673,1,16431,Cosy Boutique Suites,1,46200,4,124
+2674,1,16432,Cosy Retreat,1,53300,4,157
+2675,4,16437,Cosy House,1,28200,2,12
+2676,2,16441,Mirage GuestHouse,1,59500,7,10
+2677,1,16442,Charming Oasis,1,34900,3,136
+2678,4,16443,Refresh House,1,6800,1,6
+2679,4,16444,Amuse House,1,64500,4,14
+2680,4,16447,Cozy House,1,40700,2,5
+2681,4,16449,Homely Hideaway,1,51100,1,9
+2682,2,16451,Serene Retreat,1,10100,3,3
+2683,1,16454,Balance Oasis,1,61000,3,63
+2684,4,16456,Mountain Retreat Inn,1,61800,1,12
+2685,1,16457,Cozy Lodge,1,63600,1,78
+2686,2,16458,Beach House GuestHouse,1,36400,2,4
+2687,1,16459,Serene Boutique Suites,0,8200,7,50
+2688,1,16460,Mirage Oasis,1,53700,5,144
+2689,1,16461,Rustic Suites,1,32300,3,91
+2690,2,16465,Charming Cottage,1,46000,7,7
+2691,1,16466,Homely Oasis,1,30400,1,110
+2692,2,16470,Modern House,1,5800,5,12
+2693,3,16472,Homely Lodge,1,33400,3,28
+2694,4,16473,Homely GuestHouse,1,8100,3,4
+2695,1,16474,Homely Oasis,1,5000,1,156
+2696,5,16476,Serene Inn,1,6800,3,8
+2697,3,16478,Rustic Retreat,1,10400,2,20
+2698,4,16480,Refresh Haven,1,47100,2,12
+2699,5,16485,Rustic Hideaway,1,8600,3,3
+2700,4,16486,Cozy Retreat,1,25900,5,2
+2701,3,16487,Mountain Retreat Cottage,1,8600,4,21
+2702,4,16489,Refresh Lodge,1,8800,2,8
+2703,2,16490,Exquisite GuestHouse,1,5100,3,8
+2704,1,16491,Modern Resort,1,7200,2,112
+2705,4,16493,Amuse House,1,61500,6,3
+2706,1,16496,Exalted Boutique Residence,1,9600,5,136
+2707,1,16497,Grand Resort,1,5800,2,158
+2708,1,16498,Beach House Boutique Residence,1,8800,6,128
+2709,1,16499,Cozy Oasis,1,29500,4,88
+2710,5,16500,Grand House,1,7000,7,2
+2711,3,16503,Rustic House,1,11600,4,29
+2712,5,16504,Cozy Retreat,1,6500,1,2
+2713,3,16505,Mirage Haven,1,23700,5,10
+2714,4,16506,Amuse Inn,0,6400,7,7
+2715,4,16507,Moonlight Inn,1,44200,5,8
+2716,5,16517,Moonlight Manor,1,61100,6,13
+2717,2,16518,Beach House Manor,1,20200,1,8
+2718,1,16519,Deluxe Residence,1,45700,6,85
+2719,4,16522,Cozy House,1,39100,6,5
+2720,1,16523,Cozy Residence,1,63700,6,68
+2721,1,16525,Moonlight Suites,1,43200,3,139
+2722,4,16528,Cozy House,1,6100,2,3
+2723,4,16529,Cosy Lodge,1,22200,5,10
+2724,5,16530,Cosy GuestHouse,1,28100,4,8
+2725,4,16531,Exalted Lodge,1,12300,1,3
+2726,3,16533,Homely GuestHouse,1,5700,7,12
+2727,4,16535,Homely House,1,5700,5,8
+2728,4,16537,Exalted Retreat,1,33000,4,2
+2729,1,16538,Grand Boutique Hotel,1,7700,2,81
+2730,3,16541,Beach House Inn,1,11900,6,26
+2731,3,16542,Refresh Haven,1,28600,3,19
+2732,1,16544,Refresh Boutique Hotel,1,8600,6,87
+2733,4,16546,Cozy Retreat,1,65000,5,12
+2734,2,16549,Amuse Inn,1,20000,2,7
+2735,1,16552,Amuse Lodge,1,18600,6,135
+2736,4,16553,Cozy Inn,1,7400,4,8
+2737,2,16556,Mountain Retreat Retreat,1,5500,5,3
+2738,3,16558,Cozy Inn,1,12400,7,30
+2739,1,16561,Beach House Hotel,1,51800,2,123
+2740,3,16562,City Loft Inn,1,29200,1,24
+2741,3,16563,Modern Inn,1,23900,1,11
+2742,5,16569,Homely House,1,17600,3,3
+2743,4,16571,Beach House GuestHouse,1,60600,4,9
+2744,3,16572,Exquisite GuestHouse,1,27300,7,15
+2745,1,16573,Rustic Boutique Hotel,1,7400,5,135
+2746,2,16574,Amuse Haven,1,22000,1,11
+2747,4,16575,Charming Hideaway,1,10100,6,10
+2748,4,16577,Refresh Manor,1,26200,4,9
+2749,5,16578,City Loft Inn,1,26300,6,9
+2750,4,16580,Homely Inn,1,8900,1,2
+2751,1,16582,Exalted Boutique Hotel,1,9500,5,96
+2752,5,16584,Cosy Inn,1,55300,1,14
+2753,1,16585,Luxury Villa Lodge,1,5200,2,95
+2754,5,16589,Cozy Retreat,1,52500,4,4
+2755,4,16590,Moonlight House,1,29600,6,8
+2756,2,16592,Mirage Cottage,1,36700,6,8
+2757,1,16593,Rustic Oasis,1,25500,2,51
+2758,2,16594,Luxury Villa GuestHouse,1,39500,1,9
+2759,5,16595,Refresh Lodge,1,9900,7,6
+2760,1,16602,Rustic Hotel,1,24400,1,148
+2761,4,16604,Beach House Inn,1,11400,3,6
+2762,3,16605,Luxury Villa Lodge,1,18800,6,30
+2763,1,16607,Modern Lodge,1,35700,7,53
+2764,1,16611,Serene Retreat,1,57800,6,106
+2765,2,16612,Exalted Hideaway,1,60100,3,3
+2766,2,16613,Exquisite Hideaway,1,9800,6,8
+2767,3,16616,City Loft Haven,1,44300,7,27
+2768,1,16618,Beach House Boutique Residence,1,10300,5,76
+2769,2,16619,Exalted Cottage,1,5700,3,9
+2770,4,16622,Beach House Cottage,1,59000,7,13
+2771,5,16623,Luxury Villa Retreat,1,55300,5,2
+2772,5,16628,Exquisite Lodge,1,21700,7,6
+2773,4,16630,Beach House Lodge,1,12700,2,11
+2774,1,16631,Exalted Residence,1,27500,3,146
+2775,2,16632,Exalted House,1,45500,3,9
+2776,4,16634,Homely Cottage,1,55800,1,12
+2777,3,16638,Deluxe Inn,1,7700,4,29
+2778,5,16639,Charming Retreat,1,50900,3,12
+2779,5,16641,Exquisite Inn,1,41400,6,4
+2780,4,16643,Charming Inn,1,11100,3,9
+2781,4,16644,Rustic House,1,56800,2,7
+2782,4,16645,Grand Cottage,1,19500,6,12
+2783,1,16646,Luxury Villa Oasis,1,25000,5,89
+2784,2,16647,Beach House Lodge,1,54800,5,11
+2785,4,16648,Refresh Lodge,1,9600,1,13
+2786,1,16651,Charming Boutique Residence,1,26100,1,120
+2787,2,16654,Mountain Retreat House,1,51500,1,11
+2788,1,16655,Deluxe Hotel,1,5800,7,83
+2789,1,16656,Rustic Hotel,1,14500,1,106
+2790,1,16657,Exquisite Boutique Residence,1,6300,6,159
+2791,2,16658,Luxury Villa GuestHouse,1,5500,1,12
+2792,5,16659,Amuse Cottage,1,15100,1,13
+2793,3,16660,Mirage Cottage,1,8100,6,17
+2794,1,16661,Mountain Retreat Lodge,1,28300,1,131
+2795,2,16663,Beach House Retreat,1,6100,7,10
+2796,4,16664,Amuse Cottage,1,9700,5,7
+2797,3,16665,City Loft Manor,1,43200,1,25
+2798,3,16666,Grand Hideaway,1,22500,3,19
+2799,1,16671,Refresh Lodge,1,20100,3,155
+2800,1,16672,Cosy Lodge,1,9100,6,95
+2801,1,16674,Homely Boutique Suites,1,8200,4,65
+2802,4,16677,Exquisite Lodge,1,46100,4,12
+2803,2,16678,City Loft House,1,61200,7,6
+2804,4,16682,Amuse GuestHouse,1,43900,3,13
+2805,5,16689,Amuse Lodge,1,10900,7,10
+2806,5,16691,Cozy Lodge,1,57200,4,13
+2807,1,16692,Rustic Suites,1,29100,3,95
+2808,5,16693,City Loft Manor,1,33900,7,4
+2809,2,16694,Exquisite Retreat,1,42500,7,7
+2810,1,16696,Moonlight Lodge,1,44300,1,132
+2811,1,16699,Rustic Lodge,0,43400,4,97
+2812,1,16700,Homely Lodge,1,36900,1,151
+2813,5,16701,City Loft GuestHouse,1,27800,3,11
+2814,3,16703,Cozy Lodge,1,7200,7,22
+2815,4,16705,Moonlight Hideaway,1,60600,3,11
+2816,2,16707,Balance House,1,26600,3,11
+2817,1,16708,Exalted Retreat,1,40100,7,114
+2818,1,16709,City Loft Oasis,1,47100,7,153
+2819,2,16711,Grand Inn,0,10200,2,12
+2820,2,16712,Amuse House,1,6400,2,6
+2821,1,16713,Charming Boutique Hotel,1,47600,2,119
+2822,1,16721,Serene Lodge,1,50200,5,139
+2823,5,16723,Exalted House,1,6900,5,7
+2824,2,16725,Modern Lodge,1,61900,7,7
+2825,1,16727,Cosy Lodge,1,48100,5,57
+2826,1,16730,Homely Oasis,1,6800,4,58
+2827,3,16731,Deluxe Manor,1,57100,2,23
+2828,2,16733,Charming House,1,8700,1,12
+2829,1,16737,Charming Oasis,1,15800,1,74
+2830,4,16739,Deluxe Lodge,1,9700,1,8
+2831,1,16740,Grand Retreat,1,9800,1,133
+2832,4,16743,Refresh Haven,1,62000,1,9
+2833,1,16745,Deluxe Hotel,1,6200,1,160
+2834,2,16749,City Loft Hideaway,1,9600,1,5
+2835,4,16751,Beach House Cottage,1,47400,6,14
+2836,4,16752,Deluxe Manor,1,48100,2,10
+2837,4,16753,Amuse Manor,1,55400,1,9
+2838,2,16754,Homely Manor,1,43800,5,5
+2839,3,16755,Cosy Haven,1,61100,2,18
+2840,1,16756,Moonlight Residence,1,13500,5,130
+2841,4,16759,Cosy GuestHouse,1,26700,7,10
+2842,2,16761,Mirage GuestHouse,1,6300,1,6
+2843,1,16763,Charming Hotel,1,5200,6,74
+2844,1,16765,Beach House Boutique Hotel,1,40600,7,152
+2845,4,16766,Grand GuestHouse,1,52800,2,13
+2846,4,16769,Homely Retreat,1,21100,7,10
+2847,1,16770,Cozy Boutique Hotel,1,55500,5,53
+2848,3,16771,Grand Manor,1,34100,4,25
+2849,1,16773,Refresh Resort,1,29900,4,148
+2850,1,16776,Charming Boutique Hotel,1,15800,5,56
+2851,3,16779,Exalted Hideaway,1,7200,6,25
+2852,5,16782,Exquisite House,1,41200,6,7
+2853,4,16783,Modern Manor,1,40700,5,14
+2854,1,16784,Serene Suites,1,50500,2,130
+2855,2,16785,Exquisite Lodge,1,27500,7,9
+2856,1,16789,Exquisite Retreat,1,14200,2,143
+2857,2,16794,Cosy House,1,23200,7,8
+2858,1,16796,Mountain Retreat Lodge,1,39300,3,121
+2859,1,16799,Luxury Villa Suites,1,58100,3,105
+2860,4,16803,Refresh Hideaway,1,20700,4,3
+2861,4,16805,Grand House,1,6100,1,13
+2862,1,16806,Beach House Lodge,1,7900,3,142
+2863,3,16809,Modern Cottage,1,46100,6,10
+2864,4,16812,Serene Hideaway,1,13400,5,7
+2865,4,16816,Mountain Retreat Retreat,1,28800,2,10
+2866,4,16818,Exquisite Manor,1,53900,4,9
+2867,5,16819,Mirage GuestHouse,1,25700,7,4
+2868,1,16820,Modern Residence,1,52600,5,102
+2869,1,16825,Homely Residence,1,63600,2,100
+2870,3,16827,Exalted Lodge,1,46700,6,27
+2871,1,16829,Exalted Lodge,0,55500,2,52
+2872,2,16830,Rustic Manor,1,29400,1,13
+2873,1,16831,Grand Lodge,1,5900,7,88
+2874,2,16832,Moonlight Cottage,1,51300,3,8
+2875,1,16833,City Loft Boutique Suites,1,23000,1,146
+2876,1,16834,Rustic Suites,1,9700,2,87
+2877,2,16838,Rustic Haven,1,5000,1,10
+2878,1,16839,Refresh Lodge,1,8700,4,120
+2879,2,16844,Cozy Hideaway,1,9200,4,14
+2880,1,16845,Mirage Boutique Suites,1,44200,3,141
+2881,2,16848,Balance Inn,1,30300,7,7
+2882,1,16849,Mountain Retreat Lodge,1,8400,7,136
+2883,1,16850,Mirage Suites,1,62600,3,114
+2884,1,16852,Luxury Villa Resort,1,8800,3,146
+2885,1,16855,Luxury Villa Boutique Suites,1,6300,3,156
+2886,5,16857,Homely Haven,1,7200,1,14
+2887,4,16859,Mountain Retreat Cottage,1,35400,4,12
+2888,2,16862,Charming House,1,10000,1,3
+2889,2,16864,Moonlight Haven,1,58200,7,14
+2890,1,16865,Modern Resort,1,61000,1,95
+2891,4,16867,Modern Inn,1,47500,2,11
+2892,5,16870,Grand GuestHouse,1,5400,7,6
+2893,4,16871,Cosy GuestHouse,1,14900,1,3
+2894,2,16873,Deluxe Cottage,1,38800,4,5
+2895,4,16877,Beach House Manor,1,7500,4,11
+2896,4,16878,Balance Inn,1,27400,1,2
+2897,3,16879,Grand GuestHouse,1,54000,2,22
+2898,2,16881,Rustic House,1,5100,2,14
+2899,2,16882,Serene GuestHouse,1,9000,4,13
+2900,1,16884,Cozy Boutique Residence,1,9200,7,159
+2901,4,16885,Refresh Haven,1,34600,1,8
+2902,3,16888,Beach House Manor,1,11400,5,11
+2903,2,16889,Exquisite Cottage,0,6500,2,6
+2904,5,16892,Rustic GuestHouse,1,57900,1,7
+2905,1,16893,City Loft Residence,1,10100,6,148
+2906,4,16898,Exalted Manor,1,49000,5,9
+2907,5,16899,Deluxe Cottage,1,10200,6,9
+2908,1,16901,Modern Resort,1,50900,6,75
+2909,2,16904,Moonlight Retreat,1,5700,7,11
+2910,4,16909,Grand GuestHouse,1,40600,2,10
+2911,2,16910,Homely Manor,1,7500,5,12
+2912,1,16912,Exalted Lodge,1,51400,1,147
+2913,4,16913,Refresh Lodge,1,35100,6,9
+2914,3,16914,Grand Hideaway,1,11600,4,28
+2915,1,16917,Exalted Oasis,1,55800,2,87
+2916,4,16920,Moonlight GuestHouse,1,9900,1,2
+2917,1,16923,Mirage Retreat,1,45700,5,69
+2918,4,16924,Cosy House,1,22000,7,6
+2919,1,16926,Beach House Resort,1,8700,7,106
+2920,4,16928,Serene Hideaway,1,6300,3,7
+2921,4,16931,Grand Haven,1,60500,4,9
+2922,5,16936,Beach House Cottage,1,26300,2,10
+2923,4,16937,Cosy Haven,1,11500,6,6
+2924,4,16938,Homely Manor,1,6700,5,10
+2925,2,16939,Cozy Cottage,1,6800,3,10
+2926,2,16941,Cozy Cottage,1,7600,3,12
+2927,1,16942,Modern Lodge,1,52100,2,126
+2928,4,16944,Serene Hideaway,1,8100,7,10
+2929,4,16946,Rustic House,1,6700,5,8
+2930,1,16947,Exalted Suites,1,5900,5,117
+2931,2,16948,Cozy GuestHouse,1,16400,4,6
+2932,2,16950,Moonlight Retreat,1,60300,1,13
+2933,2,16951,Cosy Retreat,1,8000,7,11
+2934,1,16952,Cozy Boutique Hotel,1,6800,3,154
+2935,4,16953,Beach House House,1,8300,2,8
+2936,3,16956,Exquisite Inn,1,19000,4,19
+2937,3,12001,Homely Lodge,1,27800,3,15
+2938,2,12005,Modern Inn,1,20100,3,4
+2939,5,12009,Modern Lodge,1,17900,2,2
+2940,5,12010,Exquisite Inn,1,8800,6,14
+2941,3,12011,Homely Manor,1,5600,2,11
+2942,1,12013,Cozy Residence,1,28700,2,67
+2943,2,12014,Charming GuestHouse,1,14300,2,10
+2944,2,12018,Cozy House,1,42000,2,7
+2945,4,12020,City Loft Cottage,1,20300,7,6
+2946,2,12021,Serene Hideaway,1,10000,4,6
+2947,4,12022,Charming Cottage,1,7900,2,4
+2948,3,12023,City Loft GuestHouse,1,58500,3,27
+2949,4,12025,Homely Manor,1,16100,7,13
+2950,1,12028,Modern Residence,1,62600,2,84
+2951,1,12029,Grand Resort,1,7700,5,121
+2952,4,12030,Balance Haven,1,32500,6,11
+2953,1,12033,Mirage Resort,1,8700,3,89
+2954,2,12034,Grand Retreat,0,8300,6,3
+2955,2,12037,City Loft Hideaway,1,10000,4,3
+2956,2,12041,Grand Lodge,1,29400,4,7
+2957,3,12044,Exalted Lodge,1,17600,7,11
+2958,5,12045,Mountain Retreat Lodge,1,23000,4,9
+2959,4,12046,Rustic Manor,1,53300,7,9
+2960,2,12048,Amuse Inn,1,19400,7,3
+2961,4,12050,Balance Cottage,1,18900,6,9
+2962,5,12051,Homely Inn,0,17000,7,13
+2963,1,12053,Charming Lodge,1,23400,4,146
+2964,4,12055,Mountain Retreat Cottage,1,5100,5,4
+2965,4,12062,City Loft Hideaway,1,6800,2,12
+2966,3,12063,Cosy Haven,1,63400,1,30
+2967,4,12064,Amuse Inn,1,23500,3,3
+2968,4,12066,Amuse Hideaway,0,5900,5,12
+2969,4,12067,Mirage Lodge,1,12300,1,11
+2970,2,12068,Mirage Manor,1,51700,7,9
+2971,1,12071,Mirage Lodge,1,62600,2,104
+2972,3,12074,Balance Inn,1,13800,3,25
+2973,2,12076,Cozy Inn,1,7500,2,7
+2974,5,12077,Cozy Haven,1,8700,1,5
+2975,2,12080,Serene Cottage,1,47600,1,8
+2976,3,12081,Rustic Inn,1,27400,7,13
+2977,1,12082,Cozy Hotel,1,6400,1,123
+2978,5,12083,Exalted GuestHouse,1,61900,4,3
+2979,4,12084,Cozy House,1,51300,6,4
+2980,3,12085,Amuse Retreat,1,8300,4,24
+2981,1,12089,Exquisite Suites,1,7300,3,75
+2982,4,12090,Refresh GuestHouse,1,27300,6,6
+2983,1,12092,Cosy Lodge,1,28800,5,104
+2984,2,12093,City Loft Lodge,1,28200,5,8
+2985,4,12096,Rustic Retreat,1,46700,5,5
+2986,3,12098,Serene GuestHouse,1,8300,2,18
+2987,1,12099,Amuse Lodge,1,7000,4,107
+2988,4,12109,Balance Hideaway,1,31300,1,11
+2989,3,12110,Exquisite Cottage,1,12800,3,13
+2990,1,12117,Serene Suites,1,18200,2,73
+2991,3,12119,Rustic House,1,27900,4,13
+2992,3,12120,Mirage Manor,1,53800,5,16
+2993,5,12121,Mirage Hideaway,1,25600,5,6
+2994,5,12122,City Loft Manor,1,6900,3,13
+2995,5,12124,Deluxe Inn,1,35400,2,14
+2996,5,12125,Amuse Cottage,1,47100,3,13
+2997,1,12126,Moonlight Boutique Residence,1,7700,2,121
+2998,1,12128,Cosy Boutique Suites,1,6600,3,119
+2999,1,12129,Cozy Boutique Residence,1,62100,1,74
+3000,2,12131,Modern Manor,1,48000,1,8
+3001,4,12132,Rustic Cottage,1,54200,7,13
+3002,1,12135,Serene Lodge,1,14300,7,58
+3003,4,12137,Mountain Retreat Hideaway,1,8600,4,3
+3004,2,12138,City Loft Manor,1,6500,3,3
+3005,1,12141,Luxury Villa Retreat,1,19300,3,50
+3006,2,12142,Exalted Inn,1,45000,6,11
+3007,2,12148,Refresh Haven,1,21200,4,10
+3008,1,12150,Beach House Lodge,1,15300,1,121
+3009,3,12152,Exalted Retreat,1,7600,3,20
+3010,4,12157,Balance Hideaway,1,45600,5,4
+3011,4,12159,Refresh Haven,1,38100,5,4
+3012,3,12161,City Loft Haven,1,63000,6,14
+3013,1,12162,Rustic Residence,1,33000,2,121
+3014,5,12163,Balance Hideaway,1,17300,2,10
+3015,4,12166,Homely Hideaway,1,9300,7,13
+3016,1,12167,City Loft Retreat,1,6800,7,96
+3017,3,12168,Amuse Inn,1,55700,7,13
+3018,2,12169,Modern Lodge,1,12800,2,12
+3019,5,12170,Mirage GuestHouse,0,9400,1,2
+3020,1,12171,Beach House Lodge,1,54400,5,113
+3021,1,12186,Homely Residence,1,7100,7,106
+3022,1,12187,Serene Boutique Hotel,1,5400,5,84
+3023,1,12188,Grand Lodge,1,9800,3,52
+3024,1,12189,Amuse Hotel,1,9200,6,126
+3025,4,12193,Refresh Haven,1,26800,6,14
+3026,1,12194,Modern Suites,1,11500,1,55
+3027,1,12195,Serene Boutique Hotel,1,60900,6,86
+3028,5,12196,Grand House,1,51100,7,5
+3029,1,12198,Cosy Lodge,1,5700,4,95
+3030,4,12199,Charming Retreat,1,56000,5,4
+3031,5,12200,Rustic Cottage,1,22600,2,7
+3032,3,12202,Serene Inn,1,22000,3,25
+3033,5,12205,Serene Retreat,1,55400,7,2
+3034,4,12210,Serene GuestHouse,1,45400,7,7
+3035,5,12213,Deluxe House,1,6300,5,3
+3036,5,12214,City Loft Hideaway,1,13700,3,7
+3037,1,12215,Deluxe Boutique Suites,0,48600,3,97
+3038,1,12217,Modern Resort,1,7400,7,139
+3039,2,12220,Amuse Haven,1,13300,6,10
+3040,4,12221,Moonlight Inn,1,9800,3,12
+3041,4,12223,Luxury Villa House,1,10000,3,2
+3042,1,12224,Cozy Retreat,1,21400,6,112
+3043,4,12225,Exquisite Retreat,1,11700,5,14
+3044,3,12226,Balance Haven,1,45000,7,24
+3045,3,12227,City Loft Inn,1,19200,4,29
+3046,1,12228,Balance Lodge,1,14500,2,76
+3047,4,12232,Moonlight Inn,1,53800,2,2
+3048,1,12233,Refresh Lodge,1,8700,4,58
+3049,3,12236,Serene Retreat,1,25500,3,16
+3050,2,12240,Mirage Hideaway,1,35200,7,5
+3051,1,12242,Refresh Suites,1,22100,5,74
+3052,3,12243,Homely Hideaway,1,14400,6,19
+3053,4,12244,Amuse Cottage,1,58900,1,10
+3054,3,11003,Cosy Haven,1,12700,2,28
+3055,2,11004,Cosy Retreat,1,24400,2,11
+3056,2,11005,Moonlight Haven,1,18600,7,8
+3057,1,11006,Luxury Villa Resort,1,14900,2,50
+3058,4,11008,Homely Cottage,1,48200,2,2
+3059,4,11010,Deluxe Inn,1,17700,2,6
+3060,2,11013,Mirage House,1,6600,2,6
+3061,1,11014,Deluxe Resort,1,5000,7,158
+3062,2,11015,Deluxe Retreat,1,19600,5,8
+3063,4,11017,Refresh Hideaway,1,7600,6,3
+3064,4,11018,Exalted Haven,1,30200,3,11
+3065,3,11019,Balance Hideaway,1,15700,5,10
+3066,4,11022,Beach House Retreat,1,40700,5,12
+3067,5,11023,Grand Cottage,1,9800,1,11
+3068,1,11024,Homely Boutique Suites,1,8300,4,104
+3069,3,11025,Modern Retreat,1,19700,2,19
+3070,1,11026,Mountain Retreat Boutique Hotel,1,38100,7,60
+3071,1,11027,Rustic Oasis,1,9600,3,106
+3072,2,11028,Grand Hideaway,1,34400,3,5
+3073,3,11029,Mirage Lodge,1,60800,4,29
+3074,1,11030,Moonlight Boutique Hotel,1,62200,4,81
+3075,3,11031,Exalted Manor,1,5800,3,20
+3076,4,11035,Deluxe Retreat,1,9700,4,2
+3077,1,11037,Cozy Resort,1,9900,2,130
+3078,1,11038,Beach House Boutique Residence,1,19900,5,51
+3079,4,11039,Balance Cottage,1,27400,3,14
+3080,2,11040,Exquisite House,1,64900,7,4
+3081,2,11043,Cozy Lodge,1,9900,3,12
+3082,2,11045,Beach House Manor,1,7500,1,6
+3083,1,11047,Balance Boutique Suites,1,5300,4,64
+3084,1,11048,Mountain Retreat Boutique Hotel,1,42900,2,122
+3085,1,11056,Moonlight Lodge,1,40400,5,144
+3086,2,11060,City Loft GuestHouse,1,19900,2,4
+3087,2,11061,City Loft Inn,1,41600,3,7
+3088,5,11062,Charming Haven,1,6600,5,3
+3089,4,12247,Luxury Villa Lodge,1,21600,4,9
+3090,1,12249,Modern Lodge,1,36300,5,92
+3091,4,12251,City Loft House,1,53800,3,11
+3092,5,12252,City Loft Retreat,0,9300,1,10
+3093,5,12254,Serene Manor,1,53700,5,4
+3094,4,12255,Modern House,1,61300,1,2
+3095,3,12256,Amuse Manor,1,27900,7,20
+3096,2,12260,Exquisite Cottage,1,47300,7,4
+3097,4,12261,Modern GuestHouse,1,6000,6,8
+3098,3,12264,Cosy Inn,1,35800,1,13
+3099,2,12266,Exquisite Inn,1,12200,3,13
+3100,1,12267,Mirage Oasis,1,29400,6,114
+3101,1,12268,Balance Boutique Suites,1,21800,4,116
+3102,4,12269,Modern Retreat,1,40500,6,7
+3103,3,12270,Refresh Hideaway,1,11200,3,28
+3104,2,12271,Amuse GuestHouse,1,18500,1,14
+3105,3,12275,Moonlight Inn,1,20800,1,13
+3106,1,12277,Refresh Hotel,1,60800,3,76
+3107,1,12280,Rustic Suites,1,9800,4,139
+3108,2,12281,Homely Lodge,1,15200,2,7
+3109,1,12283,Exquisite Oasis,1,6700,1,69
+3110,1,12284,Charming Resort,1,30200,6,78
+3111,1,12286,Beach House Oasis,1,18000,4,84
+3112,2,12287,Cosy Hideaway,1,5600,5,9
+3113,1,12288,Charming Hotel,1,54400,1,111
+3114,3,12289,Homely Hideaway,1,62500,4,29
+3115,4,12290,Exalted Lodge,1,49900,4,11
+3116,2,12292,Mountain Retreat Hideaway,1,52400,7,14
+3117,3,12293,Rustic Retreat,1,26100,4,26
+3118,2,12295,Grand Haven,1,12100,5,12
+3119,4,12297,Mountain Retreat Haven,1,27000,3,2
+3120,1,12298,Refresh Residence,1,54400,7,132
+3121,1,12301,Serene Boutique Residence,1,9000,3,103
+3122,3,12303,Grand House,1,55400,7,11
+3123,1,12305,Mountain Retreat Boutique Residence,1,29500,2,62
+3124,1,12307,Cosy Resort,1,8200,6,77
+3125,1,12309,Exquisite Resort,1,28000,4,152
+3126,2,12310,Moonlight GuestHouse,1,32100,4,4
+3127,4,12311,Luxury Villa Cottage,1,26100,5,10
+3128,5,12315,Cozy Manor,1,11400,4,3
+3129,1,12319,Modern Hotel,1,58700,4,102
+3130,2,12321,Charming Haven,1,37300,3,11
+3131,3,12322,Amuse GuestHouse,1,41800,4,14
+3132,5,12323,Rustic Retreat,1,62300,7,3
+3133,1,11068,Rustic Residence,1,16100,7,106
+3134,2,11070,Beach House Manor,1,7600,2,10
+3135,4,11071,Cozy GuestHouse,1,33600,1,8
+3136,1,11072,Modern Lodge,1,37800,4,73
+3137,4,11077,Charming GuestHouse,1,49300,7,3
+3138,4,11082,Mirage Hideaway,1,49200,7,5
+3139,2,11085,Exquisite House,1,26300,3,4
+3140,4,11086,Amuse House,1,5800,5,4
+3141,5,11087,Exquisite Hideaway,1,20200,1,3
+3142,2,11088,Refresh Haven,0,44500,4,9
+3143,1,11092,Refresh Oasis,1,6000,4,158
+3144,5,11093,Beach House House,1,9500,5,9
+3145,2,11094,City Loft House,1,18700,1,12
+3146,2,11097,Mountain Retreat Haven,1,6900,7,12
+3147,3,11098,Charming Lodge,1,6400,7,22
+3148,3,11100,Exalted Lodge,1,54800,2,17
+3149,3,11101,Amuse House,1,23400,5,25
+3150,1,11103,Grand Lodge,1,26000,6,66
+3151,4,11104,City Loft Retreat,1,6900,1,10
+3152,5,11105,Moonlight Lodge,1,9800,3,8
+3153,3,11107,Modern Lodge,1,18300,1,22
+3154,1,11108,Cosy Lodge,1,8300,2,112
+3155,3,11109,Mirage Cottage,1,5200,3,26
+3156,4,11110,Beach House Haven,1,6900,1,5
+3157,4,11111,Mountain Retreat Cottage,1,9000,2,11
+3158,4,11112,Serene Cottage,1,50700,6,8
+3159,4,11113,Serene Retreat,1,7200,4,11
+3160,3,11114,Homely Hideaway,1,8200,7,26
+3161,1,11117,Mirage Oasis,1,31100,3,82
+3162,4,11122,Balance Retreat,1,19600,7,2
+3163,3,11124,Serene Cottage,1,19600,5,19
+3164,4,11125,Mountain Retreat Lodge,1,6300,5,6
+3165,1,11127,Deluxe Boutique Suites,1,6800,6,87
+3166,5,11128,Modern Inn,1,28900,7,3
+3167,2,11132,Cozy House,1,8100,5,14
+3168,1,11133,Luxury Villa Lodge,1,30200,5,81
+3169,1,11134,Mountain Retreat Oasis,1,9100,2,143
+3170,3,11139,Exquisite Cottage,1,17900,4,24
+3171,1,11140,Mountain Retreat Suites,1,5400,1,86
+3172,1,11141,Deluxe Boutique Residence,1,9900,2,151
+3173,3,11143,Mirage Retreat,1,8300,2,10
+3174,1,12325,Rustic Boutique Hotel,1,33100,5,138
+3175,4,12326,Cozy Inn,1,59900,7,8
+3176,1,12328,Grand Oasis,1,45400,4,121
+3177,4,12332,Exalted Lodge,1,27400,2,2
+3178,3,12335,Deluxe Lodge,1,7300,1,27
+3179,3,12337,Deluxe Lodge,1,18800,7,26
+3180,3,12338,Amuse Hideaway,1,7200,2,27
+3181,3,12339,Rustic Retreat,1,6200,3,15
+3182,1,12340,Homely Suites,1,5100,7,60
+3183,1,12341,Deluxe Hotel,1,18100,3,65
+3184,5,12344,City Loft Manor,1,9300,4,6
+3185,1,12347,Homely Boutique Residence,1,6700,4,149
+3186,2,12348,Exquisite Cottage,1,16900,5,4
+3187,1,12349,Cozy Resort,1,7700,7,117
+3188,3,12350,Modern Manor,1,59600,2,20
+3189,1,12354,Exalted Retreat,1,7700,1,125
+3190,2,12358,Refresh Haven,1,9200,4,13
+3191,5,12361,Homely House,1,8000,7,8
+3192,2,12362,Balance Manor,1,62700,4,11
+3193,5,12363,Mirage Lodge,1,59900,7,3
+3194,2,12364,Refresh House,1,26400,3,7
+3195,4,12365,Charming Cottage,1,24400,6,11
+3196,4,12369,Serene Manor,1,37800,4,5
+3197,3,12379,Luxury Villa Retreat,1,32900,2,22
+3198,1,12380,Moonlight Hotel,1,6600,5,150
+3199,3,12381,Rustic Inn,1,9400,5,11
+3200,4,12383,Balance Manor,1,13400,5,9
+3201,2,12384,Charming Hideaway,1,6600,1,8
+3202,4,12385,Moonlight Haven,1,57700,5,6
+3203,3,12386,Deluxe Haven,1,6100,3,26
+3204,1,12388,Moonlight Retreat,1,28700,4,118
+3205,1,12389,Exalted Resort,1,30600,3,71
+3206,4,12391,Rustic Manor,1,16900,7,14
+3207,3,12392,Grand Retreat,1,27400,1,23
+3208,3,12396,Exalted Lodge,1,54300,2,17
+3209,2,12397,City Loft House,1,14300,6,13
+3210,3,12402,Moonlight Inn,1,9800,6,27
+3211,5,12405,Serene Retreat,1,7900,6,9
+3212,3,11145,Mirage Cottage,1,10300,7,30
+3213,1,11146,Beach House Resort,1,23900,1,67
+3214,3,11147,Mountain Retreat Inn,1,6600,3,21
+3215,2,11149,Mirage Manor,1,8100,1,7
+3216,4,11150,Mirage Manor,1,5300,7,11
+3217,1,11151,Luxury Villa Resort,1,44500,4,122
+3218,1,11154,Rustic Hotel,1,7400,4,86
+3219,1,11155,Moonlight Resort,1,15500,2,70
+3220,3,11156,Mirage Manor,1,32400,3,27
+3221,1,11158,Cozy Boutique Residence,1,50900,5,65
+3222,1,11159,Homely Boutique Suites,1,9200,5,132
+3223,5,11162,Serene Cottage,1,56100,5,10
+3224,4,11163,Exalted Inn,1,19100,3,5
+3225,4,11164,Charming Lodge,1,29600,4,5
+3226,4,11166,Rustic Lodge,1,13000,2,6
+3227,3,11169,Grand Hideaway,1,23400,2,13
+3228,1,11170,Modern Boutique Residence,1,15100,4,62
+3229,2,11176,Homely Hideaway,1,29100,5,5
+3230,5,11178,Luxury Villa Retreat,1,16100,3,10
+3231,1,11179,Exquisite Resort,1,5000,4,118
+3232,1,11181,Homely Suites,1,62100,3,68
+3233,4,11184,Cosy Retreat,1,34300,1,8
+3234,4,11185,Mountain Retreat Lodge,1,48000,7,4
+3235,1,11186,Rustic Retreat,1,25300,1,129
+3236,4,11187,Exalted Lodge,1,50500,1,5
+3237,1,11189,Refresh Suites,1,51900,3,65
+3238,4,11194,Modern Hideaway,1,61800,1,8
+3239,2,11195,Amuse Retreat,0,8200,1,3
+3240,4,11203,Charming Cottage,1,45400,1,6
+3241,3,11204,Luxury Villa Retreat,1,18400,4,10
+3242,2,11205,Refresh Retreat,1,5200,1,4
+3243,2,11207,Luxury Villa Hideaway,1,11800,1,8
+3244,4,11208,Serene House,1,8400,6,10
+3245,1,11209,Exquisite Suites,1,32800,7,154
+3246,4,11211,Balance Haven,1,15200,5,7
+3247,4,11213,Cosy Hideaway,0,34100,1,9
+3248,1,11218,Serene Boutique Suites,1,43200,1,61
+3249,4,11219,Luxury Villa Inn,1,5800,5,14
+3250,1,11220,Homely Retreat,1,26000,3,102
+3251,4,11221,Deluxe Retreat,1,9300,2,8
+3252,4,11222,Charming Hideaway,1,61400,7,14
+3253,1,11223,Grand Resort,1,6500,5,60
+3254,2,12408,Mountain Retreat GuestHouse,1,17800,3,3
+3255,1,12409,Exquisite Boutique Hotel,1,49100,6,99
+3256,1,12412,Exquisite Boutique Residence,1,9700,1,110
+3257,5,12413,Serene Manor,1,61400,3,2
+3258,2,12414,City Loft Inn,1,33900,1,5
+3259,2,12415,Mirage Hideaway,1,12300,1,13
+3260,1,12417,Homely Retreat,0,44800,2,122
+3261,1,12418,Refresh Residence,1,17800,3,71
+3262,5,12423,Amuse Inn,1,5900,4,8
+3263,4,12425,Mountain Retreat Lodge,1,7600,4,11
+3264,4,12430,Moonlight Hideaway,1,7000,5,4
+3265,4,12431,Grand Retreat,1,60300,1,2
+3266,1,12432,Balance Suites,1,15300,7,100
+3267,4,12433,Moonlight Retreat,1,28300,2,12
+3268,5,12434,Modern Manor,1,7700,5,13
+3269,4,12435,Mirage Haven,1,9200,6,3
+3270,2,12436,Luxury Villa Haven,1,5800,2,14
+3271,1,12438,Serene Lodge,1,29900,2,109
+3272,4,12440,Charming Inn,1,45500,6,3
+3273,4,12441,City Loft Haven,1,7900,5,13
+3274,3,12442,Beach House Manor,1,32600,7,20
+3275,2,12444,Beach House Hideaway,1,7000,1,10
+3276,2,12445,Mirage House,1,39200,3,9
+3277,4,12447,Exquisite Inn,1,6400,7,13
+3278,2,12448,Serene Inn,1,14700,7,3
+3279,4,12452,Beach House Haven,1,33900,7,6
+3280,4,12455,Grand Manor,1,7700,6,7
+3281,5,12456,Cozy Hideaway,1,8200,1,3
+3282,5,12458,Rustic House,1,9300,7,12
+3283,1,12463,Mirage Retreat,1,39800,7,147
+3284,4,12464,Mountain Retreat Inn,1,33700,3,9
+3285,2,12466,City Loft Lodge,1,9900,4,4
+3286,3,12469,Modern Manor,1,9400,4,13
+3287,4,12470,Balance Lodge,1,55200,7,6
+3288,4,12471,Homely Manor,1,6300,1,10
+3289,4,12472,Cozy GuestHouse,1,38600,1,11
+3290,2,12473,Exalted Manor,1,7100,4,8
+3291,2,12477,Mirage Haven,1,35000,5,7
+3292,3,12482,Mountain Retreat Manor,1,16900,4,27
+3293,2,12484,Exalted House,1,7400,2,7
+3294,1,11229,Amuse Retreat,1,7300,5,137
+3295,2,11235,Serene House,1,45700,1,10
+3296,4,11236,Charming Lodge,1,18400,1,13
+3297,1,11238,Serene Residence,1,53100,2,68
+3298,5,11239,Refresh House,1,17600,3,8
+3299,4,11242,Charming Manor,1,32300,4,11
+3300,5,11243,Mountain Retreat Cottage,0,28400,6,2
+3301,4,11246,Grand Haven,1,9000,4,7
+3302,1,11249,Luxury Villa Lodge,1,37300,4,147
+3303,2,11250,Homely Inn,1,33600,3,8
+3304,4,11251,Grand House,1,14000,3,9
+3305,3,11252,Mirage Hideaway,1,38100,4,12
+3306,5,11253,Exquisite GuestHouse,1,9300,7,13
+3307,1,11254,Amuse Resort,1,24000,1,62
+3308,3,11255,Balance Cottage,1,5700,5,17
+3309,5,11258,City Loft House,1,9700,4,4
+3310,3,11261,Cosy GuestHouse,1,6900,5,15
+3311,4,11262,City Loft Cottage,1,9400,2,5
+3312,4,11264,Exquisite GuestHouse,1,46300,6,4
+3313,4,11265,Exquisite Retreat,1,61100,7,10
+3314,1,11266,Beach House Lodge,1,26200,4,148
+3315,1,11267,Serene Lodge,1,50100,6,130
+3316,2,11268,Luxury Villa Manor,1,30700,6,5
+3317,1,11272,Deluxe Resort,1,56100,2,91
+3318,2,11275,Deluxe Lodge,1,36800,3,13
+3319,1,11276,Cozy Residence,1,37500,6,106
+3320,1,11278,Beach House Boutique Residence,1,17000,3,135
+3321,1,11279,Deluxe Oasis,1,15300,3,79
+3322,1,11280,Exalted Boutique Residence,1,37000,3,151
+3323,5,11281,Luxury Villa Lodge,1,18300,3,9
+3324,2,11287,Grand Lodge,1,60500,6,2
+3325,2,11290,Exquisite Haven,1,44200,5,14
+3326,4,11292,Exquisite Manor,1,5900,5,2
+3327,5,11293,Homely Hideaway,1,56400,5,4
+3328,1,11297,Moonlight Oasis,1,9500,2,68
+3329,2,11298,Modern Cottage,1,5700,1,13
+3330,4,11301,Cosy Haven,1,29600,2,11
+3331,3,11302,Refresh Inn,1,42200,4,21
+3332,1,11303,Luxury Villa Lodge,1,6400,4,152
+3333,5,11304,Beach House GuestHouse,1,8300,5,13
+3334,4,12492,Exquisite GuestHouse,1,46400,7,12
+3335,2,12494,Cosy Cottage,1,10700,6,12
+3336,1,12496,Amuse Oasis,1,9400,4,137
+3337,2,12497,Mountain Retreat Hideaway,1,7300,2,2
+3338,4,12498,Moonlight Hideaway,1,19600,1,6
+3339,4,12503,Charming Cottage,1,16900,5,8
+3340,1,12506,Grand Lodge,1,33500,4,119
+3341,5,12507,Cozy Manor,1,29700,2,12
+3342,1,12508,Exalted Suites,1,49500,5,143
+3343,3,12511,Grand Lodge,1,26800,7,27
+3344,4,12513,Mountain Retreat Hideaway,1,53800,1,3
+3345,1,12516,City Loft Boutique Hotel,1,60800,2,74
+3346,4,12518,Moonlight Manor,1,10900,3,4
+3347,1,12523,Cozy Hotel,1,9400,4,141
+3348,1,12525,Modern Retreat,1,57900,3,158
+3349,4,12526,Serene Cottage,1,20200,7,5
+3350,4,12530,Serene Inn,1,15900,3,6
+3351,1,12531,Mirage Suites,1,38900,7,96
+3352,2,12532,Homely Inn,1,51300,7,9
+3353,3,12533,Cozy GuestHouse,1,34400,6,24
+3354,3,12534,Luxury Villa Retreat,1,20600,4,27
+3355,1,12536,Refresh Oasis,1,19900,7,64
+3356,4,12537,Cosy Hideaway,1,34400,7,7
+3357,2,12538,Cozy Hideaway,1,19500,3,14
+3358,2,12542,Luxury Villa Retreat,1,23600,6,11
+3359,2,12546,Refresh House,1,11600,2,5
+3360,3,12547,Deluxe Inn,1,50400,5,16
+3361,5,12548,Amuse GuestHouse,1,19000,5,5
+3362,1,12551,Balance Oasis,1,64900,2,135
+3363,5,12552,Cozy Lodge,1,59800,6,11
+3364,5,12554,Cosy Manor,1,7500,5,7
+3365,3,12555,Moonlight Haven,1,11200,6,27
+3366,1,12561,Deluxe Boutique Suites,1,8400,6,123
+3367,4,12563,Exquisite Manor,1,64000,1,13
+3368,1,12565,Cosy Boutique Suites,1,5100,6,67
+3369,5,12566,Luxury Villa House,1,6300,4,3
+3370,5,11307,Exalted Haven,1,5800,5,14
+3371,5,11308,Deluxe Hideaway,1,12000,5,12
+3372,2,11309,Modern Cottage,1,53000,1,6
+3373,4,11310,Exalted Haven,1,23300,4,9
+3374,3,11311,Exquisite Retreat,1,7700,1,14
+3375,2,11312,Cosy Lodge,1,10000,3,7
+3376,1,11313,Refresh Oasis,1,41400,1,106
+3377,4,11315,Cosy House,1,21900,3,4
+3378,1,11321,Moonlight Boutique Suites,1,49300,3,51
+3379,1,11322,Modern Oasis,1,9200,4,113
+3380,2,11323,Balance GuestHouse,1,9500,5,8
+3381,3,11324,Exquisite GuestHouse,1,7700,7,20
+3382,1,11325,Exquisite Boutique Hotel,1,49900,1,149
+3383,5,11326,Mirage GuestHouse,1,43300,4,14
+3384,4,11328,Exquisite Hideaway,1,8400,7,2
+3385,2,11329,Deluxe GuestHouse,1,7800,5,13
+3386,1,11330,Serene Resort,1,46400,3,147
+3387,4,11333,Exalted GuestHouse,1,46500,6,5
+3388,2,11337,Cozy Haven,1,25300,7,13
+3389,1,11339,Refresh Lodge,1,55500,7,84
+3390,5,11340,Charming Retreat,1,22800,6,4
+3391,2,11342,Exalted Lodge,1,13300,4,11
+3392,1,11344,Charming Lodge,1,13800,4,91
+3393,1,11345,Cosy Oasis,1,9700,2,81
+3394,3,11346,Modern House,0,7700,7,29
+3395,2,11347,Serene GuestHouse,1,6800,5,3
+3396,2,11349,Rustic Lodge,1,23300,3,11
+3397,3,11352,Exalted Inn,1,17500,2,22
+3398,2,11353,Rustic Inn,1,7500,7,2
+3399,1,11355,Refresh Suites,1,6000,2,93
+3400,1,11356,Amuse Retreat,1,9900,3,103
+3401,4,11357,Rustic Manor,1,36500,1,9
+3402,3,11362,Moonlight Haven,1,20400,2,17
+3403,2,11364,Mountain Retreat GuestHouse,1,5900,4,10
+3404,1,11368,Homely Boutique Residence,1,36700,2,126
+3405,1,11370,Exquisite Residence,1,52300,2,68
+3406,2,11372,Rustic Hideaway,1,38300,7,12
+3407,3,11374,Grand Inn,1,9600,5,26
+3408,4,11379,Homely Manor,1,21700,5,7
+3409,1,11386,Mirage Boutique Residence,1,16100,5,60
+3410,3,12569,Mountain Retreat Manor,1,13200,3,18
+3411,3,12571,Balance Lodge,1,19700,5,24
+3412,4,12573,Refresh Manor,1,8100,6,14
+3413,2,12576,Mountain Retreat Haven,1,8200,2,13
+3414,2,12578,Balance Lodge,1,14100,4,8
+3415,4,12580,Amuse Haven,1,56500,6,4
+3416,5,12581,Cosy Lodge,1,5400,3,11
+3417,3,12582,Refresh Inn,1,9100,4,13
+3418,4,12583,Rustic House,1,8900,3,7
+3419,1,12584,Homely Boutique Residence,1,19600,4,93
+3420,2,12589,Rustic Hideaway,1,36300,1,13
+3421,2,12590,Homely Hideaway,1,9000,3,7
+3422,1,12592,City Loft Boutique Hotel,1,7800,7,94
+3423,4,12593,Exquisite Manor,1,61300,2,3
+3424,1,12594,Modern Lodge,1,49300,7,126
+3425,4,12596,Luxury Villa Inn,1,28200,2,5
+3426,1,12597,Homely Residence,1,9300,2,69
+3427,2,12599,Homely Inn,1,5600,5,3
+3428,5,12600,Deluxe Manor,1,10000,3,13
+3429,4,12601,Refresh Cottage,1,9300,4,8
+3430,5,12605,Beach House Inn,1,34600,7,3
+3431,4,12606,Modern House,1,18300,5,8
+3432,1,12608,Mirage Boutique Residence,1,63800,7,98
+3433,4,12611,Charming Manor,1,29000,2,8
+3434,1,12613,Refresh Boutique Suites,1,32100,2,83
+3435,3,12614,Exalted House,1,18500,3,25
+3436,1,12615,Serene Lodge,1,19100,7,134
+3437,1,12617,Cozy Boutique Suites,1,20200,3,141
+3438,3,12619,Luxury Villa GuestHouse,1,8400,1,18
+3439,2,12620,Amuse Hideaway,1,5700,4,10
+3440,2,12624,Luxury Villa Manor,1,6100,5,9
+3441,1,12628,City Loft Residence,1,9900,7,160
+3442,4,12630,Serene Lodge,1,5300,7,11
+3443,1,12632,Balance Boutique Residence,1,35500,7,143
+3444,4,12633,Exquisite GuestHouse,1,44700,3,3
+3445,4,12635,Serene House,1,40000,2,14
+3446,1,12637,Serene Oasis,1,19300,3,144
+3447,1,12638,Balance Boutique Residence,1,11200,2,101
+3448,1,12641,Luxury Villa Residence,1,57700,7,155
+3449,2,12642,Grand Hideaway,1,9900,5,2
+3450,1,12643,Mountain Retreat Oasis,1,9700,4,119
+3451,2,12644,Beach House Inn,1,50300,4,11
+3452,4,12646,Cozy Hideaway,1,18100,2,13
+3453,1,11390,Homely Boutique Hotel,1,21500,7,84
+3454,2,11391,Grand House,1,15300,6,10
+3455,1,11392,Cosy Resort,1,6200,4,114
+3456,1,11394,Moonlight Boutique Suites,1,10000,6,127
+3457,4,11397,Mirage GuestHouse,1,27400,7,3
+3458,3,11401,Luxury Villa House,1,60200,3,29
+3459,4,11402,Rustic Haven,1,46600,1,14
+3460,3,11403,Exquisite Lodge,1,52800,3,16
+3461,4,11406,Mirage Hideaway,1,9400,4,4
+3462,4,11407,Deluxe Retreat,1,9400,2,10
+3463,2,11410,Exquisite Retreat,1,5500,7,5
+3464,1,11413,Balance Lodge,1,24600,6,61
+3465,2,11415,Serene Lodge,1,46800,5,4
+3466,1,11416,Beach House Boutique Suites,1,39600,3,54
+3467,5,11418,Serene Hideaway,1,10200,5,7
+3468,2,11420,Exquisite Lodge,1,32200,2,8
+3469,5,11424,Mountain Retreat Lodge,1,32700,6,13
+3470,2,11427,Moonlight Lodge,1,5600,2,4
+3471,1,11428,Beach House Residence,1,26000,1,110
+3472,4,11430,Refresh Haven,1,64700,3,5
+3473,1,11431,Cozy Hotel,1,14200,2,117
+3474,4,11432,Amuse Inn,1,58200,3,10
+3475,4,11433,Serene House,1,18700,5,8
+3476,2,11434,Luxury Villa Retreat,1,37300,3,9
+3477,2,11435,Homely Inn,1,22700,6,13
+3478,5,11436,Homely Haven,1,9800,1,10
+3479,4,11443,Balance Cottage,1,23600,5,9
+3480,3,11444,Mirage Lodge,1,15900,1,19
+3481,4,11446,Grand House,1,43300,2,5
+3482,2,11448,Modern GuestHouse,1,41900,2,11
+3483,1,11450,Serene Retreat,1,23600,6,109
+3484,1,11451,Mirage Boutique Residence,1,6800,3,105
+3485,3,11455,Cosy Hideaway,1,40700,6,21
+3486,1,11456,Moonlight Boutique Residence,1,56800,6,60
+3487,1,11457,Serene Boutique Residence,1,59400,2,104
+3488,1,11459,Refresh Residence,1,60400,1,83
+3489,1,11461,Beach House Residence,0,43600,4,73
+3490,3,11462,Luxury Villa GuestHouse,1,25700,2,28
+3491,4,11463,Mirage Manor,1,51100,6,7
+3492,4,11465,Refresh GuestHouse,1,5600,2,6
+3493,2,11467,Beach House Retreat,1,26100,3,12
+3494,3,12650,Homely Hideaway,1,63700,4,23
+3495,4,12651,Exquisite Cottage,1,15900,3,3
+3496,3,12652,Moonlight Manor,1,9400,5,20
+3497,5,12654,Moonlight Manor,1,47900,2,3
+3498,4,12655,Cozy Retreat,0,50300,6,14
+3499,3,12656,Cozy Cottage,1,52300,1,25
+3500,4,12657,Modern House,1,5200,4,7
+3501,5,12658,City Loft Haven,1,57400,6,13
+3502,2,12659,Mirage GuestHouse,1,6600,5,8
+3503,4,12663,Cosy Retreat,1,6000,7,5
+3504,4,12664,Moonlight House,1,5100,3,3
+3505,5,12668,Balance Inn,1,38900,6,11
+3506,1,12669,Homely Boutique Hotel,1,7800,4,155
+3507,1,12671,Deluxe Lodge,1,35100,6,105
+3508,1,12672,Deluxe Boutique Suites,1,34100,2,74
+3509,2,12673,Amuse GuestHouse,1,16200,1,2
+3510,2,12675,Beach House Inn,1,7300,4,8
+3511,4,12676,Grand Hideaway,1,29400,2,14
+3512,1,12680,Mountain Retreat Lodge,1,6100,4,118
+3513,4,12681,Mountain Retreat GuestHouse,1,16000,5,7
+3514,2,12682,Cosy Lodge,1,34700,6,4
+3515,1,12683,Cosy Boutique Hotel,1,9200,7,138
+3516,1,12685,City Loft Oasis,1,51400,3,56
+3517,5,12686,Balance Haven,1,9500,2,8
+3518,2,12687,Beach House Cottage,1,45500,5,12
+3519,1,12688,Exquisite Boutique Hotel,1,24500,5,141
+3520,2,12689,Cosy House,1,8500,5,6
+3521,5,12690,Exquisite House,1,12300,2,6
+3522,4,12692,Beach House Manor,1,7600,3,10
+3523,4,12694,Beach House Retreat,1,56300,4,3
+3524,4,12696,Amuse Lodge,1,20900,2,3
+3525,2,12699,Serene Hideaway,1,8300,3,9
+3526,4,12700,Mountain Retreat Inn,1,5600,3,7
+3527,1,12701,Rustic Lodge,1,18100,2,112
+3528,1,12702,Deluxe Resort,1,7300,2,146
+3529,3,12705,Beach House Lodge,1,59500,6,21
+3530,2,12707,Modern Manor,1,20300,5,2
+3531,5,12712,Exquisite Inn,1,63000,7,11
+3532,3,12713,Modern GuestHouse,1,61600,5,27
+3533,4,12715,Homely Haven,1,11000,1,13
+3534,1,12717,Exquisite Hotel,1,20400,5,125
+3535,1,12719,Rustic Retreat,1,36800,5,128
+3536,1,12722,City Loft Hotel,1,6200,5,124
+3537,4,12723,Grand House,1,56100,3,12
+3538,4,12724,Homely Cottage,1,8700,2,4
+3539,1,12726,Exquisite Lodge,1,8400,1,107
+3540,4,12728,Luxury Villa Cottage,1,24100,1,10
+3541,3,12730,Exalted Inn,1,33600,4,18
+3542,1,11468,Refresh Suites,1,55300,7,66
+3543,3,11469,Homely Cottage,1,58200,4,23
+3544,1,11471,Luxury Villa Residence,1,9300,3,104
+3545,1,11474,Refresh Resort,1,5100,3,113
+3546,4,11475,Beach House House,1,11000,5,7
+3547,2,11476,Cosy Inn,1,8800,6,10
+3548,3,11477,Modern Manor,1,19000,1,30
+3549,3,11480,Modern Retreat,1,8700,2,20
+3550,4,11482,City Loft Retreat,1,14000,4,4
+3551,1,11483,Exalted Residence,1,8000,1,98
+3552,4,11484,Charming Inn,1,8600,1,10
+3553,4,11486,Beach House Haven,1,16700,2,11
+3554,4,11487,Serene Hideaway,1,18500,1,8
+3555,2,11490,Homely Retreat,1,5500,4,5
+3556,5,11491,Serene Haven,1,6200,6,9
+3557,3,11493,Exquisite GuestHouse,1,29600,4,15
+3558,1,11494,Homely Resort,1,9500,2,62
+3559,2,11495,Homely House,1,21800,5,3
+3560,1,11498,City Loft Oasis,1,33000,6,118
+3561,4,12733,Cozy Retreat,1,7300,7,6
+3562,4,12734,Moonlight Lodge,1,33100,7,10
+3563,1,12735,Refresh Boutique Suites,1,8400,1,78
+3564,1,12739,Charming Residence,1,24500,3,92
+3565,4,12745,Grand GuestHouse,1,12200,2,6
+3566,2,12747,Mirage Lodge,1,38700,1,12
+3567,1,12748,Serene Resort,1,33700,4,83
+3568,2,12750,Homely Lodge,1,5700,4,6
+3569,3,12751,Homely Hideaway,1,55600,4,24
+3570,2,12755,Amuse Hideaway,1,57300,2,5
+3571,3,12756,Amuse Lodge,1,27000,7,27
+3572,3,12757,Rustic Inn,1,35800,3,14
+3573,2,12758,Deluxe Lodge,1,21400,4,7
+3574,1,12760,Luxury Villa Retreat,0,49200,4,92
+3575,1,12763,Homely Oasis,1,8800,2,154
+3576,1,12764,Homely Hotel,1,11500,5,114
+3577,5,12766,Mirage Retreat,1,12500,7,5
+3578,2,12767,Grand Cottage,1,29700,6,10
+3579,2,12769,Refresh Lodge,1,7300,1,8
+3580,5,12771,Rustic Manor,1,55900,5,5
+3581,1,12772,City Loft Lodge,1,8900,6,103
+3582,4,12775,Charming Manor,1,8400,4,4
+3583,4,12776,Moonlight Lodge,1,21900,5,4
+3584,1,12777,Serene Boutique Residence,1,49000,4,128
+3585,5,12778,Rustic Cottage,0,27200,1,5
+3586,4,12779,Exalted Haven,1,6900,6,4
+3587,2,12784,Homely Manor,1,15900,4,3
+3588,4,12785,Charming Manor,1,9200,7,2
+3589,1,12787,Serene Boutique Suites,1,21000,3,122
+3590,2,12788,Amuse Manor,1,28300,6,2
+3591,3,12789,Refresh Manor,1,23700,3,10
+3592,4,12791,Amuse GuestHouse,1,34700,5,4
+3593,3,12792,Homely Retreat,1,40200,7,27
+3594,2,12794,Rustic Haven,1,8600,3,11
+3595,4,12796,Deluxe GuestHouse,1,45000,6,8
+3596,1,12798,Charming Suites,1,6700,5,97
+3597,5,12800,Deluxe GuestHouse,1,8300,6,13
+3598,1,12802,Refresh Lodge,1,39400,3,102
+3599,2,12804,Mountain Retreat Manor,1,11000,5,6
+3600,2,12808,Luxury Villa Cottage,1,30100,1,6
+3601,4,12812,Luxury Villa Hideaway,1,62900,6,7
+3602,1,12813,Deluxe Boutique Suites,1,35500,3,65
+3603,3,12814,Refresh Inn,1,38800,2,23
+3604,3,12815,Charming GuestHouse,1,10400,3,15
+3605,3,12818,Grand Hideaway,1,52800,5,22
+3606,1,12819,Modern Boutique Residence,1,51800,4,123
+3607,5,12820,City Loft Hideaway,1,11200,5,5
+3608,4,12821,Refresh Hideaway,1,40400,5,14
+3609,4,12824,Serene Cottage,1,14200,5,6
+3610,4,12827,Mirage Manor,1,27600,6,6
+3611,1,12828,Rustic Boutique Suites,1,48900,2,75
+3612,3,12829,Amuse Haven,1,39100,5,21
+3613,1,12831,Deluxe Suites,1,6700,3,102
+3614,1,12832,Luxury Villa Boutique Hotel,1,33500,2,87
+3615,4,12835,Amuse Hideaway,1,5700,7,6
+3616,2,12841,Mirage Haven,1,23400,2,2
+3617,1,12842,Charming Hotel,1,19300,7,151
+3618,4,12845,Exquisite Lodge,1,5700,7,7
+3619,5,12846,Mirage Retreat,1,35300,2,14
+3620,3,12847,Amuse Inn,1,7900,3,26
+3621,2,12848,Beach House Lodge,1,8300,2,5
+3622,3,12849,Homely Haven,1,47800,2,22
+3623,2,12850,Exquisite Inn,1,42600,2,6
+3624,3,12852,Exquisite Manor,1,45000,3,21
+3625,1,12853,Charming Suites,1,40300,6,75
+3626,4,12855,Cosy Manor,1,16400,6,14
+3627,3,12859,Serene GuestHouse,1,8400,6,24
+3628,4,12860,Exquisite Cottage,1,9800,7,12
+3629,2,12861,City Loft Manor,1,5500,4,3
+3630,3,12862,Mountain Retreat GuestHouse,1,10400,1,12
+3631,3,12863,Refresh Retreat,1,35100,1,17
+3632,1,12864,Beach House Boutique Hotel,1,29800,5,75
+3633,4,12865,Balance GuestHouse,1,5200,3,14
+3634,4,12869,Cozy Lodge,1,18300,3,14
+3635,4,12872,Cosy House,1,24600,6,5
+3636,1,12875,Moonlight Hotel,1,38800,1,116
+3637,1,12876,Exquisite Boutique Hotel,1,9200,3,149
+3638,2,12877,Deluxe GuestHouse,1,6700,4,4
+3639,4,12878,Cozy Manor,1,49000,1,9
+3640,4,12880,Charming Hideaway,1,19100,7,13
+3641,4,12885,Beach House Haven,1,19800,6,13
+3642,4,12886,Serene Hideaway,1,13400,7,8
+3643,5,12887,Modern Hideaway,1,25700,4,12
+3644,1,12889,Moonlight Boutique Suites,1,37900,1,65
+3645,1,12890,Modern Boutique Hotel,1,16700,2,92
+3646,3,12891,Cosy Hideaway,1,5200,2,16
+3647,3,10279,Exquisite Retreat,1,20100,1,21
+3648,2,10283,Beach House Cottage,1,20500,6,12
+3649,4,10287,Grand House,1,50000,4,7
+3650,1,10288,Modern Boutique Residence,1,23100,2,140
+3651,1,10289,Cozy Resort,1,46200,4,96
+3652,1,10290,Moonlight Hotel,1,28200,2,76
+3653,1,10293,Cozy Resort,1,11100,6,68
+3654,1,10295,Exalted Boutique Residence,1,39700,7,51
+3655,3,10297,Exalted GuestHouse,1,8900,1,16
+3656,1,10298,Grand Boutique Hotel,1,23200,6,136
+3657,4,10299,Amuse Haven,1,19700,5,12
+3658,5,10301,Grand Lodge,1,14100,3,10
+3659,1,10303,Luxury Villa Lodge,1,17800,1,104
+3660,1,10304,Modern Retreat,1,5100,7,52
+3661,4,10306,Modern House,0,30000,1,5
+3662,4,10307,Homely Manor,1,8300,6,2
+3663,3,10309,Rustic Haven,1,8900,1,24
+3664,4,10310,Grand Cottage,1,19700,5,6
+3665,4,10312,Mountain Retreat Retreat,1,44400,5,12
+3666,1,10313,Deluxe Resort,1,5300,1,61
+3667,5,10315,Amuse GuestHouse,1,15800,5,4
+3668,4,10316,Mountain Retreat Cottage,1,45800,3,5
+3669,2,10317,Deluxe Manor,1,54500,5,11
+3670,3,10318,Luxury Villa Cottage,1,60200,3,30
+3671,3,10319,Mirage Manor,1,5600,3,20
+3672,5,10320,Moonlight Retreat,1,8400,4,13
+3673,1,10325,Beach House Oasis,0,26900,1,111
+3674,2,10326,Serene Cottage,1,5100,1,7
+3675,2,10327,Mountain Retreat Cottage,1,46000,1,7
+3676,3,10331,Rustic Haven,1,38400,4,29
+3677,2,10332,Luxury Villa Haven,1,6900,3,6
+3678,3,10333,Exalted Lodge,1,51700,5,11
+3679,2,10335,Exquisite GuestHouse,1,5900,2,3
+3680,4,10336,Cosy Retreat,1,35000,4,2
+3681,4,10339,Beach House Retreat,1,36800,1,10
+3682,4,10341,Moonlight Hideaway,1,19800,7,13
+3683,2,10343,Luxury Villa Cottage,1,9700,2,2
+3684,5,10344,Mirage Cottage,1,24300,6,6
+3685,1,10346,Modern Boutique Hotel,1,31600,5,96
+3686,3,10347,Balance House,1,7400,3,13
+3687,1,10348,Luxury Villa Lodge,1,6200,5,99
+3688,1,10351,Charming Lodge,1,56100,4,60
+3689,3,10352,Amuse Cottage,1,5700,3,14
+3690,1,10353,Rustic Boutique Hotel,1,55700,5,148
+3691,1,10354,City Loft Residence,1,7100,2,70
+3692,2,12892,Exquisite Lodge,1,50100,6,14
+3693,4,12894,Exquisite GuestHouse,1,6700,1,6
+3694,5,12895,Exalted Manor,1,26100,4,5
+3695,1,12900,Amuse Hotel,1,27500,3,137
+3696,4,12904,Mirage Hideaway,1,5100,2,4
+3697,2,12905,Cosy Lodge,1,28500,6,14
+3698,5,12906,Luxury Villa Lodge,1,7300,1,5
+3699,1,12907,Deluxe Retreat,1,32300,1,78
+3700,5,12910,Mountain Retreat Haven,1,5800,6,4
+3701,2,12913,Mountain Retreat Hideaway,1,38400,5,2
+3702,1,12915,Moonlight Retreat,1,18600,4,115
+3703,1,12916,Homely Residence,1,39900,5,72
+3704,3,12918,Amuse Retreat,1,42900,6,10
+3705,5,12920,Balance Hideaway,1,27300,2,11
+3706,2,12922,Beach House Lodge,1,25400,3,8
+3707,4,12924,Beach House Lodge,1,45800,5,8
+3708,5,12925,Mountain Retreat GuestHouse,1,5200,4,3
+3709,5,12926,Amuse Cottage,1,40300,5,14
+3710,5,12928,Cozy Haven,1,54500,1,3
+3711,1,12930,Deluxe Boutique Suites,1,58200,7,101
+3712,5,12933,City Loft Haven,1,39200,2,14
+3713,1,12935,Deluxe Resort,1,49700,1,146
+3714,4,12937,Modern GuestHouse,1,9700,2,14
+3715,3,12939,Balance Hideaway,1,28600,1,14
+3716,1,12943,Deluxe Suites,1,8700,2,100
+3717,4,12947,Mirage Retreat,1,38900,4,14
+3718,1,12948,Mountain Retreat Resort,1,56900,5,152
+3719,2,12949,Modern GuestHouse,0,6400,4,8
+3720,4,12952,Balance Cottage,1,5400,5,4
+3721,4,12955,Moonlight Lodge,1,64800,5,11
+3722,1,12956,Moonlight Residence,1,9200,3,134
+3723,4,12957,Moonlight Inn,1,6100,5,6
+3724,1,12958,Balance Boutique Suites,1,8100,1,133
+3725,1,12960,Rustic Hotel,1,6600,3,154
+3726,3,12962,Grand Manor,1,21200,6,24
+3727,3,12964,Mountain Retreat House,1,56200,5,21
+3728,1,12965,Mirage Lodge,1,7500,1,150
+3729,4,12967,Amuse Cottage,1,56000,6,2
+3730,1,12968,Grand Oasis,1,25300,6,61
+3731,4,12971,Balance Lodge,1,5000,3,2
+3732,1,12972,Mirage Oasis,1,21400,3,70
+3733,1,10355,City Loft Suites,1,26800,5,144
+3734,2,10356,Mirage GuestHouse,1,23600,5,5
+3735,4,10358,Charming Inn,1,16200,5,6
+3736,1,10359,Mountain Retreat Oasis,1,15700,5,96
+3737,1,10361,Balance Retreat,1,59600,3,123
+3738,3,10362,Mirage GuestHouse,1,47200,5,16
+3739,4,10364,Mountain Retreat GuestHouse,1,6300,6,11
+3740,5,10367,Exalted Haven,1,22300,7,10
+3741,1,10372,Serene Residence,1,5100,6,105
+3742,5,10375,Grand Haven,1,31600,3,10
+3743,4,10376,Beach House Cottage,1,14100,7,13
+3744,1,10378,Amuse Lodge,1,7700,2,73
+3745,4,10381,Cosy Lodge,1,58000,6,10
+3746,1,10382,Deluxe Retreat,1,26500,7,122
+3747,2,10383,Balance Retreat,1,58300,5,9
+3748,4,10384,Luxury Villa House,1,52900,6,11
+3749,1,10385,Modern Oasis,1,24300,6,82
+3750,2,10386,Exquisite Cottage,1,19600,4,7
+3751,1,10387,Charming Retreat,1,42600,1,133
+3752,4,10392,Mirage Retreat,1,7400,3,8
+3753,1,10393,Amuse Lodge,1,11500,7,149
+3754,4,10394,Beach House Lodge,1,29400,2,2
+3755,4,10397,Charming Manor,1,45900,2,8
+3756,1,10398,Grand Boutique Hotel,1,5300,2,93
+3757,2,10399,City Loft Manor,1,24200,6,9
+3758,4,10400,Cozy Inn,1,29800,4,3
+3759,3,10403,Grand Hideaway,1,46400,1,28
+3760,3,10404,Mountain Retreat Haven,1,42800,4,12
+3761,1,10405,Serene Lodge,1,12100,1,141
+3762,1,10408,Deluxe Retreat,1,20100,6,150
+3763,4,10409,Rustic Retreat,1,8000,3,12
+3764,4,10411,Moonlight Retreat,1,23200,1,12
+3765,3,10412,Cosy Retreat,1,7600,1,26
+3766,3,10413,Grand Hideaway,1,15400,3,30
+3767,4,10414,Exquisite Manor,1,11200,7,3
+3768,2,10416,Moonlight Inn,1,5900,4,10
+3769,1,10418,Exquisite Boutique Suites,1,36500,4,74
+3770,2,10423,Charming Lodge,1,15500,2,10
+3771,1,10424,Deluxe Residence,1,14500,1,56
+3772,3,10425,Cozy GuestHouse,1,54400,3,17
+3773,3,10426,Moonlight Retreat,1,9600,1,15
+3774,3,10429,Homely Cottage,1,21900,5,10
+3775,1,10431,Charming Resort,1,6700,4,134
+3776,3,10433,Beach House Haven,1,44000,5,16
+3777,1,10434,Homely Residence,1,63100,1,50
+3778,4,10435,Amuse Manor,1,8600,2,5
+3779,2,12973,Charming Manor,1,36400,3,6
+3780,1,12974,Mirage Lodge,1,25900,6,64
+3781,2,12975,Cozy Retreat,1,10300,1,8
+3782,4,12978,Refresh Inn,1,7500,3,3
+3783,2,12979,Refresh Hideaway,1,6200,1,7
+3784,4,12980,Deluxe Inn,1,52700,2,4
+3785,1,12986,Modern Oasis,1,9200,6,152
+3786,4,12987,City Loft Cottage,1,8600,7,12
+3787,5,12988,City Loft Haven,1,16800,4,12
+3788,4,12990,Exquisite Hideaway,1,55100,1,10
+3789,4,12994,Homely Hideaway,1,12900,2,3
+3790,4,12995,Cozy Haven,1,14700,5,4
+3791,5,12996,Amuse Lodge,1,45100,7,2
+3792,1,12997,Moonlight Residence,1,6400,7,99
+3793,3,12998,Modern Retreat,1,23900,3,10
+3794,1,10439,Balance Residence,1,10000,3,126
+3795,3,10443,City Loft Haven,1,60200,1,21
+3796,2,10448,Homely Hideaway,1,59900,4,13
+3797,4,10449,Charming Cottage,1,6500,3,13
+3798,2,10450,Charming Retreat,1,40800,1,10
+3799,2,10454,Charming Hideaway,1,41000,7,3
+3800,4,10455,Exquisite Cottage,1,63200,3,7
+3801,3,10456,Deluxe Retreat,1,9000,3,28
+3802,5,10459,Moonlight Lodge,1,7100,5,12
+3803,3,10461,Charming Cottage,1,62200,1,24
+3804,2,10462,Grand Lodge,1,51900,5,11
+3805,4,10467,Mirage Inn,1,21400,2,14
+3806,5,10468,Mirage Lodge,1,12900,4,5
+3807,2,10470,Homely Hideaway,1,7900,6,14
+3808,4,10472,Serene Manor,1,8700,1,12
+3809,4,10473,Modern Retreat,1,27800,1,5
+3810,1,10477,City Loft Oasis,1,44800,7,87
+3811,3,10480,Grand Manor,1,17200,5,26
+3812,4,10481,City Loft Lodge,1,43700,7,13
+3813,4,10482,Amuse GuestHouse,1,45500,7,2
+3814,5,10485,Grand Haven,1,6200,1,14
+3815,2,10486,Mirage House,1,31100,1,4
+3816,1,10487,Exalted Boutique Hotel,1,33900,4,140
+3817,5,10489,Exquisite Cottage,1,18500,5,9
+3818,1,10491,Balance Oasis,1,11200,5,86
+3819,1,10494,Luxury Villa Boutique Hotel,1,5700,6,110
+3820,1,10498,Refresh Oasis,1,23400,7,66
+3821,3,10500,Moonlight Inn,1,62600,1,24
