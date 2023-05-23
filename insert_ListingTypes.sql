@@ -1,6 +1,7 @@
-INSERT INTO ListingTypes VALUES(1,'Apartment');
-INSERT INTO ListingTypes VALUES(2,'Hostel');
-INSERT INTO ListingTypes VALUES(3,'Hotel');
-INSERT INTO ListingTypes VALUES(4,'Guesthouse');
-INSERT INTO ListingTypes VALUES(5,'Student accommodation');
-INSERT INTO ListingTypes VALUES(6,'Vacation Home');
+--DATA
+--LISTINGTYPES
+INSERT INTO LISTINGTYPES VALUES (1, 'Hotel');
+INSERT INTO LISTINGTYPES VALUES (2,'Hostel');
+INSERT INTO LISTINGTYPES VALUES (3, 'Apartment');
+INSERT INTO LISTINGTYPES VALUES (4, 'GuestHouse');
+INSERT INTO LISTINGTYPES VALUES (5, 'Vacation Home');
