@@ -1,3 +1,19 @@
+//First, going to read all the bookings data then for each bookings' check in date which is older than todays date minus 20 days going to generate a random review.
+    public class Booking
+    {
+        public int BookingID { get; set; }
+        public int UserID { get; set; }
+        public int ListingID { get; set; }
+        public string BookingStatus { get; set; }
+        public DateTime BookingDate { get; set; }
+        public string Catering { get; set; }
+        public DateTime CheckInDate { get; set; }
+        public DateTime CheckOutDate { get; set; }
+        public int NumAdults { get; set; }
+        public int NumChildren { get; set; }
+        public string PaymentMethod { get; set; }
+    }
+
     public class Review
     {
         public int ReviewID { get; set; }
@@ -14,19 +30,12 @@
             ExcelReader excelReader = new ExcelReader();
             List<Booking> AllBookings = excelReader.ReadExcelSheet<Booking>(filePathBooking);
 
-            List<Listing> AllListingdata = excelReader.ReadExcelSheet<Listing>(filePath);
-            List<User> AllUSers = excelReader.ReadExcelSheetUsers(filePathUsers);
-
-
             foreach (var row in AllBookings)
             {
                 Console.WriteLine(row.BookingID);
                 Console.WriteLine();
             }
             Console.ReadKey();
-
-
-
 
             string[] reviews =
             {
